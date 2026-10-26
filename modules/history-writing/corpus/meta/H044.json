@@ -1,0 +1,49 @@
+{
+  "id": "H044",
+  "video_id": "15003290134494514849",
+  "account": "王老谈史局",
+  "platform": "channels",
+  "original_path": "corpus/raw/H044.md",
+  "original_sha256": "31f82d371d2d7fa97ecd66b73902d4c9232b64fbdcf7307e28c2d9c62c8da6df",
+  "source_url": null,
+  "published_at": null,
+  "collected_updated_at": null,
+  "original_caption": "康熙四十二年深夜，陪了康熙三十年的索额图被铁链锁进宗人府，不给一句辩解。他是太子亲叔公、擒鳌拜功臣，最后却成“本朝第一罪人”。不直接杀，是康熙最狠的一      历史故事#王老师讲历史#帝王心术#清朝权臣#康熙#索额图#步棋。",
+  "metrics": {
+    "likes": 2275,
+    "saves": 2291,
+    "comments": 83,
+    "shares": 994
+  },
+  "body_chars_with_punctuation": 1790,
+  "raw_path": "corpus/raw/H044.md",
+  "clean_path": "corpus/clean/H044.txt",
+  "split": "validation",
+  "cleaning_status": "仅保守转写清洗，未完成逐句史实核验",
+  "corrections": [],
+  "source_types": [
+    "视频音轨转写"
+  ],
+  "fact_status": "未整体核实",
+  "title": "索额图失势与太子关系",
+  "era": "明清",
+  "era_tags": [
+    "清"
+  ],
+  "people": [
+    "索额图",
+    "康熙",
+    "胤礽",
+    "明珠"
+  ],
+  "conflict": "亲近与继承猜忌",
+  "template": "T1",
+  "hook_type": "拘捕场景",
+  "structure": "深夜入狱→功臣背景→太子关系→失势死亡→五年后废太子→秘密悬念",
+  "ending": "未兑现秘密续集",
+  "cluster": "索额图失势",
+  "source_class": "史事混合大量演绎",
+  "risk": "胤礽多处错名；官职身份时序待核；三秘密未提供证据，不能延续造谜",
+  "next_angle": "从太子支持者的角色变化解释失势",
+  "annotation_status": "全文阅读后人工结构与风险标注；不是逐句史实鉴定"
+}

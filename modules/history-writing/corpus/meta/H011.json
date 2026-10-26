@@ -1,0 +1,49 @@
+{
+  "id": "H011",
+  "video_id": "14976710352822082044",
+  "account": "王老师读史观心",
+  "platform": "channels",
+  "original_path": "corpus/raw/H011.md",
+  "original_sha256": "438ad1a0b5b31a29361726d68e8ae2fc1349e0daf00c38292b87ffd7c5f41a6c",
+  "source_url": null,
+  "published_at": null,
+  "collected_updated_at": null,
+  "original_caption": "狠人刘裕灭门司马家，最后落了个什么下场？#司马懿#历史故事#人情世故#人间清醒#刘裕",
+  "metrics": {
+    "likes": 488,
+    "saves": 910,
+    "comments": 63,
+    "shares": 659
+  },
+  "body_chars_with_punctuation": 1207,
+  "raw_path": "corpus/raw/H011.md",
+  "clean_path": "corpus/clean/H011.txt",
+  "split": "discovery",
+  "cleaning_status": "仅保守转写清洗，未完成逐句史实核验",
+  "corrections": [],
+  "source_types": [
+    "视频音轨转写"
+  ],
+  "fact_status": "未整体核实",
+  "title": "刘裕的崛起与后代结局",
+  "era": "三国至两晋南北朝",
+  "era_tags": [
+    "东晋",
+    "南朝",
+    "刘宋"
+  ],
+  "people": [
+    "刘裕",
+    "司马氏"
+  ],
+  "conflict": "个人功业与家族延续",
+  "template": "T1",
+  "hook_type": "强人后果",
+  "structure": "灭司马氏设问→贫困从军→节俭治国→北伐遗憾→后代败亡→宿命解释",
+  "ending": "卖书",
+  "cluster": "刘裕司马氏",
+  "source_class": "史事混合场景演绎",
+  "risk": "刘宋与宋朝须区分；刘裕与刘昱混名；皇族灭绝和因果报应不能作事实因果",
+  "next_angle": "用军功与继承能力的差异解释盛衰",
+  "annotation_status": "全文阅读后人工结构与风险标注；不是逐句史实鉴定"
+}

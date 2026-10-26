@@ -1,0 +1,53 @@
+{
+  "id": "H021",
+  "video_id": "14973886745878272539",
+  "account": "王老师读史观心",
+  "platform": "channels",
+  "original_path": "corpus/raw/H021.md",
+  "original_sha256": "8194059db0ac8bfb9772333b2b16b0b91673b1640995b42245b37addceb55b92",
+  "source_url": null,
+  "published_at": null,
+  "collected_updated_at": null,
+  "original_caption": "这5位离皇位仅一步之遥的狠人，为何把天下又放了回去？#历史#历史人物 #人生哲理 #曹操",
+  "metrics": {
+    "likes": 9019,
+    "saves": 6062,
+    "comments": 333,
+    "shares": 1975
+  },
+  "body_chars_with_punctuation": 1810,
+  "raw_path": "corpus/raw/H021.md",
+  "clean_path": "corpus/clean/H021.txt",
+  "split": "discovery",
+  "cleaning_status": "仅保守转写清洗，未完成逐句史实核验",
+  "corrections": [],
+  "source_types": [
+    "视频音轨转写"
+  ],
+  "fact_status": "未整体核实",
+  "title": "五位未称帝者的不同选择",
+  "era": "跨朝代",
+  "era_tags": [
+    "西周",
+    "东汉末",
+    "唐",
+    "清"
+  ],
+  "people": [
+    "周公",
+    "曹操",
+    "郭子仪",
+    "曾国藩",
+    "多尔衮"
+  ],
+  "conflict": "权势与退让",
+  "template": "T3",
+  "hook_type": "反常选择",
+  "structure": "天下在手却退→五人不同退法→放下尺度→荐书",
+  "ending": "讨论最佩服谁",
+  "cluster": "未称帝者",
+  "source_class": "史事混合假设",
+  "risk": "能当皇帝只是作者假设；五人权力条件不可等同；部分人物结局与善终主题相冲",
+  "next_angle": "从主动交权、暂缓称帝、受制未立三个原因重分",
+  "annotation_status": "全文阅读后人工结构与风险标注；不是逐句史实鉴定"
+}

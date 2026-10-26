@@ -1,0 +1,47 @@
+{
+  "id": "H055",
+  "video_id": "14990892378220333072",
+  "account": "王老谈史局",
+  "platform": "channels",
+  "original_path": "corpus/raw/H055.md",
+  "original_sha256": "6a424625b5d124188420fbb953a58463886238880c33398f883014bbc9005e02",
+  "source_url": null,
+  "published_at": null,
+  "collected_updated_at": null,
+  "original_caption": "雍正三年，赐死圣旨送到年羹尧面前，他磕了三个头却迟迟不肯动。三年前雍正还说“我配不上你这样的臣子”，三年后非杀他不可。年羹尧到底输在哪儿？ #年羹尧 #雍正 #历史故事 #历史文化 #王老师讲历史 #人性智慧",
+  "metrics": {
+    "likes": 268,
+    "saves": 376,
+    "comments": 49,
+    "shares": 213
+  },
+  "body_chars_with_punctuation": 2268,
+  "raw_path": "corpus/raw/H055.md",
+  "clean_path": "corpus/clean/H055.txt",
+  "split": "discovery",
+  "cleaning_status": "仅保守转写清洗，未完成逐句史实核验",
+  "corrections": [],
+  "source_types": [
+    "视频音轨转写"
+  ],
+  "fact_status": "未整体核实",
+  "title": "年羹尧未适应关系变化",
+  "era": "明清",
+  "era_tags": [
+    "清"
+  ],
+  "people": [
+    "年羹尧",
+    "雍正"
+  ],
+  "conflict": "旧情与现实位置",
+  "template": "T2",
+  "hook_type": "等赦场景",
+  "structure": "临死仍等→皇帝阶段需要→失分寸→贺表削权→仍期待旧情→家庭关系变化",
+  "ending": "较缓和的荐书",
+  "cluster": "年羹尧失势",
+  "source_class": "史事混合解读",
+  "risk": "临死等待细节未核；对话大意与原句分开；不把关系变化一概解释为薄情",
+  "next_angle": "讨论同样行为为何在权限改变后有不同后果",
+  "annotation_status": "全文阅读后人工结构与风险标注；不是逐句史实鉴定"
+}

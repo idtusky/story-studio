@@ -1,0 +1,52 @@
+{
+  "id": "H036",
+  "video_id": "14982063873453529626",
+  "account": "王老翻史书",
+  "platform": "channels",
+  "original_path": "corpus/raw/H036.md",
+  "original_sha256": "d8b90ddf161f5458b6d7772cd5099fa93a01cd467def6d4bf6fce4be92bd04e4",
+  "source_url": null,
+  "published_at": null,
+  "collected_updated_at": null,
+  "original_caption": "张嘴说话是本能，闭上嘴才是本事，城府是老实人的防弹衣 #韩非子 #贾诩 #许攸 #三国 #处世智慧 #历史 #人性 #读史 #中年感悟 #说话的艺术",
+  "metrics": {
+    "likes": 205,
+    "saves": 332,
+    "comments": 15,
+    "shares": 647
+  },
+  "body_chars_with_punctuation": 2516,
+  "raw_path": "corpus/raw/H036.md",
+  "clean_path": "corpus/clean/H036.txt",
+  "split": "validation",
+  "cleaning_status": "仅保守转写清洗，未完成逐句史实核验",
+  "corrections": [],
+  "source_types": [
+    "视频音轨转写"
+  ],
+  "fact_status": "未整体核实",
+  "title": "许攸与贾诩的表达边界",
+  "era": "跨朝代",
+  "era_tags": [
+    "战国",
+    "东汉末",
+    "三国",
+    "曹魏"
+  ],
+  "people": [
+    "韩非",
+    "许攸",
+    "贾诩",
+    "曹操"
+  ],
+  "conflict": "表达与自保",
+  "template": "T3",
+  "hook_type": "格言加人物对照",
+  "structure": "格言→许攸显功→贾诩慎交→立嗣问答→现实三条→书",
+  "ending": "荐书与自身经历提问",
+  "cluster": "许攸贾诩",
+  "source_class": "史事与演义混合",
+  "risk": "格言前后出处不能合并；许褚杀许攸为演义；不应把所有倾诉判为错误",
+  "next_angle": "同是谈曹操，许攸与贾诩各在何时对谁说话",
+  "annotation_status": "全文阅读后人工结构与风险标注；不是逐句史实鉴定"
+}

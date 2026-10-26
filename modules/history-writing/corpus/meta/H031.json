@@ -1,0 +1,50 @@
+{
+  "id": "H031",
+  "video_id": "14980596808179063299",
+  "account": "王老翻史书",
+  "platform": "channels",
+  "original_path": "corpus/raw/H031.md",
+  "original_sha256": "3fd2cf1fd8757f7dc48221ae71534f47fdedbf059e00d3f68c3c7bdb89e5b5df",
+  "source_url": null,
+  "published_at": null,
+  "collected_updated_at": null,
+  "original_caption": "杀韩信那天，长乐宫里没进一个男人。动手的是一屋子宫女，家伙是削尖的竹竿#历史 #韩信 #刘邦 #吕后 #萧何 #汉朝 #史记 #功高震主 #读史明智 #历史人物",
+  "metrics": {
+    "likes": 25602,
+    "saves": 35102,
+    "comments": 347,
+    "shares": 20538
+  },
+  "body_chars_with_punctuation": 2708,
+  "raw_path": "corpus/raw/H031.md",
+  "clean_path": "corpus/clean/H031.txt",
+  "split": "discovery",
+  "cleaning_status": "仅保守转写清洗，未完成逐句史实核验",
+  "corrections": [],
+  "source_types": [
+    "视频音轨转写"
+  ],
+  "fact_status": "未整体核实",
+  "title": "韩信从受用到受疑",
+  "era": "秦汉",
+  "era_tags": [
+    "西汉",
+    "楚汉"
+  ],
+  "people": [
+    "韩信",
+    "刘邦",
+    "吕后",
+    "萧何"
+  ],
+  "conflict": "军功与信任变化",
+  "template": "T1",
+  "hook_type": "三个死法疑问",
+  "structure": "竹竿之死→三问→早年与拜将→战功→夺军降爵→诱入钟室→回扣三问",
+  "ending": "人物判断",
+  "cluster": "韩信之死",
+  "source_class": "史事与民间传说混合",
+  "risk": "竹竿宫女三不杀不见本次核对的史记本传；钟室错中室；谋反记载不能隐去",
+  "next_angle": "围绕解除兵权与爵位变化讲关系转折",
+  "annotation_status": "全文阅读后人工结构与风险标注；不是逐句史实鉴定"
+}

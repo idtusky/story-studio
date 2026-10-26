@@ -1,0 +1,50 @@
+{
+  "id": "H018",
+  "video_id": "14977101384618023449",
+  "account": "王老师读史观心",
+  "platform": "channels",
+  "original_path": "corpus/raw/H018.md",
+  "original_sha256": "ac93a49226092d982f6ac829d4e8ca2202ca239e2dcb0f6562e5a0a6e280da4b",
+  "source_url": null,
+  "published_at": null,
+  "collected_updated_at": null,
+  "original_caption": "为什么老实人往往最吃亏？赵云一身本事却挤不进圈子，但他这一生，却写透了多少不愿同流合污的‘干净人’！#赵云#三国历史#人情世故#为人处世",
+  "metrics": {
+    "likes": 6072,
+    "saves": 8469,
+    "comments": 1652,
+    "shares": 4379
+  },
+  "body_chars_with_punctuation": 1911,
+  "raw_path": "corpus/raw/H018.md",
+  "clean_path": "corpus/clean/H018.txt",
+  "split": "discovery",
+  "cleaning_status": "仅保守转写清洗，未完成逐句史实核验",
+  "corrections": [],
+  "source_types": [
+    "视频音轨转写"
+  ],
+  "fact_status": "未整体核实",
+  "title": "赵云的原则与职位",
+  "era": "三国至两晋南北朝",
+  "era_tags": [
+    "东汉末",
+    "三国",
+    "蜀汉"
+  ],
+  "people": [
+    "赵云",
+    "刘备",
+    "诸葛亮"
+  ],
+  "conflict": "原则与分配",
+  "template": "T2",
+  "hook_type": "功劳职位反差",
+  "structure": "救主未入核心→劝还田宅→劝止伐吴→职位对比→孤臣价值",
+  "ending": "敬佩转发",
+  "cluster": "赵云评价",
+  "source_class": "史传与演义混合",
+  "risk": "结义来自文学；官职先后和卒年追谥待核；官位低不自动证明被排挤",
+  "next_angle": "围绕还田宅主张讲个人功劳与公共利益",
+  "annotation_status": "全文阅读后人工结构与风险标注；不是逐句史实鉴定"
+}

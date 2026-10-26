@@ -1,0 +1,49 @@
+{
+  "id": "H040",
+  "video_id": "14985867914114697257",
+  "account": "王老谈史局",
+  "platform": "channels",
+  "original_path": "corpus/raw/H040.md",
+  "original_sha256": "39012544f81c9137853d05e182d9ed0d8c6e3b4c3bd90298b46d51dd922a7067",
+  "source_url": null,
+  "published_at": null,
+  "collected_updated_at": null,
+  "original_caption": "曹冲刚死，曹操就对其他儿子说‘这是你们的幸运’，然后火速杀了他的神童伴读。多年后曹丕当上皇帝，喝醉了哭着说：如果仓舒还在，轮不到我坐这个位子。一个13岁孩子的死，三个细节拼在一起让人后背发凉。你品出什么了吗？ #曹操 #历史故事 #历史文化 #王立群讲史 #历史 #历史人物 #人生感悟",
+  "metrics": {
+    "likes": 14702,
+    "saves": 21602,
+    "comments": 1935,
+    "shares": 14270
+  },
+  "body_chars_with_punctuation": 1872,
+  "raw_path": "corpus/raw/H040.md",
+  "clean_path": "corpus/clean/H040.txt",
+  "split": "discovery",
+  "cleaning_status": "仅保守转写清洗，未完成逐句史实核验",
+  "corrections": [],
+  "source_types": [
+    "视频音轨转写"
+  ],
+  "fact_status": "未整体核实",
+  "title": "曹冲夭折后的三条材料",
+  "era": "三国至两晋南北朝",
+  "era_tags": [
+    "东汉末"
+  ],
+  "people": [
+    "曹冲",
+    "曹操",
+    "曹丕",
+    "周不疑"
+  ],
+  "conflict": "天赋与继承压力",
+  "template": "T2",
+  "hook_type": "父亲反常话语",
+  "structure": "父语→善行与受宠→三条死后材料→阴谋暗示→家庭显露天赋类比",
+  "ending": "育儿焦虑与续集",
+  "cluster": "曹冲夭折",
+  "source_class": "史传片段与阴谋推断混合",
+  "risk": "疾病卒不能推成谋杀；正文与裴注来源不能混为陈寿暗示；无证据不能断言凶手",
+  "next_angle": "讲史料能说什么，保留死因无法确认的边界",
+  "annotation_status": "全文阅读后人工结构与风险标注；不是逐句史实鉴定"
+}

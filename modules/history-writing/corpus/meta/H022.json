@@ -1,0 +1,50 @@
+{
+  "id": "H022",
+  "video_id": "14984449171802102292",
+  "account": "王老师读史观心",
+  "platform": "channels",
+  "original_path": "corpus/raw/H022.md",
+  "original_sha256": "8e0be46ac120a9f3e1b00648f324f6551ea173f9aa56b6962a1a97bb5bc98808",
+  "source_url": null,
+  "published_at": null,
+  "collected_updated_at": null,
+  "original_caption": "中国历史上死得最惨的丞相，不是胡惟庸，而是帮陛下打天下的他！您觉得他是死有余辜，还是令人惋惜？\n#历史 #历史故事 #李斯 #秦始皇 #人生智慧 #老祖宗的智慧",
+  "metrics": {
+    "likes": 836,
+    "saves": 1059,
+    "comments": 85,
+    "shares": 517
+  },
+  "body_chars_with_punctuation": 1851,
+  "raw_path": "corpus/raw/H022.md",
+  "clean_path": "corpus/clean/H022.txt",
+  "split": "validation",
+  "cleaning_status": "仅保守转写清洗，未完成逐句史实核验",
+  "corrections": [],
+  "source_types": [
+    "视频音轨转写"
+  ],
+  "fact_status": "未整体核实",
+  "title": "李斯在沙丘的选择",
+  "era": "秦汉",
+  "era_tags": [
+    "秦",
+    "秦末"
+  ],
+  "people": [
+    "李斯",
+    "赵高",
+    "扶苏",
+    "胡亥"
+  ],
+  "conflict": "保住地位与失去退路",
+  "template": "T1",
+  "hook_type": "惨死之谜",
+  "structure": "处刑反差→沙丘危机→恐惧被替代→改诏→被架空→黄犬遗言",
+  "ending": "底线提醒",
+  "cluster": "李斯沙丘",
+  "source_class": "史事混合场景演绎",
+  "risk": "赵高被审涉及蒙毅不是蒙恬；遗诏内容不可擅改为明确传位；年龄与对白待核",
+  "next_angle": "一项短期自保决定怎样改变后续选择空间",
+  "annotation_status": "全文阅读后人工结构与风险标注；不是逐句史实鉴定"
+}

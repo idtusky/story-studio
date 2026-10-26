@@ -1,0 +1,47 @@
+{
+  "id": "H025",
+  "video_id": "14976753136333494780",
+  "account": "王老翻史书",
+  "platform": "channels",
+  "original_path": "corpus/raw/H025.md",
+  "original_sha256": "4faba37ee1460497e01e75c0711e81fe1f5d652a67c9676c3d0f617b7fa2de38",
+  "source_url": null,
+  "published_at": null,
+  "collected_updated_at": null,
+  "original_caption": "风水、阴阳、坐北朝南，全砌进了一座城里#历史 #宇文恺 #长安城 #隋唐 #中国建筑 #中国文化 #传统文化 #西安 #京都 #中国文化1000问",
+  "metrics": {
+    "likes": 6186,
+    "saves": 7356,
+    "comments": 485,
+    "shares": 12876
+  },
+  "body_chars_with_punctuation": 2606,
+  "raw_path": "corpus/raw/H025.md",
+  "clean_path": "corpus/clean/H025.txt",
+  "split": "discovery",
+  "cleaning_status": "仅保守转写清洗，未完成逐句史实核验",
+  "corrections": [],
+  "source_types": [
+    "视频音轨转写"
+  ],
+  "fact_status": "未整体核实",
+  "title": "宇文恺怎样规划大兴城",
+  "era": "隋唐武周",
+  "era_tags": [
+    "隋",
+    "唐"
+  ],
+  "people": [
+    "宇文恺"
+  ],
+  "conflict": "工程约束与都城秩序",
+  "template": "T5",
+  "hook_type": "熟悉成就陌生人物",
+  "structure": "无名建筑师→迁城水源→选址尺度中轴里坊宫城→工程组织→移动宫殿→今天遗产",
+  "ending": "知识荐书",
+  "cluster": "宇文恺营造",
+  "source_class": "史事与技术解释混合",
+  "risk": "宇文恺姓名转写多样；出生年份、全城九月建成、里坊数与全球排名待核",
+  "next_angle": "从供水与城市位置解释为何另建新都",
+  "annotation_status": "全文阅读后人工结构与风险标注；不是逐句史实鉴定"
+}

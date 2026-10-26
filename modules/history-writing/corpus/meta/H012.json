@@ -1,0 +1,52 @@
+{
+  "id": "H012",
+  "video_id": "14973823122265872931",
+  "account": "王老师读史观心",
+  "platform": "channels",
+  "original_path": "corpus/raw/H012.md",
+  "original_sha256": "750e60388af994fe7cbb4f244f525fe8e3d3eb2170282a67bee78dcc9264ba1f",
+  "source_url": null,
+  "published_at": null,
+  "collected_updated_at": null,
+  "original_caption": "刘邦，一个快50岁的街溜子，凭什么4年干翻项羽？#历史 #历史故事 #处世智慧 #历史人物",
+  "metrics": {
+    "likes": 702,
+    "saves": 1098,
+    "comments": 87,
+    "shares": 1839
+  },
+  "body_chars_with_punctuation": 2626,
+  "raw_path": "corpus/raw/H012.md",
+  "clean_path": "corpus/clean/H012.txt",
+  "split": "discovery",
+  "cleaning_status": "仅保守转写清洗，未完成逐句史实核验",
+  "corrections": [],
+  "source_types": [
+    "视频音轨转写"
+  ],
+  "fact_status": "未整体核实",
+  "title": "刘邦如何组织比自己强的人",
+  "era": "秦汉",
+  "era_tags": [
+    "秦末",
+    "楚汉",
+    "西汉"
+  ],
+  "people": [
+    "刘邦",
+    "项羽",
+    "张良",
+    "韩信",
+    "萧何"
+  ],
+  "conflict": "个人能力与组织能力",
+  "template": "T4",
+  "hook_type": "名人背书和身份反差",
+  "structure": "草根起点→能屈伸、能改错、能用人三组事例→三项历史影响→局限→回到普通人",
+  "ending": "荐书与帝王系列",
+  "cluster": "刘邦用人",
+  "source_class": "史事混合评价",
+  "risk": "毛泽东评价须核原文；夏侯婴转写为夏侯惇；放弃子女不宜作为普适成功法则",
+  "next_angle": "聚焦一次听劝改令，讲用人如何落到行动",
+  "annotation_status": "全文阅读后人工结构与风险标注；不是逐句史实鉴定"
+}

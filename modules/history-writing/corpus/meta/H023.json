@@ -1,0 +1,48 @@
+{
+  "id": "H023",
+  "video_id": "14978889713154726427",
+  "account": "王老师读史观心",
+  "platform": "channels",
+  "original_path": "corpus/raw/H023.md",
+  "original_sha256": "13e0aec446697e5deff848244263e30021abdbde9bcf9f8fc7469aae7cd90f98",
+  "source_url": null,
+  "published_at": null,
+  "collected_updated_at": null,
+  "original_caption": "诸葛亮抚琴，司马懿退兵。十五万大军打不过一座空城？#三国演义 #空城计 #司马懿 #诸葛亮#人情世故",
+  "metrics": {
+    "likes": 426,
+    "saves": 600,
+    "comments": 36,
+    "shares": 459
+  },
+  "body_chars_with_punctuation": 1328,
+  "raw_path": "corpus/raw/H023.md",
+  "clean_path": "corpus/clean/H023.txt",
+  "split": "discovery",
+  "cleaning_status": "仅保守转写清洗，未完成逐句史实核验",
+  "corrections": [],
+  "source_types": [
+    "视频音轨转写"
+  ],
+  "fact_status": "未整体核实",
+  "title": "空城计的养寇自重解读",
+  "era": "三国至两晋南北朝",
+  "era_tags": [
+    "三国演义背景",
+    "三国"
+  ],
+  "people": [
+    "诸葛亮",
+    "司马懿"
+  ],
+  "conflict": "战场胜负与个人利益",
+  "template": "T2",
+  "hook_type": "逆向断言",
+  "structure": "空城不攻设问→曹魏处境→保命动机→撤退收益→高平陵",
+  "ending": "处世反思",
+  "cluster": "空城计解读",
+  "source_class": "文学情节的现代解读",
+  "risk": "不能把默契放水写成史实或原著定论；曹真与韩信传说混入；高平陵因果牵强",
+  "next_angle": "比较小说中谨慎退兵与现代读者放水解读",
+  "annotation_status": "全文阅读后人工结构与风险标注；不是逐句史实鉴定"
+}

@@ -1,0 +1,53 @@
+{
+  "id": "H017",
+  "video_id": "14974931207443061242",
+  "account": "王老师读史观心",
+  "platform": "channels",
+  "original_path": "corpus/raw/H017.md",
+  "original_sha256": "5061f5e42a00e32552d38c3998933cd17caad924bd575b38aebcc3b54fbc9cba",
+  "source_url": null,
+  "published_at": null,
+  "collected_updated_at": null,
+  "original_caption": "司马懿算计一生，为何换来满门绝户？读懂司马家四代人的报应，也就看透了人情世故。#司马懿 #三国历史 #以史为鉴 #人情世故 #传统文化",
+  "metrics": {
+    "likes": 7205,
+    "saves": 13802,
+    "comments": 471,
+    "shares": 10947
+  },
+  "body_chars_with_punctuation": 2577,
+  "raw_path": "corpus/raw/H017.md",
+  "clean_path": "corpus/clean/H017.txt",
+  "split": "discovery",
+  "cleaning_status": "仅保守转写清洗，未完成逐句史实核验",
+  "corrections": [],
+  "source_types": [
+    "视频音轨转写"
+  ],
+  "fact_status": "未整体核实",
+  "title": "司马氏四代与刘裕代晋",
+  "era": "三国至两晋南北朝",
+  "era_tags": [
+    "三国",
+    "西晋",
+    "东晋",
+    "南朝"
+  ],
+  "people": [
+    "司马懿",
+    "司马昭",
+    "司马炎",
+    "司马衷",
+    "刘裕"
+  ],
+  "conflict": "夺权收益与后世代价",
+  "template": "T2",
+  "hook_type": "极端结局",
+  "structure": "灭族断言→高平陵→弑君→享乐→八王之乱→报应收束",
+  "ending": "道德裁决提问",
+  "cluster": "刘裕司马氏",
+  "source_class": "史事混合宿命论",
+  "risk": "把数代时间压成几十年；司马衷等混名；直系灭绝无充分证据；屠杀不可合理化",
+  "next_angle": "拆开政权终结与宗族血脉消失两个概念",
+  "annotation_status": "全文阅读后人工结构与风险标注；不是逐句史实鉴定"
+}

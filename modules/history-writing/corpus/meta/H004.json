@@ -1,0 +1,57 @@
+{
+  "id": "H004",
+  "video_id": "15002947246561827761",
+  "account": "故纸观山河",
+  "platform": "channels",
+  "original_path": "corpus/raw/H004.md",
+  "original_sha256": "dd69baa3e0a1aad7fd9a2e773ac1491ada1cab3c8c7c787b1e464239f8c9eeef",
+  "source_url": null,
+  "published_at": null,
+  "collected_updated_at": null,
+  "original_caption": "公元前66年深夜，刘询一道诏书，霍家满门被灭。霍家密谋废帝的局，竟因一个小人物告密而败露。告密者一夜封侯，而皇帝对恩人丙吉，记了整整一辈子。这段正史，就写在《资治通鉴》里。点个关注，下回接着讲丙吉如何藏功十几年。#资治通鉴 #汉朝历史 #刘询 #霍光",
+  "metrics": {
+    "likes": 447,
+    "saves": 808,
+    "comments": 37,
+    "shares": 262
+  },
+  "body_chars_with_punctuation": 1624,
+  "raw_path": "corpus/raw/H004.md",
+  "clean_path": "corpus/clean/H004.txt",
+  "split": "discovery",
+  "cleaning_status": "仅保守转写清洗，未完成逐句史实核验",
+  "corrections": [
+    {
+      "before": "刘洵",
+      "after": "刘询",
+      "count": 4,
+      "reason": "上下文明确的转写同音错词"
+    }
+  ],
+  "source_types": [
+    "视频音轨转写"
+  ],
+  "fact_status": "未整体核实",
+  "title": "告密者封侯与丙吉藏功",
+  "era": "秦汉",
+  "era_tags": [
+    "西汉"
+  ],
+  "people": [
+    "刘询",
+    "霍显",
+    "张章",
+    "董忠",
+    "丙吉"
+  ],
+  "conflict": "报仇与报恩",
+  "template": "T1",
+  "hook_type": "续集追问",
+  "structure": "霍氏密谋→内部失序→告密传递→封侯→对照丙吉不言功→新悬念",
+  "ending": "反复荐书与丙吉预告",
+  "cluster": "汉宣帝霍氏",
+  "source_class": "史事混合解读",
+  "risk": "张章董忠等多处同音错字；诛连人数前后差异；书名背书不等于核实",
+  "next_angle": "丙吉如何让救命之恩不成为讨赏筹码",
+  "annotation_status": "全文阅读后人工结构与风险标注；不是逐句史实鉴定"
+}

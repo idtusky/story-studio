@@ -1,0 +1,49 @@
+{
+  "id": "H046",
+  "video_id": "14982172452668180489",
+  "account": "王老谈史局",
+  "platform": "channels",
+  "original_path": "corpus/raw/H046.md",
+  "original_sha256": "63c24ed9d9092944edb089ecb2109a7ddb2288eeecf5fc094a7429a46d9a95d7",
+  "source_url": null,
+  "published_at": null,
+  "collected_updated_at": null,
+  "original_caption": "吕布死后貂蝉被押进曹操大帐，一炷香工夫曹操亲自送她消失。三句话让曹操脊背发凉：杀她脏手，留她悬心，放她走大家都干净。 #貂蝉 #历史文化 #王立群讲史 #人生感悟 #历史人物 #三国 #历史",
+  "metrics": {
+    "likes": 307,
+    "saves": 379,
+    "comments": 17,
+    "shares": 204
+  },
+  "body_chars_with_punctuation": 1812,
+  "raw_path": "corpus/raw/H046.md",
+  "clean_path": "corpus/clean/H046.txt",
+  "split": "discovery",
+  "cleaning_status": "仅保守转写清洗，未完成逐句史实核验",
+  "corrections": [],
+  "source_types": [
+    "视频音轨转写"
+  ],
+  "fact_status": "未整体核实",
+  "title": "貂蝉用秘密换退场",
+  "era": "三国至两晋南北朝",
+  "era_tags": [
+    "三国演义背景",
+    "东汉末"
+  ],
+  "people": [
+    "貂蝉",
+    "曹操",
+    "吕布"
+  ],
+  "conflict": "秘密与退出",
+  "template": "T2",
+  "hook_type": "美貌与生存反差",
+  "structure": "猜结局→进帐离帐→解释三条件→现实退场→荐书",
+  "ending": "荐书",
+  "cluster": "貂蝉退场",
+  "source_class": "文学角色的现代演绎",
+  "risk": "史官不敢写是虚假解释；新编对白不能标正史；女性命运不能简化为聪明程度",
+  "next_angle": "用明确虚构的剧本模式写交易，而不伪托史书",
+  "annotation_status": "全文阅读后人工结构与风险标注；不是逐句史实鉴定"
+}

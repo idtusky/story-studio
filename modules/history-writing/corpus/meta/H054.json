@@ -1,0 +1,50 @@
+{
+  "id": "H054",
+  "video_id": "14998922437254057349",
+  "account": "王老谈史局",
+  "platform": "channels",
+  "original_path": "corpus/raw/H054.md",
+  "original_sha256": "de6b0df2ba051e21ba0840c410755cd80bc7869e8374514a2040a02f2a4d4e59",
+  "source_url": null,
+  "published_at": null,
+  "collected_updated_at": null,
+  "original_caption": "易牙杀儿子献肉，竖刁自宫侍主，启方十五年不回国奔丧。管仲临终警告：这种违背人性的人绝不能信。齐桓公不听，晚年被他们砌墙断粮，活活饿死，尸体腐烂67天无    历史故事#人性智慧#王老师讲历史#齐桓公#人管。",
+  "metrics": {
+    "likes": 306,
+    "saves": 430,
+    "comments": 37,
+    "shares": 269
+  },
+  "body_chars_with_punctuation": 1842,
+  "raw_path": "corpus/raw/H054.md",
+  "clean_path": "corpus/clean/H054.txt",
+  "split": "discovery",
+  "cleaning_status": "仅保守转写清洗，未完成逐句史实核验",
+  "corrections": [],
+  "source_types": [
+    "视频音轨转写"
+  ],
+  "fact_status": "未整体核实",
+  "title": "齐桓公误把极端讨好当忠诚",
+  "era": "先秦",
+  "era_tags": [
+    "春秋"
+  ],
+  "people": [
+    "齐桓公",
+    "管仲",
+    "易牙",
+    "竖刁",
+    "开方"
+  ],
+  "conflict": "讨好与可信赖",
+  "template": "T2",
+  "hook_type": "现实识人提问",
+  "structure": "极端讨好设问→三人举动→管仲警告→疏远再召→困宫→识人原则",
+  "ending": "白话智囊荐书",
+  "cluster": "齐桓公识人",
+  "source_class": "史籍记载与传闻混合",
+  "risk": "卫魏、开方人名混淆；不同史源细节不得拼成唯一版本；不能凭亲属关系武断识人",
+  "next_angle": "比较承诺成本与行为动机两种判断依据",
+  "annotation_status": "全文阅读后人工结构与风险标注；不是逐句史实鉴定"
+}

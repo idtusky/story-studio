@@ -1,0 +1,61 @@
+{
+  "id": "H009",
+  "video_id": "15002440056806906316",
+  "account": "王老师读史观心",
+  "platform": "channels",
+  "original_path": "corpus/raw/H009.md",
+  "original_sha256": "e361ed76e56ce3c0e469d9e3be7d3e89e55743b3cf0b85878c37e70f86b330dd",
+  "source_url": null,
+  "published_at": null,
+  "collected_updated_at": null,
+  "original_caption": "27天废帝，对比装孙子6年反杀！一个狂一个忍，废帝刘贺后来经历了什么？#历史#霍光#刘贺#汉宣帝#西汉#权谋",
+  "metrics": {
+    "likes": 733,
+    "saves": 999,
+    "comments": 183,
+    "shares": 363
+  },
+  "body_chars_with_punctuation": 2588,
+  "raw_path": "corpus/raw/H009.md",
+  "clean_path": "corpus/clean/H009.txt",
+  "split": "discovery",
+  "cleaning_status": "仅保守转写清洗，未完成逐句史实核验",
+  "corrections": [
+    {
+      "before": "轮椅",
+      "after": "龙椅",
+      "count": 1,
+      "reason": "上下文明确的转写同音错词"
+    },
+    {
+      "before": "刘洵",
+      "after": "刘询",
+      "count": 14,
+      "reason": "上下文明确的转写同音错词"
+    }
+  ],
+  "source_types": [
+    "视频音轨转写"
+  ],
+  "fact_status": "未整体核实",
+  "title": "刘贺被废后的海昏侯人生",
+  "era": "秦汉",
+  "era_tags": [
+    "西汉"
+  ],
+  "people": [
+    "刘贺",
+    "霍光",
+    "刘询"
+  ],
+  "conflict": "身份骤变与失去自主",
+  "template": "T1",
+  "hook_type": "废立场景",
+  "structure": "27天被废→继位背景→失势与封侯→墓葬黄金→对照刘询→身世续集",
+  "ending": "系列回扣",
+  "cluster": "汉宣帝霍氏",
+  "source_class": "史事混合大量场景演绎",
+  "risk": "海昏词源羞辱说、监视时间线、减户数量、金器重量待核；洪水老农对白无出处",
+  "next_angle": "从考古材料与史传评价的差异看刘贺",
+  "annotation_status": "全文阅读后人工结构与风险标注；不是逐句史实鉴定"
+}

@@ -1,0 +1,50 @@
+{
+  "id": "H002",
+  "video_id": "14997905013015648685",
+  "account": "故纸观山河",
+  "platform": "channels",
+  "original_path": "corpus/raw/H002.md",
+  "original_sha256": "0870a756abda167b1a012aca44a85ceff0c890902600dc08bc989016a409ba9d",
+  "source_url": null,
+  "published_at": null,
+  "collected_updated_at": null,
+  "original_caption": "被误解一千八百年的廖化，一句 “蜀中无大将，廖化作先锋”，让后世都以为他是平庸老将。\n\n真实历史里的廖化，见证黄巾起义到三国归晋，熬死五虎将、五子良将，历经蜀汉大小战事。荆州陷落假意投降，装死携母千里逃回蜀国，一生忠于汉室。八十岁亲眼见证蜀汉亡国，被迁往洛阳途中，郁郁而终。\n\n他没有盖世武功，却用一辈子诠释忠义。所谓平庸，不过是后人的偏见；真正的强大，不是一时封神，而是历经乱世依旧初心不改。\n\n你心中三国最意难平的人物是谁？评论区聊聊。\n# 三国 #廖化 #历史人物 #蜀汉 #历史故事",
+  "metrics": {
+    "likes": 251,
+    "saves": 329,
+    "comments": 7,
+    "shares": 100
+  },
+  "body_chars_with_punctuation": 1139,
+  "raw_path": "corpus/raw/H002.md",
+  "clean_path": "corpus/clean/H002.txt",
+  "split": "discovery",
+  "cleaning_status": "仅保守转写清洗，未完成逐句史实核验",
+  "corrections": [],
+  "source_types": [
+    "视频音轨转写"
+  ],
+  "fact_status": "未整体核实",
+  "title": "廖化的忠义与后世评价",
+  "era": "三国至两晋南北朝",
+  "era_tags": [
+    "东汉末",
+    "三国",
+    "蜀汉"
+  ],
+  "people": [
+    "廖化",
+    "关羽",
+    "刘禅"
+  ],
+  "conflict": "低估与坚守",
+  "template": "T1",
+  "hook_type": "熟语反评",
+  "structure": "俗语贬义→长寿对照→装死归蜀→蜀亡病卒→反复回到忠义",
+  "ending": "情感转发和下期预告",
+  "cluster": "廖化评价",
+  "source_class": "史事与演义混合",
+  "risk": "黄巾履历和年龄须核；荆州事件混写吴魏；病卒不可直接扩写吐血亡国",
+  "next_angle": "用装死归蜀这一事迹支撑人物评价",
+  "annotation_status": "全文阅读后人工结构与风险标注；不是逐句史实鉴定"
+}

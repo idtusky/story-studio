@@ -1,0 +1,46 @@
+{
+  "id": "H024",
+  "video_id": "14998818032838515719",
+  "account": "王老翻史书",
+  "platform": "channels",
+  "original_path": "corpus/raw/H024.md",
+  "original_sha256": "73e2141a9a31d78c570ca3817eb22ecb359a749d68ee7d297c3793994fd04e69",
+  "source_url": null,
+  "published_at": null,
+  "collected_updated_at": null,
+  "original_caption": "丢掉全部家底，靠一招把钱找回来了#历史故事 #历史人物 #读史明智 #周敬山 #明末清初 #民间故事 #临危不乱 #人性",
+  "metrics": {
+    "likes": 1018,
+    "saves": 1078,
+    "comments": 128,
+    "shares": 2667
+  },
+  "body_chars_with_punctuation": 2303,
+  "raw_path": "corpus/raw/H024.md",
+  "clean_path": "corpus/clean/H024.txt",
+  "split": "discovery",
+  "cleaning_status": "仅保守转写清洗，未完成逐句史实核验",
+  "corrections": [],
+  "source_types": [
+    "视频音轨转写"
+  ],
+  "fact_status": "未整体核实",
+  "title": "破伞失而复得的三次应对",
+  "era": "明清",
+  "era_tags": [
+    "明末清初背景"
+  ],
+  "people": [
+    "周敬山"
+  ],
+  "conflict": "损失与冷静应对",
+  "template": "T6",
+  "hook_type": "道具价值反差",
+  "structure": "丢伞→观察残余财物→倒叙藏银→修伞守候→受阻换新伞→兑现→回扣应变",
+  "ending": "经验提问",
+  "cluster": "失伞故事",
+  "source_class": "民间故事",
+  "risk": "周静山与周敬山不自动认定同名；银票金额和朝代仅为故事设定；感官细节为演绎",
+  "next_angle": "比较守株待兔与改变交换条件两种找回办法",
+  "annotation_status": "全文阅读后人工结构与风险标注；不是逐句史实鉴定"
+}

@@ -1,0 +1,49 @@
+{
+  "id": "H029",
+  "video_id": "14982762384520583674",
+  "account": "王老翻史书",
+  "platform": "channels",
+  "original_path": "corpus/raw/H029.md",
+  "original_sha256": "c1b9dd7d5282495d5c5c02d0391ff482490be1a67a33188f37ebf24d6aacad46",
+  "source_url": null,
+  "published_at": null,
+  "collected_updated_at": null,
+  "original_caption": "秦始皇修长城，真只是暴政吗？#历史 #历史故事 #秦始皇 #长城 #秦朝 #万里长城 #孟姜女 #明长城 #长城抗战 #中国历史 #人性 #名师感悟",
+  "metrics": {
+    "likes": 2787,
+    "saves": 3236,
+    "comments": 239,
+    "shares": 2887
+  },
+  "body_chars_with_punctuation": 1915,
+  "raw_path": "corpus/raw/H029.md",
+  "clean_path": "corpus/clean/H029.txt",
+  "split": "discovery",
+  "cleaning_status": "仅保守转写清洗，未完成逐句史实核验",
+  "corrections": [],
+  "source_types": [
+    "视频音轨转写"
+  ],
+  "fact_status": "未整体核实",
+  "title": "长城的防御作用与建造成本",
+  "era": "秦汉",
+  "era_tags": [
+    "秦",
+    "明",
+    "近代"
+  ],
+  "people": [
+    "秦始皇",
+    "长城"
+  ],
+  "conflict": "工程代价与防御需要",
+  "template": "T4",
+  "hook_type": "历史成本反问",
+  "structure": "劳役设问→尺度技术→孟姜女演变→预警机制→明代工程→近代战争",
+  "ending": "家国收束",
+  "cluster": "长城防御",
+  "source_class": "史事与传说及技术混合",
+  "risk": "秦明长城材料混用；总长度不能归秦；死亡数字无出处；年代与单位换算有错",
+  "next_angle": "同样叫长城，秦汉与明代各自面对什么条件",
+  "annotation_status": "全文阅读后人工结构与风险标注；不是逐句史实鉴定"
+}

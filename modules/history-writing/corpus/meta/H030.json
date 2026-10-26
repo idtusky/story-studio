@@ -1,0 +1,58 @@
+{
+  "id": "H030",
+  "video_id": "14986394302762916354",
+  "account": "王老翻史书",
+  "platform": "channels",
+  "original_path": "corpus/raw/H030.md",
+  "original_sha256": "21e2015ae403740f1b3ea96f40355ad0a7e1c68154caff5034ce70c2cc478b97",
+  "source_url": null,
+  "published_at": null,
+  "collected_updated_at": null,
+  "original_caption": "三国最惨的皇后，死在亲丈夫手里，入殓那天，头发披下来，盖住整张脸，嘴里塞得满满的，塞的是糠，塞糠不是怕她在底下挨饿，是怕她开口。#甄宓 #洛神之死 #曹丕 #郭女王 #曹叡 #三国故事 #魏晋历史 #历史故事 #历史人性 #女性命运 #宫廷权谋 #人情冷暖 #乱世红颜 #洛神赋",
+  "metrics": {
+    "likes": 2535,
+    "saves": 3491,
+    "comments": 311,
+    "shares": 2238
+  },
+  "body_chars_with_punctuation": 2061,
+  "raw_path": "corpus/raw/H030.md",
+  "clean_path": "corpus/clean/H030.txt",
+  "split": "discovery",
+  "cleaning_status": "仅保守转写清洗，未完成逐句史实核验",
+  "corrections": [
+    {
+      "before": "轮椅",
+      "after": "龙椅",
+      "count": 1,
+      "reason": "上下文明确的转写同音错词"
+    }
+  ],
+  "source_types": [
+    "视频音轨转写"
+  ],
+  "fact_status": "未整体核实",
+  "title": "甄氏之死与后来的记忆",
+  "era": "三国至两晋南北朝",
+  "era_tags": [
+    "东汉末",
+    "三国",
+    "曹魏"
+  ],
+  "people": [
+    "甄氏",
+    "曹丕",
+    "郭皇后",
+    "曹叡"
+  ],
+  "conflict": "旧情与宫廷位置",
+  "template": "T1",
+  "hook_type": "葬仪谜题",
+  "structure": "被发覆面→早年义举→入曹家→郭氏与继承→死亡→曹叡追问→回扣怀璧",
+  "ending": "女性处境讨论",
+  "cluster": "甄氏命运",
+  "source_class": "史籍异说与演绎混合",
+  "risk": "曹叡名字多次错写；正文与注引异说应分开；无记载梳头对白不可补；避免受害者有罪论",
+  "next_angle": "正史正文与裴注对同一人物结局有哪些不同记法",
+  "annotation_status": "全文阅读后人工结构与风险标注；不是逐句史实鉴定"
+}

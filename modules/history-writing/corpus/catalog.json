@@ -1,0 +1,2881 @@
+[
+  {
+    "id": "H001",
+    "video_id": "15002488234661976968",
+    "account": "故纸观山河",
+    "platform": "channels",
+    "original_path": "corpus/raw/H001.md",
+    "original_sha256": "400e10db1df01bcf192db1cd240a72a789873b8afa910b6e0b3c240d8291dba2",
+    "source_url": null,
+    "published_at": null,
+    "collected_updated_at": null,
+    "original_caption": "🔥谋士排行榜吵翻了！诸葛亮仅排第 6，前五名到底有多厉害？\n刘伯温、管仲、孙武、姜子牙、鬼谷子逐个拆解，\n有人谋天下，有人谋文明，有人隐于幕后布下整盘战国棋局。\n\n📖本期出处：冯梦龙《智囊全集》\n一千二百多则古人智慧故事，曾国藩枕边常读。\n读的不是算计，是看懂人性、避开人生坑。\n\n十位谋士一人一字道尽一生：\n李斯贪｜郭嘉命｜范蠡退｜张良醒｜诸葛亮逆势\n刘伯温难｜管仲大｜孙武藏｜姜子牙等时｜鬼谷子布局\n\n你心中古代谋士该怎么排？评论区来聊聊！\n# 历史 #智囊全集 #鬼谷子 #刘伯温 #姜子牙 #古人智慧",
+    "metrics": {
+      "likes": 409,
+      "saves": 500,
+      "comments": 21,
+      "shares": 230
+    },
+    "body_chars_with_punctuation": 1581,
+    "raw_path": "corpus/raw/H001.md",
+    "clean_path": "corpus/clean/H001.txt",
+    "split": "discovery",
+    "cleaning_status": "仅保守转写清洗，未完成逐句史实核验",
+    "corrections": [],
+    "source_types": [
+      "视频音轨转写"
+    ],
+    "fact_status": "未整体核实",
+    "title": "十大谋士前五名与智囊荐书",
+    "era": "跨朝代",
+    "era_tags": [
+      "先秦",
+      "春秋",
+      "战国",
+      "明"
+    ],
+    "people": [
+      "刘伯温",
+      "管仲",
+      "孙武",
+      "姜子牙",
+      "鬼谷子"
+    ],
+    "conflict": "谋事与谋身",
+    "template": "T3",
+    "hook_type": "续集悬念",
+    "structure": "承接第六名争议→五人依次讲功业与退路→榜首→兑现开头书名→十字回顾",
+    "ending": "卖书加榜单讨论",
+    "cluster": "谋士榜单",
+    "source_class": "史事与传说混合",
+    "risk": "鬼谷子生平与师承不能全当正史；声称全有出处却未给篇章；推广书的内容须核对",
+    "next_angle": "把谋士拆成用人、理财、退场三个比较维度",
+    "annotation_status": "全文阅读后人工结构与风险标注；不是逐句史实鉴定"
+  },
+  {
+    "id": "H002",
+    "video_id": "14997905013015648685",
+    "account": "故纸观山河",
+    "platform": "channels",
+    "original_path": "corpus/raw/H002.md",
+    "original_sha256": "0870a756abda167b1a012aca44a85ceff0c890902600dc08bc989016a409ba9d",
+    "source_url": null,
+    "published_at": null,
+    "collected_updated_at": null,
+    "original_caption": "被误解一千八百年的廖化，一句 “蜀中无大将，廖化作先锋”，让后世都以为他是平庸老将。\n\n真实历史里的廖化，见证黄巾起义到三国归晋，熬死五虎将、五子良将，历经蜀汉大小战事。荆州陷落假意投降，装死携母千里逃回蜀国，一生忠于汉室。八十岁亲眼见证蜀汉亡国，被迁往洛阳途中，郁郁而终。\n\n他没有盖世武功，却用一辈子诠释忠义。所谓平庸，不过是后人的偏见；真正的强大，不是一时封神，而是历经乱世依旧初心不改。\n\n你心中三国最意难平的人物是谁？评论区聊聊。\n# 三国 #廖化 #历史人物 #蜀汉 #历史故事",
+    "metrics": {
+      "likes": 251,
+      "saves": 329,
+      "comments": 7,
+      "shares": 100
+    },
+    "body_chars_with_punctuation": 1139,
+    "raw_path": "corpus/raw/H002.md",
+    "clean_path": "corpus/clean/H002.txt",
+    "split": "discovery",
+    "cleaning_status": "仅保守转写清洗，未完成逐句史实核验",
+    "corrections": [],
+    "source_types": [
+      "视频音轨转写"
+    ],
+    "fact_status": "未整体核实",
+    "title": "廖化的忠义与后世评价",
+    "era": "三国至两晋南北朝",
+    "era_tags": [
+      "东汉末",
+      "三国",
+      "蜀汉"
+    ],
+    "people": [
+      "廖化",
+      "关羽",
+      "刘禅"
+    ],
+    "conflict": "低估与坚守",
+    "template": "T1",
+    "hook_type": "熟语反评",
+    "structure": "俗语贬义→长寿对照→装死归蜀→蜀亡病卒→反复回到忠义",
+    "ending": "情感转发和下期预告",
+    "cluster": "廖化评价",
+    "source_class": "史事与演义混合",
+    "risk": "黄巾履历和年龄须核；荆州事件混写吴魏；病卒不可直接扩写吐血亡国",
+    "next_angle": "用装死归蜀这一事迹支撑人物评价",
+    "annotation_status": "全文阅读后人工结构与风险标注；不是逐句史实鉴定"
+  },
+  {
+    "id": "H003",
+    "video_id": "15002765039809731460",
+    "account": "故纸观山河",
+    "platform": "channels",
+    "original_path": "corpus/raw/H003.md",
+    "original_sha256": "58b691d2afb26ea432dfa48f4232fba44d90eb43c03cc3b13dd20250528ed465",
+    "source_url": null,
+    "published_at": null,
+    "collected_updated_at": null,
+    "original_caption": "扶灵时的眼泪是真的。\n两年后举起的刀，也是真的。\n\n故剑情深，转头成仇。\n关注我，看一个皇帝如何用两年，算清六年的账。#帝王心术 #权臣 #忍辱负重 #反转 #满门抄斩",
+    "metrics": {
+      "likes": 7622,
+      "saves": 9345,
+      "comments": 1452,
+      "shares": 2354
+    },
+    "body_chars_with_punctuation": 1991,
+    "raw_path": "corpus/raw/H003.md",
+    "clean_path": "corpus/clean/H003.txt",
+    "split": "discovery",
+    "cleaning_status": "仅保守转写清洗，未完成逐句史实核验",
+    "corrections": [
+      {
+        "before": "刘洵",
+        "after": "刘询",
+        "count": 14,
+        "reason": "上下文明确的转写同音错词"
+      }
+    ],
+    "source_types": [
+      "视频音轨转写"
+    ],
+    "fact_status": "未整体核实",
+    "title": "霍光葬礼后的霍氏败亡",
+    "era": "秦汉",
+    "era_tags": [
+      "西汉"
+    ],
+    "people": [
+      "刘询",
+      "霍光",
+      "许平君",
+      "霍显"
+    ],
+    "conflict": "恩宠与清算",
+    "template": "T1",
+    "hook_type": "前后反差",
+    "structure": "厚葬与两年后败亡并置→入继与立后→许后之死→削权→谋反败露→告密者悬念",
+    "ending": "关联人物续集",
+    "cluster": "汉宣帝霍氏",
+    "source_class": "史事混合场景演绎",
+    "risk": "许后死至霍光死约三年不能写六年；私下哭诉和囚犯夜袭须核；转写人名密集",
+    "next_angle": "从官职与兵权的分离解释霍氏失势",
+    "annotation_status": "全文阅读后人工结构与风险标注；不是逐句史实鉴定"
+  },
+  {
+    "id": "H004",
+    "video_id": "15002947246561827761",
+    "account": "故纸观山河",
+    "platform": "channels",
+    "original_path": "corpus/raw/H004.md",
+    "original_sha256": "dd69baa3e0a1aad7fd9a2e773ac1491ada1cab3c8c7c787b1e464239f8c9eeef",
+    "source_url": null,
+    "published_at": null,
+    "collected_updated_at": null,
+    "original_caption": "公元前66年深夜，刘询一道诏书，霍家满门被灭。霍家密谋废帝的局，竟因一个小人物告密而败露。告密者一夜封侯，而皇帝对恩人丙吉，记了整整一辈子。这段正史，就写在《资治通鉴》里。点个关注，下回接着讲丙吉如何藏功十几年。#资治通鉴 #汉朝历史 #刘询 #霍光",
+    "metrics": {
+      "likes": 447,
+      "saves": 808,
+      "comments": 37,
+      "shares": 262
+    },
+    "body_chars_with_punctuation": 1624,
+    "raw_path": "corpus/raw/H004.md",
+    "clean_path": "corpus/clean/H004.txt",
+    "split": "discovery",
+    "cleaning_status": "仅保守转写清洗，未完成逐句史实核验",
+    "corrections": [
+      {
+        "before": "刘洵",
+        "after": "刘询",
+        "count": 4,
+        "reason": "上下文明确的转写同音错词"
+      }
+    ],
+    "source_types": [
+      "视频音轨转写"
+    ],
+    "fact_status": "未整体核实",
+    "title": "告密者封侯与丙吉藏功",
+    "era": "秦汉",
+    "era_tags": [
+      "西汉"
+    ],
+    "people": [
+      "刘询",
+      "霍显",
+      "张章",
+      "董忠",
+      "丙吉"
+    ],
+    "conflict": "报仇与报恩",
+    "template": "T1",
+    "hook_type": "续集追问",
+    "structure": "霍氏密谋→内部失序→告密传递→封侯→对照丙吉不言功→新悬念",
+    "ending": "反复荐书与丙吉预告",
+    "cluster": "汉宣帝霍氏",
+    "source_class": "史事混合解读",
+    "risk": "张章董忠等多处同音错字；诛连人数前后差异；书名背书不等于核实",
+    "next_angle": "丙吉如何让救命之恩不成为讨赏筹码",
+    "annotation_status": "全文阅读后人工结构与风险标注；不是逐句史实鉴定"
+  },
+  {
+    "id": "H005",
+    "video_id": "14998025809850276270",
+    "account": "故纸观山河",
+    "platform": "channels",
+    "original_path": "corpus/raw/H005.md",
+    "original_sha256": "c1cac341e49e53c7bf5f6b749c1d7c36dfad30a52f3c03efb3dada46d0b4e18a",
+    "source_url": null,
+    "published_at": null,
+    "collected_updated_at": null,
+    "original_caption": "关羽傲、张飞暴、周瑜急、诸葛亮累死…… 三国这帮人，个个是人中龙凤，偏偏没几个熬到头。\n\n司马懿不显山不露水，把一个 \"等\" 字琢磨透了，落了个善终，还给子孙留了一份基业。\n\n这年头谁都急着要结果，可好多好东西，是熬出来的。\n\n你觉得司马懿是真英雄，还是真老狐狸？评论区聊聊👇\n#司马懿#三国#历史人物#人生智慧#成年人的生存法则",
+    "metrics": {
+      "likes": 392,
+      "saves": 429,
+      "comments": 22,
+      "shares": 189
+    },
+    "body_chars_with_punctuation": 1342,
+    "raw_path": "corpus/raw/H005.md",
+    "clean_path": "corpus/clean/H005.txt",
+    "split": "validation",
+    "cleaning_status": "仅保守转写清洗，未完成逐句史实核验",
+    "corrections": [],
+    "source_types": [
+      "视频音轨转写"
+    ],
+    "fact_status": "未整体核实",
+    "title": "司马懿的五种等待",
+    "era": "三国至两晋南北朝",
+    "era_tags": [
+      "东汉末",
+      "三国",
+      "曹魏"
+    ],
+    "people": [
+      "司马懿",
+      "曹操",
+      "诸葛亮",
+      "曹爽"
+    ],
+    "conflict": "耐心与道德代价",
+    "template": "T2",
+    "hook_type": "单字主题",
+    "structure": "熬字立论→等待、示弱、时机、寿命、反噬五层→承认夺权代价",
+    "ending": "处世收束和文学人物预告",
+    "cluster": "司马懿等待",
+    "source_class": "史事与演义混合",
+    "risk": "穿女装细节和狼顾须分出处；寿命不能证明耐心必胜",
+    "next_angle": "把何时该等与何时会错过时机放在一起讲",
+    "annotation_status": "全文阅读后人工结构与风险标注；不是逐句史实鉴定"
+  },
+  {
+    "id": "H006",
+    "video_id": "15002223218022161308",
+    "account": "故纸观山河",
+    "platform": "channels",
+    "original_path": "corpus/raw/H006.md",
+    "original_sha256": "b48fb950863d447916f142c4ac9e978666c688eeea33534d39bc94d1eb73ca1e",
+    "source_url": null,
+    "published_at": null,
+    "collected_updated_at": null,
+    "original_caption": "中国历史十大谋士，诸葛亮竟然只能排第六？😲\n\n李斯、郭嘉、范蠡、张良……这几位响当当的人物，也仅仅占了第十到第六的位置。那前五位得是什么逆天级别的人物？\n\n尤其是榜首，一辈子没下过山，没做过一天官，却把战国二百年搅了个天翻地覆！\n\n你觉得谁才是真正的千古第一谋士？是算无遗策的鬼才，还是功成身退的商圣？欢迎在评论区“摆开阵势”聊聊你的见解！\n#历史人物 #诸葛亮 #三国 #谋士 #中国历史 #鬼谷子 #历史冷知识",
+    "metrics": {
+      "likes": 30002,
+      "saves": 26902,
+      "comments": 1054,
+      "shares": 8749
+    },
+    "body_chars_with_punctuation": 1522,
+    "raw_path": "corpus/raw/H006.md",
+    "clean_path": "corpus/clean/H006.txt",
+    "split": "discovery",
+    "cleaning_status": "仅保守转写清洗，未完成逐句史实核验",
+    "corrections": [],
+    "source_types": [
+      "视频音轨转写"
+    ],
+    "fact_status": "未整体核实",
+    "title": "十大谋士后五名与第六名悬念",
+    "era": "跨朝代",
+    "era_tags": [
+      "秦",
+      "西汉",
+      "东汉末",
+      "三国",
+      "春秋"
+    ],
+    "people": [
+      "李斯",
+      "郭嘉",
+      "范蠡",
+      "张良",
+      "诸葛亮"
+    ],
+    "conflict": "功业与人生结局",
+    "template": "T3",
+    "hook_type": "名次争议",
+    "structure": "熟悉人物第六名→每人一件功业一处遗憾→诸葛亮逆势→前五名预告",
+    "ending": "榜首悬念",
+    "cluster": "谋士榜单",
+    "source_class": "史事与传说混合",
+    "risk": "郭嘉遗计、六出祁山等文学成分；榜单比较标准漂移；羽扇落地无据",
+    "next_angle": "取消名次，比较功成之后的不同退路",
+    "annotation_status": "全文阅读后人工结构与风险标注；不是逐句史实鉴定"
+  },
+  {
+    "id": "H007",
+    "video_id": "14989932483702692247",
+    "account": "故纸观山河",
+    "platform": "channels",
+    "original_path": "corpus/raw/H007.md",
+    "original_sha256": "2f2ae499f83824b900e88b85d5361c9a5e8fc8870ab9f8a3dd9b2f50859a96c1",
+    "source_url": null,
+    "published_at": null,
+    "collected_updated_at": null,
+    "original_caption": "朱元璋还没当皇帝时，刘日新就算出他将来要 “贵为天子”。后来朱元璋真的登基，亲手给他题了一把扇子，拿着这把扇子，天下没人敢拦他。\n官他不要，钱他不收，只想游山玩水。按理说，他已经把进退之道玩明白了。可最后，他还是被朱元璋杀了。\n问题出在一句话。\n大将军蓝玉北征大胜，回来路上找他算命。刘日新说：将军还会进一步，封国公，但封公之后，有一场大祸躲不过去。而且，我的命，也跟将军连在一起。\n后来蓝玉果然封了国公，也果然因谋反案被杀。而刘日新，也因为当年这一卦，被朱元璋提来审问。\n朱元璋问他：你给别人算了一辈子命，算没算过你自己的？\n刘日新只说了四个字：尽于今日。\n当天，他就被拉出去杀了。\n刘日新算准了朱元璋，算准了蓝玉，甚至连自己的死期都算准了。可他还是没躲过去。\n因为在皇帝眼里，一个神算跟手握重兵的大将军说 “贵不可言”，不是算命，是给野心盖章。\n有些话，说出口就收不回来。\n有些热闹，凑上去就下不来了。\n知进退是本事，管住嘴，才是修行。#历史故事 #朱元璋 #刘日新 #权谋智慧 #历史人物",
+    "metrics": {
+      "likes": 280,
+      "saves": 333,
+      "comments": 18,
+      "shares": 322
+    },
+    "body_chars_with_punctuation": 1428,
+    "raw_path": "corpus/raw/H007.md",
+    "clean_path": "corpus/clean/H007.txt",
+    "split": "discovery",
+    "cleaning_status": "仅保守转写清洗，未完成逐句史实核验",
+    "corrections": [],
+    "source_types": [
+      "视频音轨转写"
+    ],
+    "fact_status": "未整体核实",
+    "title": "刘日新辞官后为何仍遭祸",
+    "era": "明清",
+    "era_tags": [
+      "明",
+      "明初"
+    ],
+    "people": [
+      "刘日新",
+      "朱元璋",
+      "蓝玉"
+    ],
+    "conflict": "知进退与言语风险",
+    "template": "T1",
+    "hook_type": "临终问答",
+    "structure": "死亡结果→早年相术与赐扇→辞官游历→蓝玉问命→被牵连→回扣哪一步",
+    "ending": "开放判断",
+    "cluster": "刘日新蓝玉",
+    "source_class": "史籍传闻与作者解读",
+    "risk": "尽于今日、凉国公等转写错词；史书收录相术传闻不证明预言真实；帝王动机须降格",
+    "next_angle": "以扇子为线索讲保护与牵连如何同时存在",
+    "annotation_status": "全文阅读后人工结构与风险标注；不是逐句史实鉴定"
+  },
+  {
+    "id": "H008",
+    "video_id": "15002283866326375309",
+    "account": "故纸观山河",
+    "platform": "channels",
+    "original_path": "corpus/raw/H008.md",
+    "original_sha256": "7fc6280477c8084fcfbd7d0cd2c1448902e33e947fdf3dd1e5ffdc3e3aaecfc8",
+    "source_url": null,
+    "published_at": null,
+    "collected_updated_at": null,
+    "original_caption": "诸葛亮才排第六？十大谋士完整榜单，今天一次揭晓。\n\n上集盘点了李斯、郭嘉、范蠡、张良、诸葛亮，评论区吵翻了天——“诸葛亮第六？前五是谁？”\n\n今天就把前五位一个一个揭开：\n第五名，刘伯温。谋得了大明的国，算不定自己的命。\n第四名，管仲。没有他，齐桓公成不了春秋首霸。\n第三名，孙武。写尽天下战法，自己却悄然退场。\n第二名，姜子牙。八十岁出山，谋的不是一国，是一个时代。\n第一名，鬼谷子。从不下山，天下却是他的棋盘。\n\n十个谋士，十个字：\n李斯·贪 | 郭嘉·命 | 范蠡·退 | 张良·醒 | 诸葛亮·势\n刘伯温·难 | 管仲·大 | 孙武·藏 | 姜子牙·时 | 鬼谷子·局\n\n您心里的榜单该怎么排？评论区摆开阵势，咱们慢慢辩。\n\n觉得受用，点个关注，下回换个题目，接着聊历史里那些真本事。",
+    "metrics": {
+      "likes": 7030,
+      "saves": 6428,
+      "comments": 311,
+      "shares": 2861
+    },
+    "body_chars_with_punctuation": 1488,
+    "raw_path": "corpus/raw/H008.md",
+    "clean_path": "corpus/clean/H008.txt",
+    "split": "validation",
+    "cleaning_status": "仅保守转写清洗，未完成逐句史实核验",
+    "corrections": [],
+    "source_types": [
+      "视频音轨转写"
+    ],
+    "fact_status": "未整体核实",
+    "title": "十大谋士前五名续篇",
+    "era": "跨朝代",
+    "era_tags": [
+      "先秦",
+      "春秋",
+      "战国",
+      "明"
+    ],
+    "people": [
+      "刘伯温",
+      "管仲",
+      "孙武",
+      "姜子牙",
+      "鬼谷子"
+    ],
+    "conflict": "谋国与退路",
+    "template": "T3",
+    "hook_type": "承接争议",
+    "structure": "回顾后五→声明一家之言→前五逐人功业结局→十字收束",
+    "ending": "榜单讨论",
+    "cluster": "谋士榜单",
+    "source_class": "史事与传说混合",
+    "risk": "与H001高度同题；个人观点不能转成客观排名；师承传说须分层",
+    "next_angle": "把管仲的治理能力单独展开",
+    "annotation_status": "全文阅读后人工结构与风险标注；不是逐句史实鉴定"
+  },
+  {
+    "id": "H009",
+    "video_id": "15002440056806906316",
+    "account": "王老师读史观心",
+    "platform": "channels",
+    "original_path": "corpus/raw/H009.md",
+    "original_sha256": "e361ed76e56ce3c0e469d9e3be7d3e89e55743b3cf0b85878c37e70f86b330dd",
+    "source_url": null,
+    "published_at": null,
+    "collected_updated_at": null,
+    "original_caption": "27天废帝，对比装孙子6年反杀！一个狂一个忍，废帝刘贺后来经历了什么？#历史#霍光#刘贺#汉宣帝#西汉#权谋",
+    "metrics": {
+      "likes": 733,
+      "saves": 999,
+      "comments": 183,
+      "shares": 363
+    },
+    "body_chars_with_punctuation": 2588,
+    "raw_path": "corpus/raw/H009.md",
+    "clean_path": "corpus/clean/H009.txt",
+    "split": "discovery",
+    "cleaning_status": "仅保守转写清洗，未完成逐句史实核验",
+    "corrections": [
+      {
+        "before": "轮椅",
+        "after": "龙椅",
+        "count": 1,
+        "reason": "上下文明确的转写同音错词"
+      },
+      {
+        "before": "刘洵",
+        "after": "刘询",
+        "count": 14,
+        "reason": "上下文明确的转写同音错词"
+      }
+    ],
+    "source_types": [
+      "视频音轨转写"
+    ],
+    "fact_status": "未整体核实",
+    "title": "刘贺被废后的海昏侯人生",
+    "era": "秦汉",
+    "era_tags": [
+      "西汉"
+    ],
+    "people": [
+      "刘贺",
+      "霍光",
+      "刘询"
+    ],
+    "conflict": "身份骤变与失去自主",
+    "template": "T1",
+    "hook_type": "废立场景",
+    "structure": "27天被废→继位背景→失势与封侯→墓葬黄金→对照刘询→身世续集",
+    "ending": "系列回扣",
+    "cluster": "汉宣帝霍氏",
+    "source_class": "史事混合大量场景演绎",
+    "risk": "海昏词源羞辱说、监视时间线、减户数量、金器重量待核；洪水老农对白无出处",
+    "next_angle": "从考古材料与史传评价的差异看刘贺",
+    "annotation_status": "全文阅读后人工结构与风险标注；不是逐句史实鉴定"
+  },
+  {
+    "id": "H010",
+    "video_id": "14983495786363755045",
+    "account": "王老师读史观心",
+    "platform": "channels",
+    "original_path": "corpus/raw/H010.md",
+    "original_sha256": "c93acbc5188caa2a4b0825f6d507969665ea54b534530b58f5fd427c94fdb6dc",
+    "source_url": null,
+    "published_at": null,
+    "collected_updated_at": null,
+    "original_caption": "曹操杀杨修，根本不是因为“鸡肋”！他触碰了最致命的“死规矩”#三国历史#历史人物故事#为人处世#职场生存#人情世故#杨修",
+    "metrics": {
+      "likes": 438,
+      "saves": 723,
+      "comments": 49,
+      "shares": 1488
+    },
+    "body_chars_with_punctuation": 1860,
+    "raw_path": "corpus/raw/H010.md",
+    "clean_path": "corpus/clean/H010.txt",
+    "split": "discovery",
+    "cleaning_status": "仅保守转写清洗，未完成逐句史实核验",
+    "corrections": [],
+    "source_types": [
+      "视频音轨转写"
+    ],
+    "fact_status": "未整体核实",
+    "title": "杨修越过了哪些边界",
+    "era": "三国至两晋南北朝",
+    "era_tags": [
+      "东汉末"
+    ],
+    "people": [
+      "杨修",
+      "曹操",
+      "曹植"
+    ],
+    "conflict": "才智与授权",
+    "template": "T2",
+    "hook_type": "刑场追问",
+    "structure": "无人求情→才智与门阔酥饼→夺嫡与司马门→门店打折类比→三条提醒",
+    "ending": "转发年轻人",
+    "cluster": "杨修之死",
+    "source_class": "史事与演义及现代类比混合",
+    "risk": "不能认定杨修同车闯门；朋友门店经历不能移植为自己的；雇佣关系不可等同君臣",
+    "next_angle": "区分提出建议与代替决策的边界",
+    "annotation_status": "全文阅读后人工结构与风险标注；不是逐句史实鉴定"
+  },
+  {
+    "id": "H011",
+    "video_id": "14976710352822082044",
+    "account": "王老师读史观心",
+    "platform": "channels",
+    "original_path": "corpus/raw/H011.md",
+    "original_sha256": "438ad1a0b5b31a29361726d68e8ae2fc1349e0daf00c38292b87ffd7c5f41a6c",
+    "source_url": null,
+    "published_at": null,
+    "collected_updated_at": null,
+    "original_caption": "狠人刘裕灭门司马家，最后落了个什么下场？#司马懿#历史故事#人情世故#人间清醒#刘裕",
+    "metrics": {
+      "likes": 488,
+      "saves": 910,
+      "comments": 63,
+      "shares": 659
+    },
+    "body_chars_with_punctuation": 1207,
+    "raw_path": "corpus/raw/H011.md",
+    "clean_path": "corpus/clean/H011.txt",
+    "split": "discovery",
+    "cleaning_status": "仅保守转写清洗，未完成逐句史实核验",
+    "corrections": [],
+    "source_types": [
+      "视频音轨转写"
+    ],
+    "fact_status": "未整体核实",
+    "title": "刘裕的崛起与后代结局",
+    "era": "三国至两晋南北朝",
+    "era_tags": [
+      "东晋",
+      "南朝",
+      "刘宋"
+    ],
+    "people": [
+      "刘裕",
+      "司马氏"
+    ],
+    "conflict": "个人功业与家族延续",
+    "template": "T1",
+    "hook_type": "强人后果",
+    "structure": "灭司马氏设问→贫困从军→节俭治国→北伐遗憾→后代败亡→宿命解释",
+    "ending": "卖书",
+    "cluster": "刘裕司马氏",
+    "source_class": "史事混合场景演绎",
+    "risk": "刘宋与宋朝须区分；刘裕与刘昱混名；皇族灭绝和因果报应不能作事实因果",
+    "next_angle": "用军功与继承能力的差异解释盛衰",
+    "annotation_status": "全文阅读后人工结构与风险标注；不是逐句史实鉴定"
+  },
+  {
+    "id": "H012",
+    "video_id": "14973823122265872931",
+    "account": "王老师读史观心",
+    "platform": "channels",
+    "original_path": "corpus/raw/H012.md",
+    "original_sha256": "750e60388af994fe7cbb4f244f525fe8e3d3eb2170282a67bee78dcc9264ba1f",
+    "source_url": null,
+    "published_at": null,
+    "collected_updated_at": null,
+    "original_caption": "刘邦，一个快50岁的街溜子，凭什么4年干翻项羽？#历史 #历史故事 #处世智慧 #历史人物",
+    "metrics": {
+      "likes": 702,
+      "saves": 1098,
+      "comments": 87,
+      "shares": 1839
+    },
+    "body_chars_with_punctuation": 2626,
+    "raw_path": "corpus/raw/H012.md",
+    "clean_path": "corpus/clean/H012.txt",
+    "split": "discovery",
+    "cleaning_status": "仅保守转写清洗，未完成逐句史实核验",
+    "corrections": [],
+    "source_types": [
+      "视频音轨转写"
+    ],
+    "fact_status": "未整体核实",
+    "title": "刘邦如何组织比自己强的人",
+    "era": "秦汉",
+    "era_tags": [
+      "秦末",
+      "楚汉",
+      "西汉"
+    ],
+    "people": [
+      "刘邦",
+      "项羽",
+      "张良",
+      "韩信",
+      "萧何"
+    ],
+    "conflict": "个人能力与组织能力",
+    "template": "T4",
+    "hook_type": "名人背书和身份反差",
+    "structure": "草根起点→能屈伸、能改错、能用人三组事例→三项历史影响→局限→回到普通人",
+    "ending": "荐书与帝王系列",
+    "cluster": "刘邦用人",
+    "source_class": "史事混合评价",
+    "risk": "毛泽东评价须核原文；夏侯婴转写为夏侯惇；放弃子女不宜作为普适成功法则",
+    "next_angle": "聚焦一次听劝改令，讲用人如何落到行动",
+    "annotation_status": "全文阅读后人工结构与风险标注；不是逐句史实鉴定"
+  },
+  {
+    "id": "H013",
+    "video_id": "14980268800936581648",
+    "account": "王老师读史观心",
+    "platform": "channels",
+    "original_path": "corpus/raw/H013.md",
+    "original_sha256": "70050ba87812ae4b7f9b701e20eede7c4d929fb19bb00db03360d675c257b9ae",
+    "source_url": null,
+    "published_at": null,
+    "collected_updated_at": null,
+    "original_caption": "蒙恬李斯都犯怵的赵高，凭啥被一个“窝囊废”除掉了？\n#历史故事 #赵高 #秦始皇 #人生智慧",
+    "metrics": {
+      "likes": 27602,
+      "saves": 41202,
+      "comments": 1678,
+      "shares": 10657
+    },
+    "body_chars_with_punctuation": 1953,
+    "raw_path": "corpus/raw/H013.md",
+    "clean_path": "corpus/clean/H013.txt",
+    "split": "discovery",
+    "cleaning_status": "仅保守转写清洗，未完成逐句史实核验",
+    "corrections": [],
+    "source_types": [
+      "视频音轨转写"
+    ],
+    "fact_status": "未整体核实",
+    "title": "子婴如何诛赵高",
+    "era": "秦汉",
+    "era_tags": [
+      "秦",
+      "秦末"
+    ],
+    "people": [
+      "子婴",
+      "赵高",
+      "刘邦",
+      "项羽"
+    ],
+    "conflict": "弱者反击与大势不可挽",
+    "template": "T1",
+    "hook_type": "弱者身份反差",
+    "structure": "强人未做到→子婴隐忍→斋戒称病诱杀→救秦失败→投降与死亡→尽力的价值",
+    "ending": "自我代入提问",
+    "cluster": "子婴秦亡",
+    "source_class": "史事混合大量演绎",
+    "risk": "五天与四十一天划分、装弱三年、兵力、具体杀法及阿房宫火灾待核；身世有争议",
+    "next_angle": "只讲斋戒称病一段如何改变接近权臣的条件",
+    "annotation_status": "全文阅读后人工结构与风险标注；不是逐句史实鉴定"
+  },
+  {
+    "id": "H014",
+    "video_id": "14985505249322670588",
+    "account": "王老师读史观心",
+    "platform": "channels",
+    "original_path": "corpus/raw/H014.md",
+    "original_sha256": "88456868b92328a31a9b7433f17664fc24553dd7125867035adb78744a3b2a0a",
+    "source_url": null,
+    "published_at": null,
+    "collected_updated_at": null,
+    "original_caption": "你家也有一扇玄武门！父母种下的因，儿女迟早会还。看懂大唐这段历史，才懂规矩和家风有多要命！#历史故事 #玄武门之变#因果报应 #为人处世#家庭教育 #家风传承",
+    "metrics": {
+      "likes": 448,
+      "saves": 564,
+      "comments": 67,
+      "shares": 325
+    },
+    "body_chars_with_punctuation": 2097,
+    "raw_path": "corpus/raw/H014.md",
+    "clean_path": "corpus/clean/H014.txt",
+    "split": "validation",
+    "cleaning_status": "仅保守转写清洗，未完成逐句史实核验",
+    "corrections": [],
+    "source_types": [
+      "视频音轨转写"
+    ],
+    "fact_status": "未整体核实",
+    "title": "玄武门与唐朝继承冲突",
+    "era": "隋唐武周",
+    "era_tags": [
+      "唐",
+      "武周"
+    ],
+    "people": [
+      "李世民",
+      "李渊",
+      "武则天",
+      "李隆基",
+      "李亨"
+    ],
+    "conflict": "破坏规则与后续模仿",
+    "template": "T2",
+    "hook_type": "暴烈场景",
+    "structure": "玄武门→武周→唐隆先天政变→灵武即位→家庭示范类比",
+    "ending": "因果互动",
+    "cluster": "唐朝继承",
+    "source_class": "史事混合强因果解读",
+    "risk": "提刀逼父对白无据；多个政变时序待核；不能把唐代全部动乱归因于一事",
+    "next_angle": "比较不同继承危机中的兵权归属",
+    "annotation_status": "全文阅读后人工结构与风险标注；不是逐句史实鉴定"
+  },
+  {
+    "id": "H015",
+    "video_id": "15003221451498265049",
+    "account": "王老师读史观心",
+    "platform": "channels",
+    "original_path": "corpus/raw/H015.md",
+    "original_sha256": "faa5057c4360e03e9ff1177aeec31b561049e1d3abd0174b4d22561c2f00bd76",
+    "source_url": null,
+    "published_at": null,
+    "collected_updated_at": null,
+    "original_caption": "全家满门抄斩，这个漏掉的婴儿，凭什么成了大汉最硬的皇帝？#历史故事 #汉宣帝 #霍光#人情世故#人生智慧",
+    "metrics": {
+      "likes": 7428,
+      "saves": 8206,
+      "comments": 209,
+      "shares": 2644
+    },
+    "body_chars_with_punctuation": 2543,
+    "raw_path": "corpus/raw/H015.md",
+    "clean_path": "corpus/clean/H015.txt",
+    "split": "discovery",
+    "cleaning_status": "仅保守转写清洗，未完成逐句史实核验",
+    "corrections": [
+      {
+        "before": "刘洵",
+        "after": "刘询",
+        "count": 22,
+        "reason": "上下文明确的转写同音错词"
+      }
+    ],
+    "source_types": [
+      "视频音轨转写"
+    ],
+    "fact_status": "未整体核实",
+    "title": "刘询从狱中婴儿到皇帝",
+    "era": "秦汉",
+    "era_tags": [
+      "西汉"
+    ],
+    "people": [
+      "刘询",
+      "丙吉",
+      "张贺",
+      "许平君",
+      "霍光"
+    ],
+    "conflict": "生存经历与政治选择",
+    "template": "T1",
+    "hook_type": "弱者险境",
+    "structure": "婴儿入狱→丙吉救护→民间婚姻→登基受制→许后死与霍氏败→对照刘贺",
+    "ending": "反问与系列预告",
+    "cluster": "汉宣帝霍氏",
+    "source_class": "史事混合大量虚构场景",
+    "risk": "婴儿存活情节、野花意象、死后回忆和对白不能当史实；六年时间混用",
+    "next_angle": "从丙吉救护及张贺资助讲人物命运的接力",
+    "annotation_status": "全文阅读后人工结构与风险标注；不是逐句史实鉴定"
+  },
+  {
+    "id": "H016",
+    "video_id": "14982239455220865551",
+    "account": "王老师读史观心",
+    "platform": "channels",
+    "original_path": "corpus/raw/H016.md",
+    "original_sha256": "5876b346d2debf2206c5647d6e1d495b0686e60d40eec09bf19a3bdd38db73a6",
+    "source_url": null,
+    "published_at": null,
+    "collected_updated_at": null,
+    "original_caption": "人在局中，该进还是该退？看看貂蝉的大智慧。#貂蝉 #三国演义 #三国 #历史人物故事 #处世智慧 #人情世故",
+    "metrics": {
+      "likes": 37702,
+      "saves": 35302,
+      "comments": 1447,
+      "shares": 17995
+    },
+    "body_chars_with_punctuation": 1550,
+    "raw_path": "corpus/raw/H016.md",
+    "clean_path": "corpus/clean/H016.txt",
+    "split": "discovery",
+    "cleaning_status": "仅保守转写清洗，未完成逐句史实核验",
+    "corrections": [],
+    "source_types": [
+      "视频音轨转写"
+    ],
+    "fact_status": "未整体核实",
+    "title": "貂蝉在曹营谈退场",
+    "era": "三国至两晋南北朝",
+    "era_tags": [
+      "三国演义背景",
+      "东汉末"
+    ],
+    "people": [
+      "貂蝉",
+      "曹操",
+      "吕布"
+    ],
+    "conflict": "秘密与退出",
+    "template": "T2",
+    "hook_type": "美貌与生存反差",
+    "structure": "旧结局猜测→曹营放走→三条件谈判→职场守密类比",
+    "ending": "处世提醒",
+    "cluster": "貂蝉退场",
+    "source_class": "文学角色的现代演绎",
+    "risk": "曹营谈判不能默认来自三国演义原著；小说角色不等于正史无名人物",
+    "next_angle": "明确作为新编故事，写出谈判筹码及代价",
+    "annotation_status": "全文阅读后人工结构与风险标注；不是逐句史实鉴定"
+  },
+  {
+    "id": "H017",
+    "video_id": "14974931207443061242",
+    "account": "王老师读史观心",
+    "platform": "channels",
+    "original_path": "corpus/raw/H017.md",
+    "original_sha256": "5061f5e42a00e32552d38c3998933cd17caad924bd575b38aebcc3b54fbc9cba",
+    "source_url": null,
+    "published_at": null,
+    "collected_updated_at": null,
+    "original_caption": "司马懿算计一生，为何换来满门绝户？读懂司马家四代人的报应，也就看透了人情世故。#司马懿 #三国历史 #以史为鉴 #人情世故 #传统文化",
+    "metrics": {
+      "likes": 7205,
+      "saves": 13802,
+      "comments": 471,
+      "shares": 10947
+    },
+    "body_chars_with_punctuation": 2577,
+    "raw_path": "corpus/raw/H017.md",
+    "clean_path": "corpus/clean/H017.txt",
+    "split": "discovery",
+    "cleaning_status": "仅保守转写清洗，未完成逐句史实核验",
+    "corrections": [],
+    "source_types": [
+      "视频音轨转写"
+    ],
+    "fact_status": "未整体核实",
+    "title": "司马氏四代与刘裕代晋",
+    "era": "三国至两晋南北朝",
+    "era_tags": [
+      "三国",
+      "西晋",
+      "东晋",
+      "南朝"
+    ],
+    "people": [
+      "司马懿",
+      "司马昭",
+      "司马炎",
+      "司马衷",
+      "刘裕"
+    ],
+    "conflict": "夺权收益与后世代价",
+    "template": "T2",
+    "hook_type": "极端结局",
+    "structure": "灭族断言→高平陵→弑君→享乐→八王之乱→报应收束",
+    "ending": "道德裁决提问",
+    "cluster": "刘裕司马氏",
+    "source_class": "史事混合宿命论",
+    "risk": "把数代时间压成几十年；司马衷等混名；直系灭绝无充分证据；屠杀不可合理化",
+    "next_angle": "拆开政权终结与宗族血脉消失两个概念",
+    "annotation_status": "全文阅读后人工结构与风险标注；不是逐句史实鉴定"
+  },
+  {
+    "id": "H018",
+    "video_id": "14977101384618023449",
+    "account": "王老师读史观心",
+    "platform": "channels",
+    "original_path": "corpus/raw/H018.md",
+    "original_sha256": "ac93a49226092d982f6ac829d4e8ca2202ca239e2dcb0f6562e5a0a6e280da4b",
+    "source_url": null,
+    "published_at": null,
+    "collected_updated_at": null,
+    "original_caption": "为什么老实人往往最吃亏？赵云一身本事却挤不进圈子，但他这一生，却写透了多少不愿同流合污的‘干净人’！#赵云#三国历史#人情世故#为人处世",
+    "metrics": {
+      "likes": 6072,
+      "saves": 8469,
+      "comments": 1652,
+      "shares": 4379
+    },
+    "body_chars_with_punctuation": 1911,
+    "raw_path": "corpus/raw/H018.md",
+    "clean_path": "corpus/clean/H018.txt",
+    "split": "discovery",
+    "cleaning_status": "仅保守转写清洗，未完成逐句史实核验",
+    "corrections": [],
+    "source_types": [
+      "视频音轨转写"
+    ],
+    "fact_status": "未整体核实",
+    "title": "赵云的原则与职位",
+    "era": "三国至两晋南北朝",
+    "era_tags": [
+      "东汉末",
+      "三国",
+      "蜀汉"
+    ],
+    "people": [
+      "赵云",
+      "刘备",
+      "诸葛亮"
+    ],
+    "conflict": "原则与分配",
+    "template": "T2",
+    "hook_type": "功劳职位反差",
+    "structure": "救主未入核心→劝还田宅→劝止伐吴→职位对比→孤臣价值",
+    "ending": "敬佩转发",
+    "cluster": "赵云评价",
+    "source_class": "史传与演义混合",
+    "risk": "结义来自文学；官职先后和卒年追谥待核；官位低不自动证明被排挤",
+    "next_angle": "围绕还田宅主张讲个人功劳与公共利益",
+    "annotation_status": "全文阅读后人工结构与风险标注；不是逐句史实鉴定"
+  },
+  {
+    "id": "H019",
+    "video_id": "14990415666843949574",
+    "account": "王老师读史观心",
+    "platform": "channels",
+    "original_path": "corpus/raw/H019.md",
+    "original_sha256": "9af99e80e2b684aea12b27f203a402b13bfd841d7095bea8410b0c0358e506c4",
+    "source_url": null,
+    "published_at": null,
+    "collected_updated_at": null,
+    "original_caption": "襄阳城里最大的笑话，怎么就成了诸葛亮三分天下的胜负手？全城笑他娶丑妻，他到底在下一盘什么棋？#三国 #诸葛亮 #婚姻观 #国学智慧",
+    "metrics": {
+      "likes": 302,
+      "saves": 444,
+      "comments": 30,
+      "shares": 296
+    },
+    "body_chars_with_punctuation": 1591,
+    "raw_path": "corpus/raw/H019.md",
+    "clean_path": "corpus/clean/H019.txt",
+    "split": "validation",
+    "cleaning_status": "仅保守转写清洗，未完成逐句史实核验",
+    "corrections": [],
+    "source_types": [
+      "视频音轨转写"
+    ],
+    "fact_status": "未整体核实",
+    "title": "诸葛亮婚姻与荆州关系",
+    "era": "三国至两晋南北朝",
+    "era_tags": [
+      "东汉末",
+      "三国"
+    ],
+    "people": [
+      "诸葛亮",
+      "黄承彦",
+      "黄夫人"
+    ],
+    "conflict": "外界评价与长期相处",
+    "template": "T2",
+    "hook_type": "婚礼笑声悬念",
+    "structure": "婚礼被笑→黄氏才学→家族网络→家庭支持→长期婚姻评价",
+    "ending": "家庭共鸣",
+    "cluster": "诸葛亮婚姻",
+    "source_class": "史籍传闻与民间演绎",
+    "risk": "黄月英称谓、木牛流马归功、终身无妾须分层；用后来三国地位倒推婚姻动机",
+    "next_angle": "从黄承彦择婿传闻讨论后世为何反复讲这门婚事",
+    "annotation_status": "全文阅读后人工结构与风险标注；不是逐句史实鉴定"
+  },
+  {
+    "id": "H020",
+    "video_id": "14987979725997873665",
+    "account": "王老师读史观心",
+    "platform": "channels",
+    "original_path": "corpus/raw/H020.md",
+    "original_sha256": "549013fb6ecfe7db1f277ae4c62e024f94bb6b56d9edcff565673ee02f056482",
+    "source_url": null,
+    "published_at": null,
+    "collected_updated_at": null,
+    "original_caption": "一个差点让咱们的孙子挺不直腰杆的男人，汉武帝到底图什么？#汉武帝 #历史人物 #民族自豪 #中华文化 #读史观心 #历史那些事儿 #大汉",
+    "metrics": {
+      "likes": 2320,
+      "saves": 3130,
+      "comments": 585,
+      "shares": 1953
+    },
+    "body_chars_with_punctuation": 2402,
+    "raw_path": "corpus/raw/H020.md",
+    "clean_path": "corpus/clean/H020.txt",
+    "split": "discovery",
+    "cleaning_status": "仅保守转写清洗，未完成逐句史实核验",
+    "corrections": [],
+    "source_types": [
+      "视频音轨转写"
+    ],
+    "fact_status": "未整体核实",
+    "title": "汉武帝的战争成本与历史遗产",
+    "era": "秦汉",
+    "era_tags": [
+      "西汉"
+    ],
+    "people": [
+      "汉武帝",
+      "卫青",
+      "霍去病",
+      "张骞"
+    ],
+    "conflict": "眼前成本与长期安全",
+    "template": "T4",
+    "hook_type": "强反事实",
+    "structure": "后代尊严→战争耗费→此前困境→长期影响→晚年认错→家长类比",
+    "ending": "家国感悟",
+    "cluster": "汉武帝评价",
+    "source_class": "史事混合强立场评价",
+    "risk": "战争年数与引文出处待核；未打仗便无中国是不可验证反事实；不能免除战争成本",
+    "next_angle": "分别计算战争目标、财政代价与后续调整",
+    "annotation_status": "全文阅读后人工结构与风险标注；不是逐句史实鉴定"
+  },
+  {
+    "id": "H021",
+    "video_id": "14973886745878272539",
+    "account": "王老师读史观心",
+    "platform": "channels",
+    "original_path": "corpus/raw/H021.md",
+    "original_sha256": "8194059db0ac8bfb9772333b2b16b0b91673b1640995b42245b37addceb55b92",
+    "source_url": null,
+    "published_at": null,
+    "collected_updated_at": null,
+    "original_caption": "这5位离皇位仅一步之遥的狠人，为何把天下又放了回去？#历史#历史人物 #人生哲理 #曹操",
+    "metrics": {
+      "likes": 9019,
+      "saves": 6062,
+      "comments": 333,
+      "shares": 1975
+    },
+    "body_chars_with_punctuation": 1810,
+    "raw_path": "corpus/raw/H021.md",
+    "clean_path": "corpus/clean/H021.txt",
+    "split": "discovery",
+    "cleaning_status": "仅保守转写清洗，未完成逐句史实核验",
+    "corrections": [],
+    "source_types": [
+      "视频音轨转写"
+    ],
+    "fact_status": "未整体核实",
+    "title": "五位未称帝者的不同选择",
+    "era": "跨朝代",
+    "era_tags": [
+      "西周",
+      "东汉末",
+      "唐",
+      "清"
+    ],
+    "people": [
+      "周公",
+      "曹操",
+      "郭子仪",
+      "曾国藩",
+      "多尔衮"
+    ],
+    "conflict": "权势与退让",
+    "template": "T3",
+    "hook_type": "反常选择",
+    "structure": "天下在手却退→五人不同退法→放下尺度→荐书",
+    "ending": "讨论最佩服谁",
+    "cluster": "未称帝者",
+    "source_class": "史事混合假设",
+    "risk": "能当皇帝只是作者假设；五人权力条件不可等同；部分人物结局与善终主题相冲",
+    "next_angle": "从主动交权、暂缓称帝、受制未立三个原因重分",
+    "annotation_status": "全文阅读后人工结构与风险标注；不是逐句史实鉴定"
+  },
+  {
+    "id": "H022",
+    "video_id": "14984449171802102292",
+    "account": "王老师读史观心",
+    "platform": "channels",
+    "original_path": "corpus/raw/H022.md",
+    "original_sha256": "8e0be46ac120a9f3e1b00648f324f6551ea173f9aa56b6962a1a97bb5bc98808",
+    "source_url": null,
+    "published_at": null,
+    "collected_updated_at": null,
+    "original_caption": "中国历史上死得最惨的丞相，不是胡惟庸，而是帮陛下打天下的他！您觉得他是死有余辜，还是令人惋惜？\n#历史 #历史故事 #李斯 #秦始皇 #人生智慧 #老祖宗的智慧",
+    "metrics": {
+      "likes": 836,
+      "saves": 1059,
+      "comments": 85,
+      "shares": 517
+    },
+    "body_chars_with_punctuation": 1851,
+    "raw_path": "corpus/raw/H022.md",
+    "clean_path": "corpus/clean/H022.txt",
+    "split": "validation",
+    "cleaning_status": "仅保守转写清洗，未完成逐句史实核验",
+    "corrections": [],
+    "source_types": [
+      "视频音轨转写"
+    ],
+    "fact_status": "未整体核实",
+    "title": "李斯在沙丘的选择",
+    "era": "秦汉",
+    "era_tags": [
+      "秦",
+      "秦末"
+    ],
+    "people": [
+      "李斯",
+      "赵高",
+      "扶苏",
+      "胡亥"
+    ],
+    "conflict": "保住地位与失去退路",
+    "template": "T1",
+    "hook_type": "惨死之谜",
+    "structure": "处刑反差→沙丘危机→恐惧被替代→改诏→被架空→黄犬遗言",
+    "ending": "底线提醒",
+    "cluster": "李斯沙丘",
+    "source_class": "史事混合场景演绎",
+    "risk": "赵高被审涉及蒙毅不是蒙恬；遗诏内容不可擅改为明确传位；年龄与对白待核",
+    "next_angle": "一项短期自保决定怎样改变后续选择空间",
+    "annotation_status": "全文阅读后人工结构与风险标注；不是逐句史实鉴定"
+  },
+  {
+    "id": "H023",
+    "video_id": "14978889713154726427",
+    "account": "王老师读史观心",
+    "platform": "channels",
+    "original_path": "corpus/raw/H023.md",
+    "original_sha256": "13e0aec446697e5deff848244263e30021abdbde9bcf9f8fc7469aae7cd90f98",
+    "source_url": null,
+    "published_at": null,
+    "collected_updated_at": null,
+    "original_caption": "诸葛亮抚琴，司马懿退兵。十五万大军打不过一座空城？#三国演义 #空城计 #司马懿 #诸葛亮#人情世故",
+    "metrics": {
+      "likes": 426,
+      "saves": 600,
+      "comments": 36,
+      "shares": 459
+    },
+    "body_chars_with_punctuation": 1328,
+    "raw_path": "corpus/raw/H023.md",
+    "clean_path": "corpus/clean/H023.txt",
+    "split": "discovery",
+    "cleaning_status": "仅保守转写清洗，未完成逐句史实核验",
+    "corrections": [],
+    "source_types": [
+      "视频音轨转写"
+    ],
+    "fact_status": "未整体核实",
+    "title": "空城计的养寇自重解读",
+    "era": "三国至两晋南北朝",
+    "era_tags": [
+      "三国演义背景",
+      "三国"
+    ],
+    "people": [
+      "诸葛亮",
+      "司马懿"
+    ],
+    "conflict": "战场胜负与个人利益",
+    "template": "T2",
+    "hook_type": "逆向断言",
+    "structure": "空城不攻设问→曹魏处境→保命动机→撤退收益→高平陵",
+    "ending": "处世反思",
+    "cluster": "空城计解读",
+    "source_class": "文学情节的现代解读",
+    "risk": "不能把默契放水写成史实或原著定论；曹真与韩信传说混入；高平陵因果牵强",
+    "next_angle": "比较小说中谨慎退兵与现代读者放水解读",
+    "annotation_status": "全文阅读后人工结构与风险标注；不是逐句史实鉴定"
+  },
+  {
+    "id": "H024",
+    "video_id": "14998818032838515719",
+    "account": "王老翻史书",
+    "platform": "channels",
+    "original_path": "corpus/raw/H024.md",
+    "original_sha256": "73e2141a9a31d78c570ca3817eb22ecb359a749d68ee7d297c3793994fd04e69",
+    "source_url": null,
+    "published_at": null,
+    "collected_updated_at": null,
+    "original_caption": "丢掉全部家底，靠一招把钱找回来了#历史故事 #历史人物 #读史明智 #周敬山 #明末清初 #民间故事 #临危不乱 #人性",
+    "metrics": {
+      "likes": 1018,
+      "saves": 1078,
+      "comments": 128,
+      "shares": 2667
+    },
+    "body_chars_with_punctuation": 2303,
+    "raw_path": "corpus/raw/H024.md",
+    "clean_path": "corpus/clean/H024.txt",
+    "split": "discovery",
+    "cleaning_status": "仅保守转写清洗，未完成逐句史实核验",
+    "corrections": [],
+    "source_types": [
+      "视频音轨转写"
+    ],
+    "fact_status": "未整体核实",
+    "title": "破伞失而复得的三次应对",
+    "era": "明清",
+    "era_tags": [
+      "明末清初背景"
+    ],
+    "people": [
+      "周敬山"
+    ],
+    "conflict": "损失与冷静应对",
+    "template": "T6",
+    "hook_type": "道具价值反差",
+    "structure": "丢伞→观察残余财物→倒叙藏银→修伞守候→受阻换新伞→兑现→回扣应变",
+    "ending": "经验提问",
+    "cluster": "失伞故事",
+    "source_class": "民间故事",
+    "risk": "周静山与周敬山不自动认定同名；银票金额和朝代仅为故事设定；感官细节为演绎",
+    "next_angle": "比较守株待兔与改变交换条件两种找回办法",
+    "annotation_status": "全文阅读后人工结构与风险标注；不是逐句史实鉴定"
+  },
+  {
+    "id": "H025",
+    "video_id": "14976753136333494780",
+    "account": "王老翻史书",
+    "platform": "channels",
+    "original_path": "corpus/raw/H025.md",
+    "original_sha256": "4faba37ee1460497e01e75c0711e81fe1f5d652a67c9676c3d0f617b7fa2de38",
+    "source_url": null,
+    "published_at": null,
+    "collected_updated_at": null,
+    "original_caption": "风水、阴阳、坐北朝南，全砌进了一座城里#历史 #宇文恺 #长安城 #隋唐 #中国建筑 #中国文化 #传统文化 #西安 #京都 #中国文化1000问",
+    "metrics": {
+      "likes": 6186,
+      "saves": 7356,
+      "comments": 485,
+      "shares": 12876
+    },
+    "body_chars_with_punctuation": 2606,
+    "raw_path": "corpus/raw/H025.md",
+    "clean_path": "corpus/clean/H025.txt",
+    "split": "discovery",
+    "cleaning_status": "仅保守转写清洗，未完成逐句史实核验",
+    "corrections": [],
+    "source_types": [
+      "视频音轨转写"
+    ],
+    "fact_status": "未整体核实",
+    "title": "宇文恺怎样规划大兴城",
+    "era": "隋唐武周",
+    "era_tags": [
+      "隋",
+      "唐"
+    ],
+    "people": [
+      "宇文恺"
+    ],
+    "conflict": "工程约束与都城秩序",
+    "template": "T5",
+    "hook_type": "熟悉成就陌生人物",
+    "structure": "无名建筑师→迁城水源→选址尺度中轴里坊宫城→工程组织→移动宫殿→今天遗产",
+    "ending": "知识荐书",
+    "cluster": "宇文恺营造",
+    "source_class": "史事与技术解释混合",
+    "risk": "宇文恺姓名转写多样；出生年份、全城九月建成、里坊数与全球排名待核",
+    "next_angle": "从供水与城市位置解释为何另建新都",
+    "annotation_status": "全文阅读后人工结构与风险标注；不是逐句史实鉴定"
+  },
+  {
+    "id": "H026",
+    "video_id": "14978552492133259800",
+    "account": "王老翻史书",
+    "platform": "channels",
+    "original_path": "corpus/raw/H026.md",
+    "original_sha256": "9573f2e8d73c4c3a95dfd15b7336745f9f09c234d48fdb22032d8e36b91bc46a",
+    "source_url": null,
+    "published_at": null,
+    "collected_updated_at": null,
+    "original_caption": "故宫为什么没有厕所？七十二万平方米，一万多人住了五百年，不臭不涝，连暴雨都淹不住。老祖宗真正厉害的地方，不只在大殿和红墙黄瓦，而是把最不起眼的排水、气味和规矩，都做成了门道。#故宫 #紫禁城 #千龙吐水 #故宫排水 #中国文化常识 #历史冷知识 #传统文化 #历史故事",
+    "metrics": {
+      "likes": 368,
+      "saves": 607,
+      "comments": 24,
+      "shares": 1585
+    },
+    "body_chars_with_punctuation": 3709,
+    "raw_path": "corpus/raw/H026.md",
+    "clean_path": "corpus/clean/H026.txt",
+    "split": "validation",
+    "cleaning_status": "仅保守转写清洗，未完成逐句史实核验",
+    "corrections": [],
+    "source_types": [
+      "视频音轨转写"
+    ],
+    "fact_status": "未整体核实",
+    "title": "故宫日常设施里的工程与秩序",
+    "era": "明清",
+    "era_tags": [
+      "明",
+      "清"
+    ],
+    "people": [
+      "故宫"
+    ],
+    "conflict": "宏伟外观与隐蔽功能",
+    "template": "T5",
+    "hook_type": "日常问题",
+    "structure": "厕所悬念→便器→排水坡孔河→门钉→金砖地基→配色→房间传说→亲子问答",
+    "ending": "知识荐书",
+    "cluster": "故宫日常",
+    "source_class": "知识解说混合传闻",
+    "risk": "没有地下管道与后文暗沟冲突；香水起源、门钉死刑、房间半间寓意均待核",
+    "next_angle": "只选排水一个问题，区分污物清运与雨水系统",
+    "annotation_status": "全文阅读后人工结构与风险标注；不是逐句史实鉴定"
+  },
+  {
+    "id": "H027",
+    "video_id": "14987952591181781511",
+    "account": "王老翻史书",
+    "platform": "channels",
+    "original_path": "corpus/raw/H027.md",
+    "original_sha256": "96cb204d2f355a11c1c5965c0c929df0fbee3aaa256ce008dfc12a11c51a03c3",
+    "source_url": null,
+    "published_at": null,
+    "collected_updated_at": null,
+    "original_caption": "嘉庆杀和珅，不是因为他突然发现和珅贪，他早就知道，真正吓人的地方在这儿：乾隆还活着的时候，嘉庆明明已经是皇帝，却连动和珅一根手指头都不敢。#历史故事 #和珅 #嘉庆 #乾隆 #清朝历史 #人物命运 #人情世故 #中老年历史",
+    "metrics": {
+      "likes": 227,
+      "saves": 273,
+      "comments": 20,
+      "shares": 108
+    },
+    "body_chars_with_punctuation": 1818,
+    "raw_path": "corpus/raw/H027.md",
+    "clean_path": "corpus/clean/H027.txt",
+    "split": "discovery",
+    "cleaning_status": "仅保守转写清洗，未完成逐句史实核验",
+    "corrections": [],
+    "source_types": [
+      "视频音轨转写"
+    ],
+    "fact_status": "未整体核实",
+    "title": "和珅的三本账",
+    "era": "明清",
+    "era_tags": [
+      "清"
+    ],
+    "people": [
+      "和珅",
+      "嘉庆",
+      "乾隆"
+    ],
+    "conflict": "依赖与替罪",
+    "template": "T2",
+    "hook_type": "恩宠骤变",
+    "structure": "杀贪官另问不逃→乾隆脸面账→嘉庆位置账→和珅命账→死后机制仍在",
+    "ending": "现实边界提醒",
+    "cluster": "和珅嘉庆",
+    "source_class": "史事混合传闻解读",
+    "risk": "议罪银名称错；牢中对话未核；不能只凭用处推定所有犯罪动机",
+    "next_angle": "为何处理一个权臣并不能自动改变财政机制",
+    "annotation_status": "全文阅读后人工结构与风险标注；不是逐句史实鉴定"
+  },
+  {
+    "id": "H028",
+    "video_id": "14980314099805788688",
+    "account": "王老翻史书",
+    "platform": "channels",
+    "original_path": "corpus/raw/H028.md",
+    "original_sha256": "e03fdcdde01226f7db58a35654ff1dfa9cfc231482ce3ca3fde1a4b162069389",
+    "source_url": null,
+    "published_at": null,
+    "collected_updated_at": null,
+    "original_caption": "六百年过去了，我们还在吃朱棣留下的红利#历史 #朱棣 #明朝 #永乐大帝 #故宫 #大运河 #永乐大典 #明朝那些事儿 #读史明智 #历史人物",
+    "metrics": {
+      "likes": 2725,
+      "saves": 3834,
+      "comments": 213,
+      "shares": 7262
+    },
+    "body_chars_with_punctuation": 2406,
+    "raw_path": "corpus/raw/H028.md",
+    "clean_path": "corpus/clean/H028.txt",
+    "split": "validation",
+    "cleaning_status": "仅保守转写清洗，未完成逐句史实核验",
+    "corrections": [],
+    "source_types": [
+      "视频音轨转写"
+    ],
+    "fact_status": "未整体核实",
+    "title": "朱棣的五项历史遗产",
+    "era": "明清",
+    "era_tags": [
+      "明"
+    ],
+    "people": [
+      "朱棣"
+    ],
+    "conflict": "争议与公共遗产",
+    "template": "T4",
+    "hook_type": "长期尺度",
+    "structure": "五项贡献承诺→故宫→运河→典籍→防线→寺塔→回到今天遗存",
+    "ending": "荐书与比较提问",
+    "cluster": "朱棣遗产",
+    "source_class": "史事混合传闻",
+    "risk": "生母碽妃说与建塔动机须标争议；九边形成时间不能都归朱棣；修建与疏浚应区分",
+    "next_angle": "选运河与迁都的关系，补上运输和财政代价",
+    "annotation_status": "全文阅读后人工结构与风险标注；不是逐句史实鉴定"
+  },
+  {
+    "id": "H029",
+    "video_id": "14982762384520583674",
+    "account": "王老翻史书",
+    "platform": "channels",
+    "original_path": "corpus/raw/H029.md",
+    "original_sha256": "c1b9dd7d5282495d5c5c02d0391ff482490be1a67a33188f37ebf24d6aacad46",
+    "source_url": null,
+    "published_at": null,
+    "collected_updated_at": null,
+    "original_caption": "秦始皇修长城，真只是暴政吗？#历史 #历史故事 #秦始皇 #长城 #秦朝 #万里长城 #孟姜女 #明长城 #长城抗战 #中国历史 #人性 #名师感悟",
+    "metrics": {
+      "likes": 2787,
+      "saves": 3236,
+      "comments": 239,
+      "shares": 2887
+    },
+    "body_chars_with_punctuation": 1915,
+    "raw_path": "corpus/raw/H029.md",
+    "clean_path": "corpus/clean/H029.txt",
+    "split": "discovery",
+    "cleaning_status": "仅保守转写清洗，未完成逐句史实核验",
+    "corrections": [],
+    "source_types": [
+      "视频音轨转写"
+    ],
+    "fact_status": "未整体核实",
+    "title": "长城的防御作用与建造成本",
+    "era": "秦汉",
+    "era_tags": [
+      "秦",
+      "明",
+      "近代"
+    ],
+    "people": [
+      "秦始皇",
+      "长城"
+    ],
+    "conflict": "工程代价与防御需要",
+    "template": "T4",
+    "hook_type": "历史成本反问",
+    "structure": "劳役设问→尺度技术→孟姜女演变→预警机制→明代工程→近代战争",
+    "ending": "家国收束",
+    "cluster": "长城防御",
+    "source_class": "史事与传说及技术混合",
+    "risk": "秦明长城材料混用；总长度不能归秦；死亡数字无出处；年代与单位换算有错",
+    "next_angle": "同样叫长城，秦汉与明代各自面对什么条件",
+    "annotation_status": "全文阅读后人工结构与风险标注；不是逐句史实鉴定"
+  },
+  {
+    "id": "H030",
+    "video_id": "14986394302762916354",
+    "account": "王老翻史书",
+    "platform": "channels",
+    "original_path": "corpus/raw/H030.md",
+    "original_sha256": "21e2015ae403740f1b3ea96f40355ad0a7e1c68154caff5034ce70c2cc478b97",
+    "source_url": null,
+    "published_at": null,
+    "collected_updated_at": null,
+    "original_caption": "三国最惨的皇后，死在亲丈夫手里，入殓那天，头发披下来，盖住整张脸，嘴里塞得满满的，塞的是糠，塞糠不是怕她在底下挨饿，是怕她开口。#甄宓 #洛神之死 #曹丕 #郭女王 #曹叡 #三国故事 #魏晋历史 #历史故事 #历史人性 #女性命运 #宫廷权谋 #人情冷暖 #乱世红颜 #洛神赋",
+    "metrics": {
+      "likes": 2535,
+      "saves": 3491,
+      "comments": 311,
+      "shares": 2238
+    },
+    "body_chars_with_punctuation": 2061,
+    "raw_path": "corpus/raw/H030.md",
+    "clean_path": "corpus/clean/H030.txt",
+    "split": "discovery",
+    "cleaning_status": "仅保守转写清洗，未完成逐句史实核验",
+    "corrections": [
+      {
+        "before": "轮椅",
+        "after": "龙椅",
+        "count": 1,
+        "reason": "上下文明确的转写同音错词"
+      }
+    ],
+    "source_types": [
+      "视频音轨转写"
+    ],
+    "fact_status": "未整体核实",
+    "title": "甄氏之死与后来的记忆",
+    "era": "三国至两晋南北朝",
+    "era_tags": [
+      "东汉末",
+      "三国",
+      "曹魏"
+    ],
+    "people": [
+      "甄氏",
+      "曹丕",
+      "郭皇后",
+      "曹叡"
+    ],
+    "conflict": "旧情与宫廷位置",
+    "template": "T1",
+    "hook_type": "葬仪谜题",
+    "structure": "被发覆面→早年义举→入曹家→郭氏与继承→死亡→曹叡追问→回扣怀璧",
+    "ending": "女性处境讨论",
+    "cluster": "甄氏命运",
+    "source_class": "史籍异说与演绎混合",
+    "risk": "曹叡名字多次错写；正文与注引异说应分开；无记载梳头对白不可补；避免受害者有罪论",
+    "next_angle": "正史正文与裴注对同一人物结局有哪些不同记法",
+    "annotation_status": "全文阅读后人工结构与风险标注；不是逐句史实鉴定"
+  },
+  {
+    "id": "H031",
+    "video_id": "14980596808179063299",
+    "account": "王老翻史书",
+    "platform": "channels",
+    "original_path": "corpus/raw/H031.md",
+    "original_sha256": "3fd2cf1fd8757f7dc48221ae71534f47fdedbf059e00d3f68c3c7bdb89e5b5df",
+    "source_url": null,
+    "published_at": null,
+    "collected_updated_at": null,
+    "original_caption": "杀韩信那天，长乐宫里没进一个男人。动手的是一屋子宫女，家伙是削尖的竹竿#历史 #韩信 #刘邦 #吕后 #萧何 #汉朝 #史记 #功高震主 #读史明智 #历史人物",
+    "metrics": {
+      "likes": 25602,
+      "saves": 35102,
+      "comments": 347,
+      "shares": 20538
+    },
+    "body_chars_with_punctuation": 2708,
+    "raw_path": "corpus/raw/H031.md",
+    "clean_path": "corpus/clean/H031.txt",
+    "split": "discovery",
+    "cleaning_status": "仅保守转写清洗，未完成逐句史实核验",
+    "corrections": [],
+    "source_types": [
+      "视频音轨转写"
+    ],
+    "fact_status": "未整体核实",
+    "title": "韩信从受用到受疑",
+    "era": "秦汉",
+    "era_tags": [
+      "西汉",
+      "楚汉"
+    ],
+    "people": [
+      "韩信",
+      "刘邦",
+      "吕后",
+      "萧何"
+    ],
+    "conflict": "军功与信任变化",
+    "template": "T1",
+    "hook_type": "三个死法疑问",
+    "structure": "竹竿之死→三问→早年与拜将→战功→夺军降爵→诱入钟室→回扣三问",
+    "ending": "人物判断",
+    "cluster": "韩信之死",
+    "source_class": "史事与民间传说混合",
+    "risk": "竹竿宫女三不杀不见本次核对的史记本传；钟室错中室；谋反记载不能隐去",
+    "next_angle": "围绕解除兵权与爵位变化讲关系转折",
+    "annotation_status": "全文阅读后人工结构与风险标注；不是逐句史实鉴定"
+  },
+  {
+    "id": "H032",
+    "video_id": "14974946017779980814",
+    "account": "王老翻史书",
+    "platform": "channels",
+    "original_path": "corpus/raw/H032.md",
+    "original_sha256": "32c38f8a17022faa36340f999f0822d5b635d95f1f049394e02db8799e6916b2",
+    "source_url": null,
+    "published_at": null,
+    "collected_updated_at": null,
+    "original_caption": "为什么王朝逃不过三百年死局？读懂土地兼并，就懂了大明为什么救不回来#历史 #土地兼并 #王朝周期率 #大明王朝 #崇祯 #万历十五年 #黄仁宇 #历史人性 #读史明智 #普通人的历史",
+    "metrics": {
+      "likes": 2777,
+      "saves": 3447,
+      "comments": 15,
+      "shares": 9143
+    },
+    "body_chars_with_punctuation": 2736,
+    "raw_path": "corpus/raw/H032.md",
+    "clean_path": "corpus/clean/H032.txt",
+    "split": "discovery",
+    "cleaning_status": "仅保守转写清洗，未完成逐句史实核验",
+    "corrections": [],
+    "source_types": [
+      "视频音轨转写"
+    ],
+    "fact_status": "未整体核实",
+    "title": "土地兼并与王朝财政困局",
+    "era": "跨朝代",
+    "era_tags": [
+      "西汉",
+      "唐",
+      "宋",
+      "明",
+      "清"
+    ],
+    "people": [
+      "张居正",
+      "王安石",
+      "崇祯",
+      "李自成"
+    ],
+    "conflict": "资源集中与治理失灵",
+    "template": "T2",
+    "hook_type": "周期断言",
+    "structure": "三百年设问→农民失地推演→征税难→变法执行困境→明末→现代住房类比",
+    "ending": "长篇荐书",
+    "cluster": "王朝财政",
+    "source_class": "制度解读混合假设",
+    "risk": "三百年与人口减半不普适；土地占比和七千万两需出处；现代住房不能直接等同王朝末世",
+    "next_angle": "把王朝必亡论改成一个时期的财政征收问题",
+    "annotation_status": "全文阅读后人工结构与风险标注；不是逐句史实鉴定"
+  },
+  {
+    "id": "H033",
+    "video_id": "14999162299812027413",
+    "account": "王老翻史书",
+    "platform": "channels",
+    "original_path": "corpus/raw/H033.md",
+    "original_sha256": "fc9680c4f4050c7ea6b129af8f5a183a18e30c270cd17a09fd3636c62243ede1",
+    "source_url": null,
+    "published_at": null,
+    "collected_updated_at": null,
+    "original_caption": "一百六十六万平方公里，差点就不姓中国了#历史故事 #历史人物 #读史明智 #左宗棠 #左公复疆 #收复新疆 #晚清 #人性",
+    "metrics": {
+      "likes": 3796,
+      "saves": 5433,
+      "comments": 1313,
+      "shares": 1557
+    },
+    "body_chars_with_punctuation": 2259,
+    "raw_path": "corpus/raw/H033.md",
+    "clean_path": "corpus/clean/H033.txt",
+    "split": "discovery",
+    "cleaning_status": "仅保守转写清洗，未完成逐句史实核验",
+    "corrections": [],
+    "source_types": [
+      "视频音轨转写"
+    ],
+    "fact_status": "未整体核实",
+    "title": "左宗棠出征之前怎样筹钱",
+    "era": "明清",
+    "era_tags": [
+      "清",
+      "晚清"
+    ],
+    "people": [
+      "左宗棠",
+      "李鸿章",
+      "林则徐",
+      "胡雪岩"
+    ],
+    "conflict": "眼前财力与长期边防",
+    "template": "T1",
+    "hook_type": "纪念物追问",
+    "structure": "雕像→新疆危机→海防塞防分歧→林则徐托付→借款筹饷→出征悬念",
+    "ending": "续集",
+    "cluster": "左宗棠西征",
+    "source_class": "史事混合场景演绎",
+    "risk": "雕像前几天必须绑定真实日期；借款合同签名与独白待核；不可删去海防论据",
+    "next_angle": "把筹饷当成主线，保留另一种预算判断",
+    "annotation_status": "全文阅读后人工结构与风险标注；不是逐句史实鉴定"
+  },
+  {
+    "id": "H034",
+    "video_id": "14987565889428134388",
+    "account": "王老翻史书",
+    "platform": "channels",
+    "original_path": "corpus/raw/H034.md",
+    "original_sha256": "cf278a9969f4671bb7224c520d5be8a4d12b4d54e614b191625f7d30d7023dbb",
+    "source_url": null,
+    "published_at": null,
+    "collected_updated_at": null,
+    "original_caption": "雍正登基不到三年，就杀了自己最倚重的大将军年羹尧，这事儿如果只看后来列出来的九十二条大罪，你会觉得年羹尧不冤，可您要是把时间往前倒两年，再看雍正写给他的那句朱批，心里就会发凉。 #历史故事 #年羹尧 #雍正 #清朝历史 #功高震主 #历史人物 #人性 #权力 #中老年感悟 #读史明智",
+    "metrics": {
+      "likes": 1118,
+      "saves": 1297,
+      "comments": 65,
+      "shares": 1302
+    },
+    "body_chars_with_punctuation": 1993,
+    "raw_path": "corpus/raw/H034.md",
+    "clean_path": "corpus/clean/H034.txt",
+    "split": "discovery",
+    "cleaning_status": "仅保守转写清洗，未完成逐句史实核验",
+    "corrections": [],
+    "source_types": [
+      "视频音轨转写"
+    ],
+    "fact_status": "未整体核实",
+    "title": "年羹尧从恩宠到赐死",
+    "era": "明清",
+    "era_tags": [
+      "清"
+    ],
+    "people": [
+      "年羹尧",
+      "雍正"
+    ],
+    "conflict": "恩宠与位置变化",
+    "template": "T1",
+    "hook_type": "前后话语反差",
+    "structure": "疼惜朱批→战功受宠→骄纵→贺表→削权→赐死→高处守界",
+    "ending": "处世提醒",
+    "cluster": "年羹尧失势",
+    "source_class": "史事混合场景演绎",
+    "risk": "雍正四年赐死与开头三年冲突；地点和礼仪待核；贺表不能作为唯一原因",
+    "next_angle": "时间轴上并列皇帝的需要与将军权限",
+    "annotation_status": "全文阅读后人工结构与风险标注；不是逐句史实鉴定"
+  },
+  {
+    "id": "H035",
+    "video_id": "14981038879713729048",
+    "account": "王老翻史书",
+    "platform": "channels",
+    "original_path": "corpus/raw/H035.md",
+    "original_sha256": "887dce735519b7a15d4950df921101eacf29efee35472361863ad22f6725ebb6",
+    "source_url": null,
+    "published_at": null,
+    "collected_updated_at": null,
+    "original_caption": "战国最能打的那个人，是坐着打仗的#历史 #孙膑 #庞涓 #战国 #史记 #孙膑兵法 #马陵之战 #人性 #良知 #历史人物",
+    "metrics": {
+      "likes": 413,
+      "saves": 678,
+      "comments": 35,
+      "shares": 444
+    },
+    "body_chars_with_punctuation": 2357,
+    "raw_path": "corpus/raw/H035.md",
+    "clean_path": "corpus/clean/H035.txt",
+    "split": "discovery",
+    "cleaning_status": "仅保守转写清洗，未完成逐句史实核验",
+    "corrections": [],
+    "source_types": [
+      "视频音轨转写"
+    ],
+    "fact_status": "未整体核实",
+    "title": "孙膑复仇与兵书重见天日",
+    "era": "先秦",
+    "era_tags": [
+      "战国"
+    ],
+    "people": [
+      "孙膑",
+      "庞涓",
+      "田忌"
+    ],
+    "conflict": "能力受损与重新证明",
+    "template": "T1",
+    "hook_type": "身体处境反差",
+    "structure": "残足能胜→被害装疯→入齐赛马→减灶马陵→兵书出土→良知",
+    "ending": "忍耐与识人讨论",
+    "cluster": "孙膑庞涓",
+    "source_class": "史事与传说混合",
+    "risk": "魏卫混写；鬼谷师承与猪圈三年传说；擒庞涓与死树下应作史源差异而非无缝叙述",
+    "next_angle": "比较史记与银雀山兵书中的庞涓结局",
+    "annotation_status": "全文阅读后人工结构与风险标注；不是逐句史实鉴定"
+  },
+  {
+    "id": "H036",
+    "video_id": "14982063873453529626",
+    "account": "王老翻史书",
+    "platform": "channels",
+    "original_path": "corpus/raw/H036.md",
+    "original_sha256": "d8b90ddf161f5458b6d7772cd5099fa93a01cd467def6d4bf6fce4be92bd04e4",
+    "source_url": null,
+    "published_at": null,
+    "collected_updated_at": null,
+    "original_caption": "张嘴说话是本能，闭上嘴才是本事，城府是老实人的防弹衣 #韩非子 #贾诩 #许攸 #三国 #处世智慧 #历史 #人性 #读史 #中年感悟 #说话的艺术",
+    "metrics": {
+      "likes": 205,
+      "saves": 332,
+      "comments": 15,
+      "shares": 647
+    },
+    "body_chars_with_punctuation": 2516,
+    "raw_path": "corpus/raw/H036.md",
+    "clean_path": "corpus/clean/H036.txt",
+    "split": "validation",
+    "cleaning_status": "仅保守转写清洗，未完成逐句史实核验",
+    "corrections": [],
+    "source_types": [
+      "视频音轨转写"
+    ],
+    "fact_status": "未整体核实",
+    "title": "许攸与贾诩的表达边界",
+    "era": "跨朝代",
+    "era_tags": [
+      "战国",
+      "东汉末",
+      "三国",
+      "曹魏"
+    ],
+    "people": [
+      "韩非",
+      "许攸",
+      "贾诩",
+      "曹操"
+    ],
+    "conflict": "表达与自保",
+    "template": "T3",
+    "hook_type": "格言加人物对照",
+    "structure": "格言→许攸显功→贾诩慎交→立嗣问答→现实三条→书",
+    "ending": "荐书与自身经历提问",
+    "cluster": "许攸贾诩",
+    "source_class": "史事与演义混合",
+    "risk": "格言前后出处不能合并；许褚杀许攸为演义；不应把所有倾诉判为错误",
+    "next_angle": "同是谈曹操，许攸与贾诩各在何时对谁说话",
+    "annotation_status": "全文阅读后人工结构与风险标注；不是逐句史实鉴定"
+  },
+  {
+    "id": "H037",
+    "video_id": "14983931437000165399",
+    "account": "王老谈史局",
+    "platform": "channels",
+    "original_path": "corpus/raw/H037.md",
+    "original_sha256": "3d6b81d3ab6961f2ac61b1d79752f3746a9edc53fb98ec1bca5b29949915ec13",
+    "source_url": null,
+    "published_at": null,
+    "collected_updated_at": null,
+    "original_caption": "#历史故事 #历史文化 #王立群讲史 #历史人物 #人生感悟 #历史",
+    "metrics": {
+      "likes": 274,
+      "saves": 358,
+      "comments": 24,
+      "shares": 191
+    },
+    "body_chars_with_punctuation": 2829,
+    "raw_path": "corpus/raw/H037.md",
+    "clean_path": "corpus/clean/H037.txt",
+    "split": "discovery",
+    "cleaning_status": "仅保守转写清洗，未完成逐句史实核验",
+    "corrections": [],
+    "source_types": [
+      "视频音轨转写"
+    ],
+    "fact_status": "未整体核实",
+    "title": "十位清官的不同担当",
+    "era": "跨朝代",
+    "era_tags": [
+      "战国",
+      "西汉",
+      "唐",
+      "武周",
+      "宋",
+      "明",
+      "清"
+    ],
+    "people": [
+      "西门豹",
+      "赵广汉",
+      "黄霸",
+      "况钟",
+      "徐有功",
+      "袁可立",
+      "狄仁杰",
+      "包拯",
+      "海瑞",
+      "于成龙"
+    ],
+    "conflict": "清廉与治理",
+    "template": "T3",
+    "hook_type": "熟悉人物名次反差",
+    "structure": "包拯第三→三人预告→十人独有事迹→不同担当→第一名回扣",
+    "ending": "荐书和贪官续集",
+    "cluster": "清官盘点",
+    "source_class": "史事混合传闻",
+    "risk": "新闻报为西门豹转写；多条引语和绝对数字待核；排名不代表客观史学结论",
+    "next_angle": "把敢谏、断案、日常治理分成三组",
+    "annotation_status": "全文阅读后人工结构与风险标注；不是逐句史实鉴定"
+  },
+  {
+    "id": "H038",
+    "video_id": "14995988709018699803",
+    "account": "王老谈史局",
+    "platform": "channels",
+    "original_path": "corpus/raw/H038.md",
+    "original_sha256": "1b5b1da24719f68670737202ac5aae5ed2c6b654f449370584f45b714427a675",
+    "source_url": null,
+    "published_at": null,
+    "collected_updated_at": null,
+    "original_caption": "19岁嫁进毛乌素沙漠，住的婚房半截埋在沙里。她用40年种下800万棵树，美国老头看新闻哭了，寄来5000美元。26年后两人在机场相拥痛哭，当年的小苗已长成参天林海。 #殷玉珍 #毛乌素 #治沙英雄 #历史 #历史故事 #王老师讲历史",
+    "metrics": {
+      "likes": 379,
+      "saves": 460,
+      "comments": 48,
+      "shares": 137
+    },
+    "body_chars_with_punctuation": 2790,
+    "raw_path": "corpus/raw/H038.md",
+    "clean_path": "corpus/clean/H038.txt",
+    "split": "validation",
+    "cleaning_status": "仅保守转写清洗，未完成逐句史实核验",
+    "corrections": [],
+    "source_types": [
+      "视频音轨转写"
+    ],
+    "fact_status": "未整体核实",
+    "title": "殷玉珍治沙与跨国友谊",
+    "era": "当代人物",
+    "era_tags": [
+      "当代"
+    ],
+    "people": [
+      "殷玉珍",
+      "塞考斯"
+    ],
+    "conflict": "环境困境与长期合作",
+    "template": "T1",
+    "hook_type": "极端生活处境",
+    "structure": "婚房沙困→种树受挫→坚持→援助→失联→重逢→再种树→道具回扣",
+    "ending": "敬意与关注",
+    "cluster": "殷玉珍治沙",
+    "source_class": "当代人物故事待核报道",
+    "risk": "2026重逢日期、姓名译写、树木面积和对白需新闻核实；不可按古代传说自由补写",
+    "next_angle": "用一笔援助怎样延续多年合作组织故事",
+    "annotation_status": "全文阅读后人工结构与风险标注；不是逐句史实鉴定"
+  },
+  {
+    "id": "H039",
+    "video_id": "14995196248309237797",
+    "account": "王老谈史局",
+    "platform": "channels",
+    "original_path": "corpus/raw/H039.md",
+    "original_sha256": "278bd5d3c45e1a8e4608544621dd9965963412f5bbe31ea89070da7e1165dccf",
+    "source_url": null,
+    "published_at": null,
+    "collected_updated_at": null,
+    "original_caption": "别人打仗先磨刀，左宗棠打仗先种树。3000里戈壁种下26万株柳树，救了几万条命。68岁抬着黑漆棺材走在三军最前头，这才叫大清最后的脊梁。你被这老头圈粉了吗？ #左宗棠 #收复新疆 #王老师讲历史 #历史故事 #民族脊梁",
+    "metrics": {
+      "likes": 1142,
+      "saves": 1478,
+      "comments": 119,
+      "shares": 345
+    },
+    "body_chars_with_punctuation": 1942,
+    "raw_path": "corpus/raw/H039.md",
+    "clean_path": "corpus/clean/H039.txt",
+    "split": "discovery",
+    "cleaning_status": "仅保守转写清洗，未完成逐句史实核验",
+    "corrections": [],
+    "source_types": [
+      "视频音轨转写"
+    ],
+    "fact_status": "未整体核实",
+    "title": "左宗棠的后勤与伊犁难题",
+    "era": "明清",
+    "era_tags": [
+      "清",
+      "晚清"
+    ],
+    "people": [
+      "左宗棠",
+      "刘锦棠",
+      "胡雪岩",
+      "崇厚"
+    ],
+    "conflict": "准备与速战",
+    "template": "T2",
+    "hook_type": "行动反常",
+    "structure": "打仗先种树→修路后勤→军械粮食→缓进急战→收复→伊犁条约→抬棺",
+    "ending": "新困局预告",
+    "cluster": "左宗棠西征",
+    "source_class": "史事混合场景演绎",
+    "risk": "新栽树不能立刻遮荫；实际前线指挥应区分；阿古柏死地和死因待核",
+    "next_angle": "从粮道解释缓进为什么能支持急战",
+    "annotation_status": "全文阅读后人工结构与风险标注；不是逐句史实鉴定"
+  },
+  {
+    "id": "H040",
+    "video_id": "14985867914114697257",
+    "account": "王老谈史局",
+    "platform": "channels",
+    "original_path": "corpus/raw/H040.md",
+    "original_sha256": "39012544f81c9137853d05e182d9ed0d8c6e3b4c3bd90298b46d51dd922a7067",
+    "source_url": null,
+    "published_at": null,
+    "collected_updated_at": null,
+    "original_caption": "曹冲刚死，曹操就对其他儿子说‘这是你们的幸运’，然后火速杀了他的神童伴读。多年后曹丕当上皇帝，喝醉了哭着说：如果仓舒还在，轮不到我坐这个位子。一个13岁孩子的死，三个细节拼在一起让人后背发凉。你品出什么了吗？ #曹操 #历史故事 #历史文化 #王立群讲史 #历史 #历史人物 #人生感悟",
+    "metrics": {
+      "likes": 14702,
+      "saves": 21602,
+      "comments": 1935,
+      "shares": 14270
+    },
+    "body_chars_with_punctuation": 1872,
+    "raw_path": "corpus/raw/H040.md",
+    "clean_path": "corpus/clean/H040.txt",
+    "split": "discovery",
+    "cleaning_status": "仅保守转写清洗，未完成逐句史实核验",
+    "corrections": [],
+    "source_types": [
+      "视频音轨转写"
+    ],
+    "fact_status": "未整体核实",
+    "title": "曹冲夭折后的三条材料",
+    "era": "三国至两晋南北朝",
+    "era_tags": [
+      "东汉末"
+    ],
+    "people": [
+      "曹冲",
+      "曹操",
+      "曹丕",
+      "周不疑"
+    ],
+    "conflict": "天赋与继承压力",
+    "template": "T2",
+    "hook_type": "父亲反常话语",
+    "structure": "父语→善行与受宠→三条死后材料→阴谋暗示→家庭显露天赋类比",
+    "ending": "育儿焦虑与续集",
+    "cluster": "曹冲夭折",
+    "source_class": "史传片段与阴谋推断混合",
+    "risk": "疾病卒不能推成谋杀；正文与裴注来源不能混为陈寿暗示；无证据不能断言凶手",
+    "next_angle": "讲史料能说什么，保留死因无法确认的边界",
+    "annotation_status": "全文阅读后人工结构与风险标注；不是逐句史实鉴定"
+  },
+  {
+    "id": "H041",
+    "video_id": "14986609116334458893",
+    "account": "王老谈史局",
+    "platform": "channels",
+    "original_path": "corpus/raw/H041.md",
+    "original_sha256": "384a63e672190e904ce72a4f9091ab9b2bff23ee66e5f615c1cee3fc37489afc",
+    "source_url": null,
+    "published_at": null,
+    "collected_updated_at": null,
+    "original_caption": "大臣替国家办事，太监替皇帝本人办事。崇祯亲手清除了魏忠贤，发誓不再重用宦官，最后却又绕回去了。不是忘了教训，是那个难题根本没消失。你身边有没有这种‘明知道有风险，却不得不用’的困局？ #历史文化 #历史故事 #王老师讲历史 #人性智慧 #人生感悟 #皇权 #魏忠贤 #历史 #历史人物",
+    "metrics": {
+      "likes": 209,
+      "saves": 403,
+      "comments": 16,
+      "shares": 243
+    },
+    "body_chars_with_punctuation": 2055,
+    "raw_path": "corpus/raw/H041.md",
+    "clean_path": "corpus/clean/H041.txt",
+    "split": "discovery",
+    "cleaning_status": "仅保守转写清洗，未完成逐句史实核验",
+    "corrections": [],
+    "source_types": [
+      "视频音轨转写"
+    ],
+    "fact_status": "未整体核实",
+    "title": "皇帝为何反复使用宦官",
+    "era": "明清",
+    "era_tags": [
+      "明"
+    ],
+    "people": [
+      "崇祯",
+      "魏忠贤",
+      "明熹宗"
+    ],
+    "conflict": "依赖与失控",
+    "template": "T2",
+    "hook_type": "制度追问",
+    "structure": "排除单一后宫解释→官僚与内廷依附→票拟批红→魏氏失势→崇祯再用→结构困境",
+    "ending": "主题荐书",
+    "cluster": "宦官机制",
+    "source_class": "制度史解释",
+    "risk": "票拟批红名称校正；明代机制不能套所有朝代；大臣国家太监私人是解释模型非完全二分",
+    "next_angle": "用信息传递说明代理人为何会影响委托者",
+    "annotation_status": "全文阅读后人工结构与风险标注；不是逐句史实鉴定"
+  },
+  {
+    "id": "H042",
+    "video_id": "14977070510295943202",
+    "account": "王老谈史局",
+    "platform": "channels",
+    "original_path": "corpus/raw/H042.md",
+    "original_sha256": "5c389cfe770637fb96f40b80ebccafd2457432fdf73887fcd513c9c0fe5746db",
+    "source_url": null,
+    "published_at": null,
+    "collected_updated_at": null,
+    "original_caption": "韩信打下大汉三分之二江山，最后却被一群宫女用竹竿打死。他至死不明白，杀他的不是谋反，而是刘邦的算计。 #职场智慧 #韩信 #历史 #王立群讲史记 #历史文化 #人生感悟",
+    "metrics": {
+      "likes": 325,
+      "saves": 307,
+      "comments": 17,
+      "shares": 158
+    },
+    "body_chars_with_punctuation": 2483,
+    "raw_path": "corpus/raw/H042.md",
+    "clean_path": "corpus/clean/H042.txt",
+    "split": "discovery",
+    "cleaning_status": "仅保守转写清洗，未完成逐句史实核验",
+    "corrections": [],
+    "source_types": [
+      "视频音轨转写"
+    ],
+    "fact_status": "未整体核实",
+    "title": "韩信把阶段重用当成长久信任",
+    "era": "秦汉",
+    "era_tags": [
+      "楚汉",
+      "西汉"
+    ],
+    "people": [
+      "韩信",
+      "刘邦",
+      "吕后",
+      "萧何"
+    ],
+    "conflict": "重用与长期保障",
+    "template": "T2",
+    "hook_type": "悲剧倒叙",
+    "structure": "死亡场景→心理盲区→受辱拜将→战功→夺军降爵→入宫→利用价值判断",
+    "ending": "关注",
+    "cluster": "韩信之死",
+    "source_class": "史事与传说混合",
+    "risk": "宫女竹竿来源不足；行刑临终成语移植；夺军事件顺序与谋反记载需核",
+    "next_angle": "以职位变化为证据，避免读心解释全部历史",
+    "annotation_status": "全文阅读后人工结构与风险标注；不是逐句史实鉴定"
+  },
+  {
+    "id": "H043",
+    "video_id": "14987279113152301097",
+    "account": "王老谈史局",
+    "platform": "channels",
+    "original_path": "corpus/raw/H043.md",
+    "original_sha256": "e8435d1b50b07c8a56250b15ec68ad073288354a65893c13069ed89955208682",
+    "source_url": null,
+    "published_at": null,
+    "collected_updated_at": null,
+    "original_caption": "开运河让南北通了一千四百年，创科举让寒门翻身一千三百年，结果自己被亲信勒死，连口棺材都没有，老婆拆床板把他埋了。杨广不是完人，但若只盯着他的错，就永远看不懂中国为什么是今天的中国。你觉得他该翻案吗？ #隋炀帝 #杨广 #大运河 #科举制度 #隋朝历史 #王老师讲历史 #历史文化 #人性智慧",
+    "metrics": {
+      "likes": 1111,
+      "saves": 1476,
+      "comments": 176,
+      "shares": 776
+    },
+    "body_chars_with_punctuation": 2282,
+    "raw_path": "corpus/raw/H043.md",
+    "clean_path": "corpus/clean/H043.txt",
+    "split": "discovery",
+    "cleaning_status": "仅保守转写清洗，未完成逐句史实核验",
+    "corrections": [],
+    "source_types": [
+      "视频音轨转写"
+    ],
+    "fact_status": "未整体核实",
+    "title": "杨广的工程遗产与当世代价",
+    "era": "隋唐武周",
+    "era_tags": [
+      "隋"
+    ],
+    "people": [
+      "杨广"
+    ],
+    "conflict": "长期贡献与同期损失",
+    "template": "T4",
+    "hook_type": "考古实物",
+    "structure": "两颗牙与帝王反差→后世评价→运河科举洛阳→急促征发→死亡→回到遗物",
+    "ending": "双面评价",
+    "cluster": "杨广功过",
+    "source_class": "史事混合传闻",
+    "risk": "活到八十多属账号人设；科举起源与运河路线复杂；500年反事实及牙齿推心理无据",
+    "next_angle": "同时写受益时间与代价由谁承担",
+    "annotation_status": "全文阅读后人工结构与风险标注；不是逐句史实鉴定"
+  },
+  {
+    "id": "H044",
+    "video_id": "15003290134494514849",
+    "account": "王老谈史局",
+    "platform": "channels",
+    "original_path": "corpus/raw/H044.md",
+    "original_sha256": "31f82d371d2d7fa97ecd66b73902d4c9232b64fbdcf7307e28c2d9c62c8da6df",
+    "source_url": null,
+    "published_at": null,
+    "collected_updated_at": null,
+    "original_caption": "康熙四十二年深夜，陪了康熙三十年的索额图被铁链锁进宗人府，不给一句辩解。他是太子亲叔公、擒鳌拜功臣，最后却成“本朝第一罪人”。不直接杀，是康熙最狠的一      历史故事#王老师讲历史#帝王心术#清朝权臣#康熙#索额图#步棋。",
+    "metrics": {
+      "likes": 2275,
+      "saves": 2291,
+      "comments": 83,
+      "shares": 994
+    },
+    "body_chars_with_punctuation": 1790,
+    "raw_path": "corpus/raw/H044.md",
+    "clean_path": "corpus/clean/H044.txt",
+    "split": "validation",
+    "cleaning_status": "仅保守转写清洗，未完成逐句史实核验",
+    "corrections": [],
+    "source_types": [
+      "视频音轨转写"
+    ],
+    "fact_status": "未整体核实",
+    "title": "索额图失势与太子关系",
+    "era": "明清",
+    "era_tags": [
+      "清"
+    ],
+    "people": [
+      "索额图",
+      "康熙",
+      "胤礽",
+      "明珠"
+    ],
+    "conflict": "亲近与继承猜忌",
+    "template": "T1",
+    "hook_type": "拘捕场景",
+    "structure": "深夜入狱→功臣背景→太子关系→失势死亡→五年后废太子→秘密悬念",
+    "ending": "未兑现秘密续集",
+    "cluster": "索额图失势",
+    "source_class": "史事混合大量演绎",
+    "risk": "胤礽多处错名；官职身份时序待核；三秘密未提供证据，不能延续造谜",
+    "next_angle": "从太子支持者的角色变化解释失势",
+    "annotation_status": "全文阅读后人工结构与风险标注；不是逐句史实鉴定"
+  },
+  {
+    "id": "H045",
+    "video_id": "14987901757847177252",
+    "account": "王老谈史局",
+    "platform": "channels",
+    "original_path": "corpus/raw/H045.md",
+    "original_sha256": "79f0a17f8ca9b70d293e7f3e0856dd57eb213cf8943e9715035100c003fa971e",
+    "source_url": null,
+    "published_at": null,
+    "collected_updated_at": null,
+    "original_caption": "李牧被杀三个月赵国亡，韩信被骗进长乐宫砍死，檀道济临死喊‘你们在毁长城’，于谦抄家抄得锦衣卫当场痛哭。最憋屈的不是战死沙场，是打了胜仗回来，被自己人一刀捅了。你猜到第一名是谁了吗？ #历史故事 #历史文化 #王老师讲历史 #历史 #韩信 #英雄",
+    "metrics": {
+      "likes": 1171,
+      "saves": 1579,
+      "comments": 269,
+      "shares": 770
+    },
+    "body_chars_with_punctuation": 1535,
+    "raw_path": "corpus/raw/H045.md",
+    "clean_path": "corpus/clean/H045.txt",
+    "split": "discovery",
+    "cleaning_status": "仅保守转写清洗，未完成逐句史实核验",
+    "corrections": [],
+    "source_types": [
+      "视频音轨转写"
+    ],
+    "fact_status": "未整体核实",
+    "title": "悲剧名将榜后五名",
+    "era": "跨朝代",
+    "era_tags": [
+      "战国",
+      "西汉",
+      "南朝",
+      "明"
+    ],
+    "people": [
+      "李牧",
+      "韩信",
+      "檀道济",
+      "彭越",
+      "于谦"
+    ],
+    "conflict": "战功与内部猜忌",
+    "template": "T3",
+    "hook_type": "榜单排除法",
+    "structure": "排除项羽→五人功业与遇害→回扣非战场之死→岳飞悬念",
+    "ending": "榜首续集",
+    "cluster": "悲剧名将榜",
+    "source_class": "史事混合演绎",
+    "risk": "死亡方式、兵力、时距和临刑对白需核；跨人重复同一道德结论",
+    "next_angle": "每个人对应一个不同的制度或决策失误",
+    "annotation_status": "全文阅读后人工结构与风险标注；不是逐句史实鉴定"
+  },
+  {
+    "id": "H046",
+    "video_id": "14982172452668180489",
+    "account": "王老谈史局",
+    "platform": "channels",
+    "original_path": "corpus/raw/H046.md",
+    "original_sha256": "63c24ed9d9092944edb089ecb2109a7ddb2288eeecf5fc094a7429a46d9a95d7",
+    "source_url": null,
+    "published_at": null,
+    "collected_updated_at": null,
+    "original_caption": "吕布死后貂蝉被押进曹操大帐，一炷香工夫曹操亲自送她消失。三句话让曹操脊背发凉：杀她脏手，留她悬心，放她走大家都干净。 #貂蝉 #历史文化 #王立群讲史 #人生感悟 #历史人物 #三国 #历史",
+    "metrics": {
+      "likes": 307,
+      "saves": 379,
+      "comments": 17,
+      "shares": 204
+    },
+    "body_chars_with_punctuation": 1812,
+    "raw_path": "corpus/raw/H046.md",
+    "clean_path": "corpus/clean/H046.txt",
+    "split": "discovery",
+    "cleaning_status": "仅保守转写清洗，未完成逐句史实核验",
+    "corrections": [],
+    "source_types": [
+      "视频音轨转写"
+    ],
+    "fact_status": "未整体核实",
+    "title": "貂蝉用秘密换退场",
+    "era": "三国至两晋南北朝",
+    "era_tags": [
+      "三国演义背景",
+      "东汉末"
+    ],
+    "people": [
+      "貂蝉",
+      "曹操",
+      "吕布"
+    ],
+    "conflict": "秘密与退出",
+    "template": "T2",
+    "hook_type": "美貌与生存反差",
+    "structure": "猜结局→进帐离帐→解释三条件→现实退场→荐书",
+    "ending": "荐书",
+    "cluster": "貂蝉退场",
+    "source_class": "文学角色的现代演绎",
+    "risk": "史官不敢写是虚假解释；新编对白不能标正史；女性命运不能简化为聪明程度",
+    "next_angle": "用明确虚构的剧本模式写交易，而不伪托史书",
+    "annotation_status": "全文阅读后人工结构与风险标注；不是逐句史实鉴定"
+  },
+  {
+    "id": "H047",
+    "video_id": "14977783214652721164",
+    "account": "王老谈史局",
+    "platform": "channels",
+    "original_path": "corpus/raw/H047.md",
+    "original_sha256": "81489709541c83fcefec71c90f56471943492b527265bc8cf58ae5f050dbdfe8",
+    "source_url": null,
+    "published_at": null,
+    "collected_updated_at": null,
+    "original_caption": "吕雉替刘家挡了一辈子刀，死后满朝文武却松了一口气。她不是天生狠毒，是被命运逼成了让人害怕的活阎王。 #吕雉 #历史文化 #历史 #人生感悟 #王立群讲史记 #人性",
+    "metrics": {
+      "likes": 8004,
+      "saves": 6490,
+      "comments": 338,
+      "shares": 2563
+    },
+    "body_chars_with_punctuation": 2463,
+    "raw_path": "corpus/raw/H047.md",
+    "clean_path": "corpus/clean/H047.txt",
+    "split": "discovery",
+    "cleaning_status": "仅保守转写清洗，未完成逐句史实核验",
+    "corrections": [],
+    "source_types": [
+      "视频音轨转写"
+    ],
+    "fact_status": "未整体核实",
+    "title": "吕雉为何不敢放手",
+    "era": "秦汉",
+    "era_tags": [
+      "楚汉",
+      "西汉"
+    ],
+    "people": [
+      "吕雉",
+      "刘邦",
+      "刘盈",
+      "陈平",
+      "周勃"
+    ],
+    "conflict": "控制与安全感",
+    "template": "T2",
+    "hook_type": "身后反应",
+    "structure": "死后无人心疼→早年困境→夺嫡→吕氏依赖→身后清算→怕与爱→家庭投射",
+    "ending": "晚年家庭提问",
+    "cluster": "吕雉控制",
+    "source_class": "史事混合心理解读",
+    "risk": "无人悲伤无证据；左袒与人名误写；不能用受苦自动正当化伤害或制造家庭猜忌",
+    "next_angle": "区分维持服从与建立可延续的关系",
+    "annotation_status": "全文阅读后人工结构与风险标注；不是逐句史实鉴定"
+  },
+  {
+    "id": "H048",
+    "video_id": "14982904453430446115",
+    "account": "王老谈史局",
+    "platform": "channels",
+    "original_path": "corpus/raw/H048.md",
+    "original_sha256": "4869608bd47ca564bd06aad0a36a4130c5367e026a40c690639758744f864308",
+    "source_url": null,
+    "published_at": null,
+    "collected_updated_at": null,
+    "original_caption": "明朝灭亡时百万朱姓子孙几乎被杀绝，李自成张献忠不约而同下令：姓朱的杀无赦。老百姓饿得吃观音土活活胀死，王爷却在王府里山珍海味。这仇记了两百多年，最后一把全还了。 #历史文化 #历史故事 #人性 #王立群讲史 #历史人物 #历史 #人生感悟 #明朝历史",
+    "metrics": {
+      "likes": 386,
+      "saves": 415,
+      "comments": 35,
+      "shares": 219
+    },
+    "body_chars_with_punctuation": 1741,
+    "raw_path": "corpus/raw/H048.md",
+    "clean_path": "corpus/clean/H048.txt",
+    "split": "discovery",
+    "cleaning_status": "仅保守转写清洗，未完成逐句史实核验",
+    "corrections": [],
+    "source_types": [
+      "视频音轨转写"
+    ],
+    "fact_status": "未整体核实",
+    "title": "明末宗室与财政负担",
+    "era": "明清",
+    "era_tags": [
+      "明",
+      "明末"
+    ],
+    "people": [
+      "朱氏宗室",
+      "崇祯",
+      "李自成",
+      "张献忠"
+    ],
+    "conflict": "供养特权与民生",
+    "template": "T2",
+    "hook_type": "灭族断言",
+    "structure": "皇族覆灭→饥民与王府对照→宗禄数字→起义→民心归因",
+    "ending": "卖书",
+    "cluster": "王朝覆亡",
+    "source_class": "史事混合道德裁决",
+    "risk": "百万皇族被杀绝无充分证据；粮额数字待核；不可把无差别屠杀说成公正报应",
+    "next_angle": "按地方核对宗禄、灾荒与欠饷的具体关系",
+    "annotation_status": "全文阅读后人工结构与风险标注；不是逐句史实鉴定"
+  },
+  {
+    "id": "H049",
+    "video_id": "14983497333034387504",
+    "account": "王老谈史局",
+    "platform": "channels",
+    "original_path": "corpus/raw/H049.md",
+    "original_sha256": "c1ba00ca05376160a44351abb71b7fc98eab961350df2b60aa799ee87714eb52",
+    "source_url": null,
+    "published_at": null,
+    "collected_updated_at": null,
+    "original_caption": "秦朝灭亡时嬴姓皇族被杀绝，子婴被项羽一剑斩首，咸阳大火烧了三个月。横扫六合的百万虎狼之师，最后连一个活口都没留下。 #秦朝灭亡 #历史故事 #历史文化 #王立群讲史 #历史人物 #历史 #人生感悟",
+    "metrics": {
+      "likes": 314,
+      "saves": 411,
+      "comments": 29,
+      "shares": 107
+    },
+    "body_chars_with_punctuation": 1324,
+    "raw_path": "corpus/raw/H049.md",
+    "clean_path": "corpus/clean/H049.txt",
+    "split": "discovery",
+    "cleaning_status": "仅保守转写清洗，未完成逐句史实核验",
+    "corrections": [],
+    "source_types": [
+      "视频音轨转写"
+    ],
+    "fact_status": "未整体核实",
+    "title": "秦亡时的内耗与暴政",
+    "era": "秦汉",
+    "era_tags": [
+      "秦",
+      "秦末"
+    ],
+    "people": [
+      "胡亥",
+      "赵高",
+      "子婴",
+      "项羽"
+    ],
+    "conflict": "内部消耗与外部打击",
+    "template": "T2",
+    "hook_type": "覆亡惨状",
+    "structure": "亡国结果→项羽复仇→胡亥征发→巨鹿与宫廷内斗→家庭败家类比",
+    "ending": "归因提问",
+    "cluster": "王朝覆亡",
+    "source_class": "史事混合场景演绎",
+    "risk": "同篇子婴腰斩与一剑斩首冲突；嬴姓全灭无证据；人口与军力断言待核",
+    "next_angle": "用前线危机与宫廷斗争的时间线讲秦末",
+    "annotation_status": "全文阅读后人工结构与风险标注；不是逐句史实鉴定"
+  },
+  {
+    "id": "H050",
+    "video_id": "14985063331665479717",
+    "account": "王老谈史局",
+    "platform": "channels",
+    "original_path": "corpus/raw/H050.md",
+    "original_sha256": "5bbd345867c53bdd8a6b4f759078f6327293df7b2497c7b52dc7bf334bea06e0",
+    "source_url": null,
+    "published_at": null,
+    "collected_updated_at": null,
+    "original_caption": "隋炀帝被心腹宇文化及亲手勒死，三个儿子全被杀，杨氏皇族屠得干干净净。他爹抢了宇文家的江山，几十年后姓宇文的亲手把杨家灭了。天道好轮回，苍天饶过谁。 #隋炀帝 #大隋灭亡 #宇文化及 #隋唐历史 #王立群讲史 #历史人物 #历史故事 #人生感悟",
+    "metrics": {
+      "likes": 525,
+      "saves": 572,
+      "comments": 20,
+      "shares": 154
+    },
+    "body_chars_with_punctuation": 1683,
+    "raw_path": "corpus/raw/H050.md",
+    "clean_path": "corpus/clean/H050.txt",
+    "split": "validation",
+    "cleaning_status": "仅保守转写清洗，未完成逐句史实核验",
+    "corrections": [],
+    "source_types": [
+      "视频音轨转写"
+    ],
+    "fact_status": "未整体核实",
+    "title": "隋亡的工程与征发失衡",
+    "era": "隋唐武周",
+    "era_tags": [
+      "隋"
+    ],
+    "people": [
+      "杨广",
+      "杨坚",
+      "宇文化及"
+    ],
+    "conflict": "宏大工程与社会承受力",
+    "template": "T2",
+    "hook_type": "覆亡惨状",
+    "structure": "杨氏覆亡→盛世反差→江都之变→征役战争→起义→家产类比",
+    "ending": "功过提问",
+    "cluster": "王朝覆亡",
+    "source_class": "史事混合场景演绎",
+    "risk": "与H049大量同框；宇文化及与北周皇族非同姓即同支；人数及杨氏全灭断言待核",
+    "next_angle": "去除宿命，聚焦不同项目为何同时争夺劳力",
+    "annotation_status": "全文阅读后人工结构与风险标注；不是逐句史实鉴定"
+  },
+  {
+    "id": "H051",
+    "video_id": "14978388898292434993",
+    "account": "王老谈史局",
+    "platform": "channels",
+    "original_path": "corpus/raw/H051.md",
+    "original_sha256": "f40f95fc2a77a9396315e9d7ce010b9cacbd1ec800d2cc172ca6d5b3bffafc91",
+    "source_url": null,
+    "published_at": null,
+    "collected_updated_at": null,
+    "original_caption": "孙膑被同窗庞涓剜掉膝盖骨，扔进猪圈装疯吃猪粪，忍辱三年终在马陵道万箭齐发逼死仇敌，逆天改命。 #孙膑 #历史文化 #历史 #王立群讲史 #历史人物 #人生感悟",
+    "metrics": {
+      "likes": 1548,
+      "saves": 2193,
+      "comments": 124,
+      "shares": 1013
+    },
+    "body_chars_with_punctuation": 2297,
+    "raw_path": "corpus/raw/H051.md",
+    "clean_path": "corpus/clean/H051.txt",
+    "split": "discovery",
+    "cleaning_status": "仅保守转写清洗，未完成逐句史实核验",
+    "corrections": [],
+    "source_types": [
+      "视频音轨转写"
+    ],
+    "fact_status": "未整体核实",
+    "title": "孙膑受刑后怎样重新被采用",
+    "era": "先秦",
+    "era_tags": [
+      "战国"
+    ],
+    "people": [
+      "孙膑",
+      "庞涓",
+      "田忌"
+    ],
+    "conflict": "屈辱与保存能力",
+    "template": "T1",
+    "hook_type": "身体创伤",
+    "structure": "受刑→传说装疯→逃齐→赛马→马陵→兵书→对眼前难事投射",
+    "ending": "卖书",
+    "cluster": "孙膑庞涓",
+    "source_class": "史事与传说混合",
+    "risk": "已标传说之处保留限定；桂陵马陵合并减灶不准确；受苦不是成功必要条件",
+    "next_angle": "把受难叙述缩短，增加求见齐使与被采用的过程",
+    "annotation_status": "全文阅读后人工结构与风险标注；不是逐句史实鉴定"
+  },
+  {
+    "id": "H052",
+    "video_id": "14992154122754197522",
+    "account": "王老谈史局",
+    "platform": "channels",
+    "original_path": "corpus/raw/H052.md",
+    "original_sha256": "63d42b9e54cd7e17940dc0b617e6bde2c1759938569deced12019a27279af185",
+    "source_url": null,
+    "published_at": null,
+    "collected_updated_at": null,
+    "original_caption": "武则天82岁临终前才看透，自己信任了一辈子的狄国老，从来不是武周忠臣。他用最温柔的方式，把复辟火种一个个塞进朝堂，死后五年，神龙政变，大唐复辟。 #狄仁杰 #武则天 #历史权谋 #王老师讲历史 #历史文化 #历史故事 #人性智慧",
+    "metrics": {
+      "likes": 22302,
+      "saves": 26602,
+      "comments": 1942,
+      "shares": 18568
+    },
+    "body_chars_with_punctuation": 1482,
+    "raw_path": "corpus/raw/H052.md",
+    "clean_path": "corpus/clean/H052.txt",
+    "split": "discovery",
+    "cleaning_status": "仅保守转写清洗，未完成逐句史实核验",
+    "corrections": [],
+    "source_types": [
+      "视频音轨转写"
+    ],
+    "fact_status": "未整体核实",
+    "title": "狄仁杰劝立与荐才",
+    "era": "隋唐武周",
+    "era_tags": [
+      "唐",
+      "武周"
+    ],
+    "people": [
+      "狄仁杰",
+      "武则天",
+      "张柬之",
+      "李显"
+    ],
+    "conflict": "臣子目标与君主接受",
+    "template": "T2",
+    "hook_type": "临终对白",
+    "structure": "女皇被骗断言→信任→荐人→母子姑侄劝立→政变→隐忍评价",
+    "ending": "忠奸争议",
+    "cluster": "狄仁杰劝立",
+    "source_class": "史事混合阴谋演绎",
+    "risk": "临终骗我对白无据；狄死与张拜相须核时序；不能把未来政变写成已证预谋",
+    "next_angle": "只讲如何以宗庙与亲属关系说服君主",
+    "annotation_status": "全文阅读后人工结构与风险标注；不是逐句史实鉴定"
+  },
+  {
+    "id": "H053",
+    "video_id": "14983162958676101142",
+    "account": "王老谈史局",
+    "platform": "channels",
+    "original_path": "corpus/raw/H053.md",
+    "original_sha256": "b51a0051fab65e4742aa1b3ec4d3660f3ffa6c9325e5e9df54f88b36adcb6882",
+    "source_url": null,
+    "published_at": null,
+    "collected_updated_at": null,
+    "original_caption": "杨修被斩那天，刑场上没一个人替他求情。都以为他死于“鸡肋”两个字，其实他踩了三条红线，条条要命。临死前他说早就知道有这一天，可他改不了。 #曹操 #杨修 #历史文化 #王立群讲史 #历史 #历史人物 #人生感悟 #历史故事",
+    "metrics": {
+      "likes": 3465,
+      "saves": 2829,
+      "comments": 134,
+      "shares": 2915
+    },
+    "body_chars_with_punctuation": 1601,
+    "raw_path": "corpus/raw/H053.md",
+    "clean_path": "corpus/clean/H053.txt",
+    "split": "discovery",
+    "cleaning_status": "仅保守转写清洗，未完成逐句史实核验",
+    "corrections": [],
+    "source_types": [
+      "视频音轨转写"
+    ],
+    "fact_status": "未整体核实",
+    "title": "杨修之死的三条解释",
+    "era": "三国至两晋南北朝",
+    "era_tags": [
+      "东汉末"
+    ],
+    "people": [
+      "杨修",
+      "曹操",
+      "曹植",
+      "杨彪"
+    ],
+    "conflict": "才智与政治参与",
+    "template": "T2",
+    "hook_type": "刑场追问",
+    "structure": "聪明故事→夺嫡、司马门、母族三层→鸡肋→父亲之痛→三提醒",
+    "ending": "关注",
+    "cluster": "杨修之死",
+    "source_class": "史传与演义混合",
+    "risk": "四世太尉人员与现代职级不等同；三条红线为作者归纳；老牛舐犊故事需分史源",
+    "next_angle": "比较才智故事与史传政治记载的解释差异",
+    "annotation_status": "全文阅读后人工结构与风险标注；不是逐句史实鉴定"
+  },
+  {
+    "id": "H054",
+    "video_id": "14998922437254057349",
+    "account": "王老谈史局",
+    "platform": "channels",
+    "original_path": "corpus/raw/H054.md",
+    "original_sha256": "de6b0df2ba051e21ba0840c410755cd80bc7869e8374514a2040a02f2a4d4e59",
+    "source_url": null,
+    "published_at": null,
+    "collected_updated_at": null,
+    "original_caption": "易牙杀儿子献肉，竖刁自宫侍主，启方十五年不回国奔丧。管仲临终警告：这种违背人性的人绝不能信。齐桓公不听，晚年被他们砌墙断粮，活活饿死，尸体腐烂67天无    历史故事#人性智慧#王老师讲历史#齐桓公#人管。",
+    "metrics": {
+      "likes": 306,
+      "saves": 430,
+      "comments": 37,
+      "shares": 269
+    },
+    "body_chars_with_punctuation": 1842,
+    "raw_path": "corpus/raw/H054.md",
+    "clean_path": "corpus/clean/H054.txt",
+    "split": "discovery",
+    "cleaning_status": "仅保守转写清洗，未完成逐句史实核验",
+    "corrections": [],
+    "source_types": [
+      "视频音轨转写"
+    ],
+    "fact_status": "未整体核实",
+    "title": "齐桓公误把极端讨好当忠诚",
+    "era": "先秦",
+    "era_tags": [
+      "春秋"
+    ],
+    "people": [
+      "齐桓公",
+      "管仲",
+      "易牙",
+      "竖刁",
+      "开方"
+    ],
+    "conflict": "讨好与可信赖",
+    "template": "T2",
+    "hook_type": "现实识人提问",
+    "structure": "极端讨好设问→三人举动→管仲警告→疏远再召→困宫→识人原则",
+    "ending": "白话智囊荐书",
+    "cluster": "齐桓公识人",
+    "source_class": "史籍记载与传闻混合",
+    "risk": "卫魏、开方人名混淆；不同史源细节不得拼成唯一版本；不能凭亲属关系武断识人",
+    "next_angle": "比较承诺成本与行为动机两种判断依据",
+    "annotation_status": "全文阅读后人工结构与风险标注；不是逐句史实鉴定"
+  },
+  {
+    "id": "H055",
+    "video_id": "14990892378220333072",
+    "account": "王老谈史局",
+    "platform": "channels",
+    "original_path": "corpus/raw/H055.md",
+    "original_sha256": "6a424625b5d124188420fbb953a58463886238880c33398f883014bbc9005e02",
+    "source_url": null,
+    "published_at": null,
+    "collected_updated_at": null,
+    "original_caption": "雍正三年，赐死圣旨送到年羹尧面前，他磕了三个头却迟迟不肯动。三年前雍正还说“我配不上你这样的臣子”，三年后非杀他不可。年羹尧到底输在哪儿？ #年羹尧 #雍正 #历史故事 #历史文化 #王老师讲历史 #人性智慧",
+    "metrics": {
+      "likes": 268,
+      "saves": 376,
+      "comments": 49,
+      "shares": 213
+    },
+    "body_chars_with_punctuation": 2268,
+    "raw_path": "corpus/raw/H055.md",
+    "clean_path": "corpus/clean/H055.txt",
+    "split": "discovery",
+    "cleaning_status": "仅保守转写清洗，未完成逐句史实核验",
+    "corrections": [],
+    "source_types": [
+      "视频音轨转写"
+    ],
+    "fact_status": "未整体核实",
+    "title": "年羹尧未适应关系变化",
+    "era": "明清",
+    "era_tags": [
+      "清"
+    ],
+    "people": [
+      "年羹尧",
+      "雍正"
+    ],
+    "conflict": "旧情与现实位置",
+    "template": "T2",
+    "hook_type": "等赦场景",
+    "structure": "临死仍等→皇帝阶段需要→失分寸→贺表削权→仍期待旧情→家庭关系变化",
+    "ending": "较缓和的荐书",
+    "cluster": "年羹尧失势",
+    "source_class": "史事混合解读",
+    "risk": "临死等待细节未核；对话大意与原句分开；不把关系变化一概解释为薄情",
+    "next_angle": "讨论同样行为为何在权限改变后有不同后果",
+    "annotation_status": "全文阅读后人工结构与风险标注；不是逐句史实鉴定"
+  },
+  {
+    "id": "H056",
+    "video_id": "14988658988504844294",
+    "account": "王老谈史局",
+    "platform": "channels",
+    "original_path": "corpus/raw/H056.md",
+    "original_sha256": "1c84b37b32b1d022a481331601ea2699ae092066f1a7356fd7d092b2b93d9a42",
+    "source_url": null,
+    "published_at": null,
+    "collected_updated_at": null,
+    "original_caption": "有的被逼绝食，有的被凌迟处死，有的除夕夜被害，年仅39岁。他们没死在敌人刀下，全倒在自己人手里。前五名里，谁最让你意难平？ #历史 #历史文化 #历史故事 #岳飞 #王老师讲历史 #英雄",
+    "metrics": {
+      "likes": 246,
+      "saves": 378,
+      "comments": 39,
+      "shares": 222
+    },
+    "body_chars_with_punctuation": 1610,
+    "raw_path": "corpus/raw/H056.md",
+    "clean_path": "corpus/clean/H056.txt",
+    "split": "validation",
+    "cleaning_status": "仅保守转写清洗，未完成逐句史实核验",
+    "corrections": [],
+    "source_types": [
+      "视频音轨转写"
+    ],
+    "fact_status": "未整体核实",
+    "title": "悲剧名将榜前五名",
+    "era": "跨朝代",
+    "era_tags": [
+      "春秋",
+      "三国",
+      "西汉",
+      "明",
+      "南宋"
+    ],
+    "people": [
+      "伍子胥",
+      "邓艾",
+      "周亚夫",
+      "袁崇焕",
+      "岳飞"
+    ],
+    "conflict": "功业与非战场结局",
+    "template": "T3",
+    "hook_type": "续集榜首悬念",
+    "structure": "观众猜测→五人一事一惨点→岳飞兑现→现实受委屈→荐书",
+    "ending": "荐书与意难平互动",
+    "cluster": "悲剧名将榜",
+    "source_class": "史事混合传说",
+    "risk": "岳飞时日地点刺字和袁崇焕死因需核；原版资治通鉴不覆盖南宋明朝却借书背书",
+    "next_angle": "拆为独立人物故事，每篇限定一项史料争议",
+    "annotation_status": "全文阅读后人工结构与风险标注；不是逐句史实鉴定"
+  },
+  {
+    "id": "H057",
+    "video_id": "14991549065102952475",
+    "account": "王老谈史局",
+    "platform": "channels",
+    "original_path": "corpus/raw/H057.md",
+    "original_sha256": "6d37079a8427e6f014ab06b7d5a115b043336638ef6fb4b00e06fc3397a1bf38",
+    "source_url": null,
+    "published_at": null,
+    "collected_updated_at": null,
+    "original_caption": "真正的七夕，不是送花吃饭，是牛郎披着牛皮、挑着俩孩子，拿瓢一瓢一瓢舀天河。大难临头不撒手，才是这天留给咱们最硬的气。你跟老伴风风雨雨这些年，最想对TA说句什么？ #七夕 #乞巧节 #牛郎织女 #传统文化 #夫妻 #知冷知热 #王老师讲历史",
+    "metrics": {
+      "likes": 978,
+      "saves": 973,
+      "comments": 146,
+      "shares": 692
+    },
+    "body_chars_with_punctuation": 1474,
+    "raw_path": "corpus/raw/H057.md",
+    "clean_path": "corpus/clean/H057.txt",
+    "split": "discovery",
+    "cleaning_status": "仅保守转写清洗，未完成逐句史实核验",
+    "corrections": [],
+    "source_types": [
+      "视频音轨转写"
+    ],
+    "fact_status": "未整体核实",
+    "title": "七夕的乞巧与家庭叙事",
+    "era": "神话民俗",
+    "era_tags": [
+      "跨时代民俗"
+    ],
+    "people": [
+      "牛郎",
+      "织女"
+    ],
+    "conflict": "平常相守与外力阻隔",
+    "template": "T6",
+    "hook_type": "节日含义重解",
+    "structure": "现代节日印象→乞巧习俗→牛女故事→舀河行动→现实伴侣",
+    "ending": "向伴侣表达感谢",
+    "cluster": "七夕民俗",
+    "source_class": "民俗与神话",
+    "risk": "各地习俗不等于统一起源；神话版本多样；原文引句错字不能直接引用",
+    "next_angle": "把节俗知识与某一明确版本的故事分开讲",
+    "annotation_status": "全文阅读后人工结构与风险标注；不是逐句史实鉴定"
+  }
+]

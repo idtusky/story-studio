@@ -1,0 +1,49 @@
+{
+  "id": "H019",
+  "video_id": "14990415666843949574",
+  "account": "王老师读史观心",
+  "platform": "channels",
+  "original_path": "corpus/raw/H019.md",
+  "original_sha256": "9af99e80e2b684aea12b27f203a402b13bfd841d7095bea8410b0c0358e506c4",
+  "source_url": null,
+  "published_at": null,
+  "collected_updated_at": null,
+  "original_caption": "襄阳城里最大的笑话，怎么就成了诸葛亮三分天下的胜负手？全城笑他娶丑妻，他到底在下一盘什么棋？#三国 #诸葛亮 #婚姻观 #国学智慧",
+  "metrics": {
+    "likes": 302,
+    "saves": 444,
+    "comments": 30,
+    "shares": 296
+  },
+  "body_chars_with_punctuation": 1591,
+  "raw_path": "corpus/raw/H019.md",
+  "clean_path": "corpus/clean/H019.txt",
+  "split": "validation",
+  "cleaning_status": "仅保守转写清洗，未完成逐句史实核验",
+  "corrections": [],
+  "source_types": [
+    "视频音轨转写"
+  ],
+  "fact_status": "未整体核实",
+  "title": "诸葛亮婚姻与荆州关系",
+  "era": "三国至两晋南北朝",
+  "era_tags": [
+    "东汉末",
+    "三国"
+  ],
+  "people": [
+    "诸葛亮",
+    "黄承彦",
+    "黄夫人"
+  ],
+  "conflict": "外界评价与长期相处",
+  "template": "T2",
+  "hook_type": "婚礼笑声悬念",
+  "structure": "婚礼被笑→黄氏才学→家族网络→家庭支持→长期婚姻评价",
+  "ending": "家庭共鸣",
+  "cluster": "诸葛亮婚姻",
+  "source_class": "史籍传闻与民间演绎",
+  "risk": "黄月英称谓、木牛流马归功、终身无妾须分层；用后来三国地位倒推婚姻动机",
+  "next_angle": "从黄承彦择婿传闻讨论后世为何反复讲这门婚事",
+  "annotation_status": "全文阅读后人工结构与风险标注；不是逐句史实鉴定"
+}

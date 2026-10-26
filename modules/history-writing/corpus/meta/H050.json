@@ -1,0 +1,48 @@
+{
+  "id": "H050",
+  "video_id": "14985063331665479717",
+  "account": "王老谈史局",
+  "platform": "channels",
+  "original_path": "corpus/raw/H050.md",
+  "original_sha256": "5bbd345867c53bdd8a6b4f759078f6327293df7b2497c7b52dc7bf334bea06e0",
+  "source_url": null,
+  "published_at": null,
+  "collected_updated_at": null,
+  "original_caption": "隋炀帝被心腹宇文化及亲手勒死，三个儿子全被杀，杨氏皇族屠得干干净净。他爹抢了宇文家的江山，几十年后姓宇文的亲手把杨家灭了。天道好轮回，苍天饶过谁。 #隋炀帝 #大隋灭亡 #宇文化及 #隋唐历史 #王立群讲史 #历史人物 #历史故事 #人生感悟",
+  "metrics": {
+    "likes": 525,
+    "saves": 572,
+    "comments": 20,
+    "shares": 154
+  },
+  "body_chars_with_punctuation": 1683,
+  "raw_path": "corpus/raw/H050.md",
+  "clean_path": "corpus/clean/H050.txt",
+  "split": "validation",
+  "cleaning_status": "仅保守转写清洗，未完成逐句史实核验",
+  "corrections": [],
+  "source_types": [
+    "视频音轨转写"
+  ],
+  "fact_status": "未整体核实",
+  "title": "隋亡的工程与征发失衡",
+  "era": "隋唐武周",
+  "era_tags": [
+    "隋"
+  ],
+  "people": [
+    "杨广",
+    "杨坚",
+    "宇文化及"
+  ],
+  "conflict": "宏大工程与社会承受力",
+  "template": "T2",
+  "hook_type": "覆亡惨状",
+  "structure": "杨氏覆亡→盛世反差→江都之变→征役战争→起义→家产类比",
+  "ending": "功过提问",
+  "cluster": "王朝覆亡",
+  "source_class": "史事混合场景演绎",
+  "risk": "与H049大量同框；宇文化及与北周皇族非同姓即同支；人数及杨氏全灭断言待核",
+  "next_angle": "去除宿命，聚焦不同项目为何同时争夺劳力",
+  "annotation_status": "全文阅读后人工结构与风险标注；不是逐句史实鉴定"
+}

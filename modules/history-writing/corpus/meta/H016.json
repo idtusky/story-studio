@@ -1,0 +1,49 @@
+{
+  "id": "H016",
+  "video_id": "14982239455220865551",
+  "account": "王老师读史观心",
+  "platform": "channels",
+  "original_path": "corpus/raw/H016.md",
+  "original_sha256": "5876b346d2debf2206c5647d6e1d495b0686e60d40eec09bf19a3bdd38db73a6",
+  "source_url": null,
+  "published_at": null,
+  "collected_updated_at": null,
+  "original_caption": "人在局中，该进还是该退？看看貂蝉的大智慧。#貂蝉 #三国演义 #三国 #历史人物故事 #处世智慧 #人情世故",
+  "metrics": {
+    "likes": 37702,
+    "saves": 35302,
+    "comments": 1447,
+    "shares": 17995
+  },
+  "body_chars_with_punctuation": 1550,
+  "raw_path": "corpus/raw/H016.md",
+  "clean_path": "corpus/clean/H016.txt",
+  "split": "discovery",
+  "cleaning_status": "仅保守转写清洗，未完成逐句史实核验",
+  "corrections": [],
+  "source_types": [
+    "视频音轨转写"
+  ],
+  "fact_status": "未整体核实",
+  "title": "貂蝉在曹营谈退场",
+  "era": "三国至两晋南北朝",
+  "era_tags": [
+    "三国演义背景",
+    "东汉末"
+  ],
+  "people": [
+    "貂蝉",
+    "曹操",
+    "吕布"
+  ],
+  "conflict": "秘密与退出",
+  "template": "T2",
+  "hook_type": "美貌与生存反差",
+  "structure": "旧结局猜测→曹营放走→三条件谈判→职场守密类比",
+  "ending": "处世提醒",
+  "cluster": "貂蝉退场",
+  "source_class": "文学角色的现代演绎",
+  "risk": "曹营谈判不能默认来自三国演义原著；小说角色不等于正史无名人物",
+  "next_angle": "明确作为新编故事，写出谈判筹码及代价",
+  "annotation_status": "全文阅读后人工结构与风险标注；不是逐句史实鉴定"
+}

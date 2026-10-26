@@ -1,0 +1,50 @@
+{
+  "id": "H039",
+  "video_id": "14995196248309237797",
+  "account": "王老谈史局",
+  "platform": "channels",
+  "original_path": "corpus/raw/H039.md",
+  "original_sha256": "278bd5d3c45e1a8e4608544621dd9965963412f5bbe31ea89070da7e1165dccf",
+  "source_url": null,
+  "published_at": null,
+  "collected_updated_at": null,
+  "original_caption": "别人打仗先磨刀，左宗棠打仗先种树。3000里戈壁种下26万株柳树，救了几万条命。68岁抬着黑漆棺材走在三军最前头，这才叫大清最后的脊梁。你被这老头圈粉了吗？ #左宗棠 #收复新疆 #王老师讲历史 #历史故事 #民族脊梁",
+  "metrics": {
+    "likes": 1142,
+    "saves": 1478,
+    "comments": 119,
+    "shares": 345
+  },
+  "body_chars_with_punctuation": 1942,
+  "raw_path": "corpus/raw/H039.md",
+  "clean_path": "corpus/clean/H039.txt",
+  "split": "discovery",
+  "cleaning_status": "仅保守转写清洗，未完成逐句史实核验",
+  "corrections": [],
+  "source_types": [
+    "视频音轨转写"
+  ],
+  "fact_status": "未整体核实",
+  "title": "左宗棠的后勤与伊犁难题",
+  "era": "明清",
+  "era_tags": [
+    "清",
+    "晚清"
+  ],
+  "people": [
+    "左宗棠",
+    "刘锦棠",
+    "胡雪岩",
+    "崇厚"
+  ],
+  "conflict": "准备与速战",
+  "template": "T2",
+  "hook_type": "行动反常",
+  "structure": "打仗先种树→修路后勤→军械粮食→缓进急战→收复→伊犁条约→抬棺",
+  "ending": "新困局预告",
+  "cluster": "左宗棠西征",
+  "source_class": "史事混合场景演绎",
+  "risk": "新栽树不能立刻遮荫；实际前线指挥应区分；阿古柏死地和死因待核",
+  "next_angle": "从粮道解释缓进为什么能支持急战",
+  "annotation_status": "全文阅读后人工结构与风险标注；不是逐句史实鉴定"
+}

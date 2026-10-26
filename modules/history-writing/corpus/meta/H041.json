@@ -1,0 +1,48 @@
+{
+  "id": "H041",
+  "video_id": "14986609116334458893",
+  "account": "王老谈史局",
+  "platform": "channels",
+  "original_path": "corpus/raw/H041.md",
+  "original_sha256": "384a63e672190e904ce72a4f9091ab9b2bff23ee66e5f615c1cee3fc37489afc",
+  "source_url": null,
+  "published_at": null,
+  "collected_updated_at": null,
+  "original_caption": "大臣替国家办事，太监替皇帝本人办事。崇祯亲手清除了魏忠贤，发誓不再重用宦官，最后却又绕回去了。不是忘了教训，是那个难题根本没消失。你身边有没有这种‘明知道有风险，却不得不用’的困局？ #历史文化 #历史故事 #王老师讲历史 #人性智慧 #人生感悟 #皇权 #魏忠贤 #历史 #历史人物",
+  "metrics": {
+    "likes": 209,
+    "saves": 403,
+    "comments": 16,
+    "shares": 243
+  },
+  "body_chars_with_punctuation": 2055,
+  "raw_path": "corpus/raw/H041.md",
+  "clean_path": "corpus/clean/H041.txt",
+  "split": "discovery",
+  "cleaning_status": "仅保守转写清洗，未完成逐句史实核验",
+  "corrections": [],
+  "source_types": [
+    "视频音轨转写"
+  ],
+  "fact_status": "未整体核实",
+  "title": "皇帝为何反复使用宦官",
+  "era": "明清",
+  "era_tags": [
+    "明"
+  ],
+  "people": [
+    "崇祯",
+    "魏忠贤",
+    "明熹宗"
+  ],
+  "conflict": "依赖与失控",
+  "template": "T2",
+  "hook_type": "制度追问",
+  "structure": "排除单一后宫解释→官僚与内廷依附→票拟批红→魏氏失势→崇祯再用→结构困境",
+  "ending": "主题荐书",
+  "cluster": "宦官机制",
+  "source_class": "制度史解释",
+  "risk": "票拟批红名称校正；明代机制不能套所有朝代；大臣国家太监私人是解释模型非完全二分",
+  "next_angle": "用信息传递说明代理人为何会影响委托者",
+  "annotation_status": "全文阅读后人工结构与风险标注；不是逐句史实鉴定"
+}

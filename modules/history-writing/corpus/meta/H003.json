@@ -1,0 +1,56 @@
+{
+  "id": "H003",
+  "video_id": "15002765039809731460",
+  "account": "故纸观山河",
+  "platform": "channels",
+  "original_path": "corpus/raw/H003.md",
+  "original_sha256": "58b691d2afb26ea432dfa48f4232fba44d90eb43c03cc3b13dd20250528ed465",
+  "source_url": null,
+  "published_at": null,
+  "collected_updated_at": null,
+  "original_caption": "扶灵时的眼泪是真的。\n两年后举起的刀，也是真的。\n\n故剑情深，转头成仇。\n关注我，看一个皇帝如何用两年，算清六年的账。#帝王心术 #权臣 #忍辱负重 #反转 #满门抄斩",
+  "metrics": {
+    "likes": 7622,
+    "saves": 9345,
+    "comments": 1452,
+    "shares": 2354
+  },
+  "body_chars_with_punctuation": 1991,
+  "raw_path": "corpus/raw/H003.md",
+  "clean_path": "corpus/clean/H003.txt",
+  "split": "discovery",
+  "cleaning_status": "仅保守转写清洗，未完成逐句史实核验",
+  "corrections": [
+    {
+      "before": "刘洵",
+      "after": "刘询",
+      "count": 14,
+      "reason": "上下文明确的转写同音错词"
+    }
+  ],
+  "source_types": [
+    "视频音轨转写"
+  ],
+  "fact_status": "未整体核实",
+  "title": "霍光葬礼后的霍氏败亡",
+  "era": "秦汉",
+  "era_tags": [
+    "西汉"
+  ],
+  "people": [
+    "刘询",
+    "霍光",
+    "许平君",
+    "霍显"
+  ],
+  "conflict": "恩宠与清算",
+  "template": "T1",
+  "hook_type": "前后反差",
+  "structure": "厚葬与两年后败亡并置→入继与立后→许后之死→削权→谋反败露→告密者悬念",
+  "ending": "关联人物续集",
+  "cluster": "汉宣帝霍氏",
+  "source_class": "史事混合场景演绎",
+  "risk": "许后死至霍光死约三年不能写六年；私下哭诉和囚犯夜袭须核；转写人名密集",
+  "next_angle": "从官职与兵权的分离解释霍氏失势",
+  "annotation_status": "全文阅读后人工结构与风险标注；不是逐句史实鉴定"
+}

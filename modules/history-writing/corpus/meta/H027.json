@@ -1,0 +1,48 @@
+{
+  "id": "H027",
+  "video_id": "14987952591181781511",
+  "account": "王老翻史书",
+  "platform": "channels",
+  "original_path": "corpus/raw/H027.md",
+  "original_sha256": "96cb204d2f355a11c1c5965c0c929df0fbee3aaa256ce008dfc12a11c51a03c3",
+  "source_url": null,
+  "published_at": null,
+  "collected_updated_at": null,
+  "original_caption": "嘉庆杀和珅，不是因为他突然发现和珅贪，他早就知道，真正吓人的地方在这儿：乾隆还活着的时候，嘉庆明明已经是皇帝，却连动和珅一根手指头都不敢。#历史故事 #和珅 #嘉庆 #乾隆 #清朝历史 #人物命运 #人情世故 #中老年历史",
+  "metrics": {
+    "likes": 227,
+    "saves": 273,
+    "comments": 20,
+    "shares": 108
+  },
+  "body_chars_with_punctuation": 1818,
+  "raw_path": "corpus/raw/H027.md",
+  "clean_path": "corpus/clean/H027.txt",
+  "split": "discovery",
+  "cleaning_status": "仅保守转写清洗，未完成逐句史实核验",
+  "corrections": [],
+  "source_types": [
+    "视频音轨转写"
+  ],
+  "fact_status": "未整体核实",
+  "title": "和珅的三本账",
+  "era": "明清",
+  "era_tags": [
+    "清"
+  ],
+  "people": [
+    "和珅",
+    "嘉庆",
+    "乾隆"
+  ],
+  "conflict": "依赖与替罪",
+  "template": "T2",
+  "hook_type": "恩宠骤变",
+  "structure": "杀贪官另问不逃→乾隆脸面账→嘉庆位置账→和珅命账→死后机制仍在",
+  "ending": "现实边界提醒",
+  "cluster": "和珅嘉庆",
+  "source_class": "史事混合传闻解读",
+  "risk": "议罪银名称错；牢中对话未核；不能只凭用处推定所有犯罪动机",
+  "next_angle": "为何处理一个权臣并不能自动改变财政机制",
+  "annotation_status": "全文阅读后人工结构与风险标注；不是逐句史实鉴定"
+}

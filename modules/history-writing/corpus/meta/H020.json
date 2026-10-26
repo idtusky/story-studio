@@ -1,0 +1,49 @@
+{
+  "id": "H020",
+  "video_id": "14987979725997873665",
+  "account": "王老师读史观心",
+  "platform": "channels",
+  "original_path": "corpus/raw/H020.md",
+  "original_sha256": "549013fb6ecfe7db1f277ae4c62e024f94bb6b56d9edcff565673ee02f056482",
+  "source_url": null,
+  "published_at": null,
+  "collected_updated_at": null,
+  "original_caption": "一个差点让咱们的孙子挺不直腰杆的男人，汉武帝到底图什么？#汉武帝 #历史人物 #民族自豪 #中华文化 #读史观心 #历史那些事儿 #大汉",
+  "metrics": {
+    "likes": 2320,
+    "saves": 3130,
+    "comments": 585,
+    "shares": 1953
+  },
+  "body_chars_with_punctuation": 2402,
+  "raw_path": "corpus/raw/H020.md",
+  "clean_path": "corpus/clean/H020.txt",
+  "split": "discovery",
+  "cleaning_status": "仅保守转写清洗，未完成逐句史实核验",
+  "corrections": [],
+  "source_types": [
+    "视频音轨转写"
+  ],
+  "fact_status": "未整体核实",
+  "title": "汉武帝的战争成本与历史遗产",
+  "era": "秦汉",
+  "era_tags": [
+    "西汉"
+  ],
+  "people": [
+    "汉武帝",
+    "卫青",
+    "霍去病",
+    "张骞"
+  ],
+  "conflict": "眼前成本与长期安全",
+  "template": "T4",
+  "hook_type": "强反事实",
+  "structure": "后代尊严→战争耗费→此前困境→长期影响→晚年认错→家长类比",
+  "ending": "家国感悟",
+  "cluster": "汉武帝评价",
+  "source_class": "史事混合强立场评价",
+  "risk": "战争年数与引文出处待核；未打仗便无中国是不可验证反事实；不能免除战争成本",
+  "next_angle": "分别计算战争目标、财政代价与后续调整",
+  "annotation_status": "全文阅读后人工结构与风险标注；不是逐句史实鉴定"
+}

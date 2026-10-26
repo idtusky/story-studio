@@ -1,0 +1,47 @@
+{
+  "id": "H057",
+  "video_id": "14991549065102952475",
+  "account": "王老谈史局",
+  "platform": "channels",
+  "original_path": "corpus/raw/H057.md",
+  "original_sha256": "6d37079a8427e6f014ab06b7d5a115b043336638ef6fb4b00e06fc3397a1bf38",
+  "source_url": null,
+  "published_at": null,
+  "collected_updated_at": null,
+  "original_caption": "真正的七夕，不是送花吃饭，是牛郎披着牛皮、挑着俩孩子，拿瓢一瓢一瓢舀天河。大难临头不撒手，才是这天留给咱们最硬的气。你跟老伴风风雨雨这些年，最想对TA说句什么？ #七夕 #乞巧节 #牛郎织女 #传统文化 #夫妻 #知冷知热 #王老师讲历史",
+  "metrics": {
+    "likes": 978,
+    "saves": 973,
+    "comments": 146,
+    "shares": 692
+  },
+  "body_chars_with_punctuation": 1474,
+  "raw_path": "corpus/raw/H057.md",
+  "clean_path": "corpus/clean/H057.txt",
+  "split": "discovery",
+  "cleaning_status": "仅保守转写清洗，未完成逐句史实核验",
+  "corrections": [],
+  "source_types": [
+    "视频音轨转写"
+  ],
+  "fact_status": "未整体核实",
+  "title": "七夕的乞巧与家庭叙事",
+  "era": "神话民俗",
+  "era_tags": [
+    "跨时代民俗"
+  ],
+  "people": [
+    "牛郎",
+    "织女"
+  ],
+  "conflict": "平常相守与外力阻隔",
+  "template": "T6",
+  "hook_type": "节日含义重解",
+  "structure": "现代节日印象→乞巧习俗→牛女故事→舀河行动→现实伴侣",
+  "ending": "向伴侣表达感谢",
+  "cluster": "七夕民俗",
+  "source_class": "民俗与神话",
+  "risk": "各地习俗不等于统一起源；神话版本多样；原文引句错字不能直接引用",
+  "next_angle": "把节俗知识与某一明确版本的故事分开讲",
+  "annotation_status": "全文阅读后人工结构与风险标注；不是逐句史实鉴定"
+}

@@ -1,0 +1,57 @@
+{
+  "id": "H015",
+  "video_id": "15003221451498265049",
+  "account": "王老师读史观心",
+  "platform": "channels",
+  "original_path": "corpus/raw/H015.md",
+  "original_sha256": "faa5057c4360e03e9ff1177aeec31b561049e1d3abd0174b4d22561c2f00bd76",
+  "source_url": null,
+  "published_at": null,
+  "collected_updated_at": null,
+  "original_caption": "全家满门抄斩，这个漏掉的婴儿，凭什么成了大汉最硬的皇帝？#历史故事 #汉宣帝 #霍光#人情世故#人生智慧",
+  "metrics": {
+    "likes": 7428,
+    "saves": 8206,
+    "comments": 209,
+    "shares": 2644
+  },
+  "body_chars_with_punctuation": 2543,
+  "raw_path": "corpus/raw/H015.md",
+  "clean_path": "corpus/clean/H015.txt",
+  "split": "discovery",
+  "cleaning_status": "仅保守转写清洗，未完成逐句史实核验",
+  "corrections": [
+    {
+      "before": "刘洵",
+      "after": "刘询",
+      "count": 22,
+      "reason": "上下文明确的转写同音错词"
+    }
+  ],
+  "source_types": [
+    "视频音轨转写"
+  ],
+  "fact_status": "未整体核实",
+  "title": "刘询从狱中婴儿到皇帝",
+  "era": "秦汉",
+  "era_tags": [
+    "西汉"
+  ],
+  "people": [
+    "刘询",
+    "丙吉",
+    "张贺",
+    "许平君",
+    "霍光"
+  ],
+  "conflict": "生存经历与政治选择",
+  "template": "T1",
+  "hook_type": "弱者险境",
+  "structure": "婴儿入狱→丙吉救护→民间婚姻→登基受制→许后死与霍氏败→对照刘贺",
+  "ending": "反问与系列预告",
+  "cluster": "汉宣帝霍氏",
+  "source_class": "史事混合大量虚构场景",
+  "risk": "婴儿存活情节、野花意象、死后回忆和对白不能当史实；六年时间混用",
+  "next_angle": "从丙吉救护及张贺资助讲人物命运的接力",
+  "annotation_status": "全文阅读后人工结构与风险标注；不是逐句史实鉴定"
+}

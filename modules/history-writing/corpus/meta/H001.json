@@ -1,0 +1,53 @@
+{
+  "id": "H001",
+  "video_id": "15002488234661976968",
+  "account": "故纸观山河",
+  "platform": "channels",
+  "original_path": "corpus/raw/H001.md",
+  "original_sha256": "400e10db1df01bcf192db1cd240a72a789873b8afa910b6e0b3c240d8291dba2",
+  "source_url": null,
+  "published_at": null,
+  "collected_updated_at": null,
+  "original_caption": "🔥谋士排行榜吵翻了！诸葛亮仅排第 6，前五名到底有多厉害？\n刘伯温、管仲、孙武、姜子牙、鬼谷子逐个拆解，\n有人谋天下，有人谋文明，有人隐于幕后布下整盘战国棋局。\n\n📖本期出处：冯梦龙《智囊全集》\n一千二百多则古人智慧故事，曾国藩枕边常读。\n读的不是算计，是看懂人性、避开人生坑。\n\n十位谋士一人一字道尽一生：\n李斯贪｜郭嘉命｜范蠡退｜张良醒｜诸葛亮逆势\n刘伯温难｜管仲大｜孙武藏｜姜子牙等时｜鬼谷子布局\n\n你心中古代谋士该怎么排？评论区来聊聊！\n# 历史 #智囊全集 #鬼谷子 #刘伯温 #姜子牙 #古人智慧",
+  "metrics": {
+    "likes": 409,
+    "saves": 500,
+    "comments": 21,
+    "shares": 230
+  },
+  "body_chars_with_punctuation": 1581,
+  "raw_path": "corpus/raw/H001.md",
+  "clean_path": "corpus/clean/H001.txt",
+  "split": "discovery",
+  "cleaning_status": "仅保守转写清洗，未完成逐句史实核验",
+  "corrections": [],
+  "source_types": [
+    "视频音轨转写"
+  ],
+  "fact_status": "未整体核实",
+  "title": "十大谋士前五名与智囊荐书",
+  "era": "跨朝代",
+  "era_tags": [
+    "先秦",
+    "春秋",
+    "战国",
+    "明"
+  ],
+  "people": [
+    "刘伯温",
+    "管仲",
+    "孙武",
+    "姜子牙",
+    "鬼谷子"
+  ],
+  "conflict": "谋事与谋身",
+  "template": "T3",
+  "hook_type": "续集悬念",
+  "structure": "承接第六名争议→五人依次讲功业与退路→榜首→兑现开头书名→十字回顾",
+  "ending": "卖书加榜单讨论",
+  "cluster": "谋士榜单",
+  "source_class": "史事与传说混合",
+  "risk": "鬼谷子生平与师承不能全当正史；声称全有出处却未给篇章；推广书的内容须核对",
+  "next_angle": "把谋士拆成用人、理财、退场三个比较维度",
+  "annotation_status": "全文阅读后人工结构与风险标注；不是逐句史实鉴定"
+}

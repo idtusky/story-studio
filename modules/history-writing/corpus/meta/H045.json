@@ -1,0 +1,53 @@
+{
+  "id": "H045",
+  "video_id": "14987901757847177252",
+  "account": "王老谈史局",
+  "platform": "channels",
+  "original_path": "corpus/raw/H045.md",
+  "original_sha256": "79f0a17f8ca9b70d293e7f3e0856dd57eb213cf8943e9715035100c003fa971e",
+  "source_url": null,
+  "published_at": null,
+  "collected_updated_at": null,
+  "original_caption": "李牧被杀三个月赵国亡，韩信被骗进长乐宫砍死，檀道济临死喊‘你们在毁长城’，于谦抄家抄得锦衣卫当场痛哭。最憋屈的不是战死沙场，是打了胜仗回来，被自己人一刀捅了。你猜到第一名是谁了吗？ #历史故事 #历史文化 #王老师讲历史 #历史 #韩信 #英雄",
+  "metrics": {
+    "likes": 1171,
+    "saves": 1579,
+    "comments": 269,
+    "shares": 770
+  },
+  "body_chars_with_punctuation": 1535,
+  "raw_path": "corpus/raw/H045.md",
+  "clean_path": "corpus/clean/H045.txt",
+  "split": "discovery",
+  "cleaning_status": "仅保守转写清洗，未完成逐句史实核验",
+  "corrections": [],
+  "source_types": [
+    "视频音轨转写"
+  ],
+  "fact_status": "未整体核实",
+  "title": "悲剧名将榜后五名",
+  "era": "跨朝代",
+  "era_tags": [
+    "战国",
+    "西汉",
+    "南朝",
+    "明"
+  ],
+  "people": [
+    "李牧",
+    "韩信",
+    "檀道济",
+    "彭越",
+    "于谦"
+  ],
+  "conflict": "战功与内部猜忌",
+  "template": "T3",
+  "hook_type": "榜单排除法",
+  "structure": "排除项羽→五人功业与遇害→回扣非战场之死→岳飞悬念",
+  "ending": "榜首续集",
+  "cluster": "悲剧名将榜",
+  "source_class": "史事混合演绎",
+  "risk": "死亡方式、兵力、时距和临刑对白需核；跨人重复同一道德结论",
+  "next_angle": "每个人对应一个不同的制度或决策失误",
+  "annotation_status": "全文阅读后人工结构与风险标注；不是逐句史实鉴定"
+}

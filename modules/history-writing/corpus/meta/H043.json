@@ -1,0 +1,46 @@
+{
+  "id": "H043",
+  "video_id": "14987279113152301097",
+  "account": "王老谈史局",
+  "platform": "channels",
+  "original_path": "corpus/raw/H043.md",
+  "original_sha256": "e8435d1b50b07c8a56250b15ec68ad073288354a65893c13069ed89955208682",
+  "source_url": null,
+  "published_at": null,
+  "collected_updated_at": null,
+  "original_caption": "开运河让南北通了一千四百年，创科举让寒门翻身一千三百年，结果自己被亲信勒死，连口棺材都没有，老婆拆床板把他埋了。杨广不是完人，但若只盯着他的错，就永远看不懂中国为什么是今天的中国。你觉得他该翻案吗？ #隋炀帝 #杨广 #大运河 #科举制度 #隋朝历史 #王老师讲历史 #历史文化 #人性智慧",
+  "metrics": {
+    "likes": 1111,
+    "saves": 1476,
+    "comments": 176,
+    "shares": 776
+  },
+  "body_chars_with_punctuation": 2282,
+  "raw_path": "corpus/raw/H043.md",
+  "clean_path": "corpus/clean/H043.txt",
+  "split": "discovery",
+  "cleaning_status": "仅保守转写清洗，未完成逐句史实核验",
+  "corrections": [],
+  "source_types": [
+    "视频音轨转写"
+  ],
+  "fact_status": "未整体核实",
+  "title": "杨广的工程遗产与当世代价",
+  "era": "隋唐武周",
+  "era_tags": [
+    "隋"
+  ],
+  "people": [
+    "杨广"
+  ],
+  "conflict": "长期贡献与同期损失",
+  "template": "T4",
+  "hook_type": "考古实物",
+  "structure": "两颗牙与帝王反差→后世评价→运河科举洛阳→急促征发→死亡→回到遗物",
+  "ending": "双面评价",
+  "cluster": "杨广功过",
+  "source_class": "史事混合传闻",
+  "risk": "活到八十多属账号人设；科举起源与运河路线复杂；500年反事实及牙齿推心理无据",
+  "next_angle": "同时写受益时间与代价由谁承担",
+  "annotation_status": "全文阅读后人工结构与风险标注；不是逐句史实鉴定"
+}

@@ -1,0 +1,50 @@
+{
+  "id": "H033",
+  "video_id": "14999162299812027413",
+  "account": "王老翻史书",
+  "platform": "channels",
+  "original_path": "corpus/raw/H033.md",
+  "original_sha256": "fc9680c4f4050c7ea6b129af8f5a183a18e30c270cd17a09fd3636c62243ede1",
+  "source_url": null,
+  "published_at": null,
+  "collected_updated_at": null,
+  "original_caption": "一百六十六万平方公里，差点就不姓中国了#历史故事 #历史人物 #读史明智 #左宗棠 #左公复疆 #收复新疆 #晚清 #人性",
+  "metrics": {
+    "likes": 3796,
+    "saves": 5433,
+    "comments": 1313,
+    "shares": 1557
+  },
+  "body_chars_with_punctuation": 2259,
+  "raw_path": "corpus/raw/H033.md",
+  "clean_path": "corpus/clean/H033.txt",
+  "split": "discovery",
+  "cleaning_status": "仅保守转写清洗，未完成逐句史实核验",
+  "corrections": [],
+  "source_types": [
+    "视频音轨转写"
+  ],
+  "fact_status": "未整体核实",
+  "title": "左宗棠出征之前怎样筹钱",
+  "era": "明清",
+  "era_tags": [
+    "清",
+    "晚清"
+  ],
+  "people": [
+    "左宗棠",
+    "李鸿章",
+    "林则徐",
+    "胡雪岩"
+  ],
+  "conflict": "眼前财力与长期边防",
+  "template": "T1",
+  "hook_type": "纪念物追问",
+  "structure": "雕像→新疆危机→海防塞防分歧→林则徐托付→借款筹饷→出征悬念",
+  "ending": "续集",
+  "cluster": "左宗棠西征",
+  "source_class": "史事混合场景演绎",
+  "risk": "雕像前几天必须绑定真实日期；借款合同签名与独白待核；不可删去海防论据",
+  "next_angle": "把筹饷当成主线，保留另一种预算判断",
+  "annotation_status": "全文阅读后人工结构与风险标注；不是逐句史实鉴定"
+}

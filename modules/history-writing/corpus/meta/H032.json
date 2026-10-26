@@ -1,0 +1,53 @@
+{
+  "id": "H032",
+  "video_id": "14974946017779980814",
+  "account": "王老翻史书",
+  "platform": "channels",
+  "original_path": "corpus/raw/H032.md",
+  "original_sha256": "32c38f8a17022faa36340f999f0822d5b635d95f1f049394e02db8799e6916b2",
+  "source_url": null,
+  "published_at": null,
+  "collected_updated_at": null,
+  "original_caption": "为什么王朝逃不过三百年死局？读懂土地兼并，就懂了大明为什么救不回来#历史 #土地兼并 #王朝周期率 #大明王朝 #崇祯 #万历十五年 #黄仁宇 #历史人性 #读史明智 #普通人的历史",
+  "metrics": {
+    "likes": 2777,
+    "saves": 3447,
+    "comments": 15,
+    "shares": 9143
+  },
+  "body_chars_with_punctuation": 2736,
+  "raw_path": "corpus/raw/H032.md",
+  "clean_path": "corpus/clean/H032.txt",
+  "split": "discovery",
+  "cleaning_status": "仅保守转写清洗，未完成逐句史实核验",
+  "corrections": [],
+  "source_types": [
+    "视频音轨转写"
+  ],
+  "fact_status": "未整体核实",
+  "title": "土地兼并与王朝财政困局",
+  "era": "跨朝代",
+  "era_tags": [
+    "西汉",
+    "唐",
+    "宋",
+    "明",
+    "清"
+  ],
+  "people": [
+    "张居正",
+    "王安石",
+    "崇祯",
+    "李自成"
+  ],
+  "conflict": "资源集中与治理失灵",
+  "template": "T2",
+  "hook_type": "周期断言",
+  "structure": "三百年设问→农民失地推演→征税难→变法执行困境→明末→现代住房类比",
+  "ending": "长篇荐书",
+  "cluster": "王朝财政",
+  "source_class": "制度解读混合假设",
+  "risk": "三百年与人口减半不普适；土地占比和七千万两需出处；现代住房不能直接等同王朝末世",
+  "next_angle": "把王朝必亡论改成一个时期的财政征收问题",
+  "annotation_status": "全文阅读后人工结构与风险标注；不是逐句史实鉴定"
+}

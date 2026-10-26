@@ -1,0 +1,50 @@
+{
+  "id": "H049",
+  "video_id": "14983497333034387504",
+  "account": "王老谈史局",
+  "platform": "channels",
+  "original_path": "corpus/raw/H049.md",
+  "original_sha256": "c1ba00ca05376160a44351abb71b7fc98eab961350df2b60aa799ee87714eb52",
+  "source_url": null,
+  "published_at": null,
+  "collected_updated_at": null,
+  "original_caption": "秦朝灭亡时嬴姓皇族被杀绝，子婴被项羽一剑斩首，咸阳大火烧了三个月。横扫六合的百万虎狼之师，最后连一个活口都没留下。 #秦朝灭亡 #历史故事 #历史文化 #王立群讲史 #历史人物 #历史 #人生感悟",
+  "metrics": {
+    "likes": 314,
+    "saves": 411,
+    "comments": 29,
+    "shares": 107
+  },
+  "body_chars_with_punctuation": 1324,
+  "raw_path": "corpus/raw/H049.md",
+  "clean_path": "corpus/clean/H049.txt",
+  "split": "discovery",
+  "cleaning_status": "仅保守转写清洗，未完成逐句史实核验",
+  "corrections": [],
+  "source_types": [
+    "视频音轨转写"
+  ],
+  "fact_status": "未整体核实",
+  "title": "秦亡时的内耗与暴政",
+  "era": "秦汉",
+  "era_tags": [
+    "秦",
+    "秦末"
+  ],
+  "people": [
+    "胡亥",
+    "赵高",
+    "子婴",
+    "项羽"
+  ],
+  "conflict": "内部消耗与外部打击",
+  "template": "T2",
+  "hook_type": "覆亡惨状",
+  "structure": "亡国结果→项羽复仇→胡亥征发→巨鹿与宫廷内斗→家庭败家类比",
+  "ending": "归因提问",
+  "cluster": "王朝覆亡",
+  "source_class": "史事混合场景演绎",
+  "risk": "同篇子婴腰斩与一剑斩首冲突；嬴姓全灭无证据；人口与军力断言待核",
+  "next_angle": "用前线危机与宫廷斗争的时间线讲秦末",
+  "annotation_status": "全文阅读后人工结构与风险标注；不是逐句史实鉴定"
+}

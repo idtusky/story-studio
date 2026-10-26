@@ -1,0 +1,61 @@
+{
+  "id": "H037",
+  "video_id": "14983931437000165399",
+  "account": "王老谈史局",
+  "platform": "channels",
+  "original_path": "corpus/raw/H037.md",
+  "original_sha256": "3d6b81d3ab6961f2ac61b1d79752f3746a9edc53fb98ec1bca5b29949915ec13",
+  "source_url": null,
+  "published_at": null,
+  "collected_updated_at": null,
+  "original_caption": "#历史故事 #历史文化 #王立群讲史 #历史人物 #人生感悟 #历史",
+  "metrics": {
+    "likes": 274,
+    "saves": 358,
+    "comments": 24,
+    "shares": 191
+  },
+  "body_chars_with_punctuation": 2829,
+  "raw_path": "corpus/raw/H037.md",
+  "clean_path": "corpus/clean/H037.txt",
+  "split": "discovery",
+  "cleaning_status": "仅保守转写清洗，未完成逐句史实核验",
+  "corrections": [],
+  "source_types": [
+    "视频音轨转写"
+  ],
+  "fact_status": "未整体核实",
+  "title": "十位清官的不同担当",
+  "era": "跨朝代",
+  "era_tags": [
+    "战国",
+    "西汉",
+    "唐",
+    "武周",
+    "宋",
+    "明",
+    "清"
+  ],
+  "people": [
+    "西门豹",
+    "赵广汉",
+    "黄霸",
+    "况钟",
+    "徐有功",
+    "袁可立",
+    "狄仁杰",
+    "包拯",
+    "海瑞",
+    "于成龙"
+  ],
+  "conflict": "清廉与治理",
+  "template": "T3",
+  "hook_type": "熟悉人物名次反差",
+  "structure": "包拯第三→三人预告→十人独有事迹→不同担当→第一名回扣",
+  "ending": "荐书和贪官续集",
+  "cluster": "清官盘点",
+  "source_class": "史事混合传闻",
+  "risk": "新闻报为西门豹转写；多条引语和绝对数字待核；排名不代表客观史学结论",
+  "next_angle": "把敢谏、断案、日常治理分成三组",
+  "annotation_status": "全文阅读后人工结构与风险标注；不是逐句史实鉴定"
+}

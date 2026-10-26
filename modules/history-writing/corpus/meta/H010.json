@@ -1,0 +1,48 @@
+{
+  "id": "H010",
+  "video_id": "14983495786363755045",
+  "account": "王老师读史观心",
+  "platform": "channels",
+  "original_path": "corpus/raw/H010.md",
+  "original_sha256": "c93acbc5188caa2a4b0825f6d507969665ea54b534530b58f5fd427c94fdb6dc",
+  "source_url": null,
+  "published_at": null,
+  "collected_updated_at": null,
+  "original_caption": "曹操杀杨修，根本不是因为“鸡肋”！他触碰了最致命的“死规矩”#三国历史#历史人物故事#为人处世#职场生存#人情世故#杨修",
+  "metrics": {
+    "likes": 438,
+    "saves": 723,
+    "comments": 49,
+    "shares": 1488
+  },
+  "body_chars_with_punctuation": 1860,
+  "raw_path": "corpus/raw/H010.md",
+  "clean_path": "corpus/clean/H010.txt",
+  "split": "discovery",
+  "cleaning_status": "仅保守转写清洗，未完成逐句史实核验",
+  "corrections": [],
+  "source_types": [
+    "视频音轨转写"
+  ],
+  "fact_status": "未整体核实",
+  "title": "杨修越过了哪些边界",
+  "era": "三国至两晋南北朝",
+  "era_tags": [
+    "东汉末"
+  ],
+  "people": [
+    "杨修",
+    "曹操",
+    "曹植"
+  ],
+  "conflict": "才智与授权",
+  "template": "T2",
+  "hook_type": "刑场追问",
+  "structure": "无人求情→才智与门阔酥饼→夺嫡与司马门→门店打折类比→三条提醒",
+  "ending": "转发年轻人",
+  "cluster": "杨修之死",
+  "source_class": "史事与演义及现代类比混合",
+  "risk": "不能认定杨修同车闯门；朋友门店经历不能移植为自己的；雇佣关系不可等同君臣",
+  "next_angle": "区分提出建议与代替决策的边界",
+  "annotation_status": "全文阅读后人工结构与风险标注；不是逐句史实鉴定"
+}

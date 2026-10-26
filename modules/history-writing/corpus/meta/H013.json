@@ -1,0 +1,50 @@
+{
+  "id": "H013",
+  "video_id": "14980268800936581648",
+  "account": "王老师读史观心",
+  "platform": "channels",
+  "original_path": "corpus/raw/H013.md",
+  "original_sha256": "70050ba87812ae4b7f9b701e20eede7c4d929fb19bb00db03360d675c257b9ae",
+  "source_url": null,
+  "published_at": null,
+  "collected_updated_at": null,
+  "original_caption": "蒙恬李斯都犯怵的赵高，凭啥被一个“窝囊废”除掉了？\n#历史故事 #赵高 #秦始皇 #人生智慧",
+  "metrics": {
+    "likes": 27602,
+    "saves": 41202,
+    "comments": 1678,
+    "shares": 10657
+  },
+  "body_chars_with_punctuation": 1953,
+  "raw_path": "corpus/raw/H013.md",
+  "clean_path": "corpus/clean/H013.txt",
+  "split": "discovery",
+  "cleaning_status": "仅保守转写清洗，未完成逐句史实核验",
+  "corrections": [],
+  "source_types": [
+    "视频音轨转写"
+  ],
+  "fact_status": "未整体核实",
+  "title": "子婴如何诛赵高",
+  "era": "秦汉",
+  "era_tags": [
+    "秦",
+    "秦末"
+  ],
+  "people": [
+    "子婴",
+    "赵高",
+    "刘邦",
+    "项羽"
+  ],
+  "conflict": "弱者反击与大势不可挽",
+  "template": "T1",
+  "hook_type": "弱者身份反差",
+  "structure": "强人未做到→子婴隐忍→斋戒称病诱杀→救秦失败→投降与死亡→尽力的价值",
+  "ending": "自我代入提问",
+  "cluster": "子婴秦亡",
+  "source_class": "史事混合大量演绎",
+  "risk": "五天与四十一天划分、装弱三年、兵力、具体杀法及阿房宫火灾待核；身世有争议",
+  "next_angle": "只讲斋戒称病一段如何改变接近权臣的条件",
+  "annotation_status": "全文阅读后人工结构与风险标注；不是逐句史实鉴定"
+}

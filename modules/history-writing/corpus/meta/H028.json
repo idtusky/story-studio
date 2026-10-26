@@ -1,0 +1,46 @@
+{
+  "id": "H028",
+  "video_id": "14980314099805788688",
+  "account": "王老翻史书",
+  "platform": "channels",
+  "original_path": "corpus/raw/H028.md",
+  "original_sha256": "e03fdcdde01226f7db58a35654ff1dfa9cfc231482ce3ca3fde1a4b162069389",
+  "source_url": null,
+  "published_at": null,
+  "collected_updated_at": null,
+  "original_caption": "六百年过去了，我们还在吃朱棣留下的红利#历史 #朱棣 #明朝 #永乐大帝 #故宫 #大运河 #永乐大典 #明朝那些事儿 #读史明智 #历史人物",
+  "metrics": {
+    "likes": 2725,
+    "saves": 3834,
+    "comments": 213,
+    "shares": 7262
+  },
+  "body_chars_with_punctuation": 2406,
+  "raw_path": "corpus/raw/H028.md",
+  "clean_path": "corpus/clean/H028.txt",
+  "split": "validation",
+  "cleaning_status": "仅保守转写清洗，未完成逐句史实核验",
+  "corrections": [],
+  "source_types": [
+    "视频音轨转写"
+  ],
+  "fact_status": "未整体核实",
+  "title": "朱棣的五项历史遗产",
+  "era": "明清",
+  "era_tags": [
+    "明"
+  ],
+  "people": [
+    "朱棣"
+  ],
+  "conflict": "争议与公共遗产",
+  "template": "T4",
+  "hook_type": "长期尺度",
+  "structure": "五项贡献承诺→故宫→运河→典籍→防线→寺塔→回到今天遗存",
+  "ending": "荐书与比较提问",
+  "cluster": "朱棣遗产",
+  "source_class": "史事混合传闻",
+  "risk": "生母碽妃说与建塔动机须标争议；九边形成时间不能都归朱棣；修建与疏浚应区分",
+  "next_angle": "选运河与迁都的关系，补上运输和财政代价",
+  "annotation_status": "全文阅读后人工结构与风险标注；不是逐句史实鉴定"
+}

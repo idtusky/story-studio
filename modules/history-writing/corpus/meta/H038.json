@@ -1,0 +1,47 @@
+{
+  "id": "H038",
+  "video_id": "14995988709018699803",
+  "account": "王老谈史局",
+  "platform": "channels",
+  "original_path": "corpus/raw/H038.md",
+  "original_sha256": "1b5b1da24719f68670737202ac5aae5ed2c6b654f449370584f45b714427a675",
+  "source_url": null,
+  "published_at": null,
+  "collected_updated_at": null,
+  "original_caption": "19岁嫁进毛乌素沙漠，住的婚房半截埋在沙里。她用40年种下800万棵树，美国老头看新闻哭了，寄来5000美元。26年后两人在机场相拥痛哭，当年的小苗已长成参天林海。 #殷玉珍 #毛乌素 #治沙英雄 #历史 #历史故事 #王老师讲历史",
+  "metrics": {
+    "likes": 379,
+    "saves": 460,
+    "comments": 48,
+    "shares": 137
+  },
+  "body_chars_with_punctuation": 2790,
+  "raw_path": "corpus/raw/H038.md",
+  "clean_path": "corpus/clean/H038.txt",
+  "split": "validation",
+  "cleaning_status": "仅保守转写清洗，未完成逐句史实核验",
+  "corrections": [],
+  "source_types": [
+    "视频音轨转写"
+  ],
+  "fact_status": "未整体核实",
+  "title": "殷玉珍治沙与跨国友谊",
+  "era": "当代人物",
+  "era_tags": [
+    "当代"
+  ],
+  "people": [
+    "殷玉珍",
+    "塞考斯"
+  ],
+  "conflict": "环境困境与长期合作",
+  "template": "T1",
+  "hook_type": "极端生活处境",
+  "structure": "婚房沙困→种树受挫→坚持→援助→失联→重逢→再种树→道具回扣",
+  "ending": "敬意与关注",
+  "cluster": "殷玉珍治沙",
+  "source_class": "当代人物故事待核报道",
+  "risk": "2026重逢日期、姓名译写、树木面积和对白需新闻核实；不可按古代传说自由补写",
+  "next_angle": "用一笔援助怎样延续多年合作组织故事",
+  "annotation_status": "全文阅读后人工结构与风险标注；不是逐句史实鉴定"
+}

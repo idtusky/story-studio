@@ -1,0 +1,48 @@
+{
+  "id": "H035",
+  "video_id": "14981038879713729048",
+  "account": "王老翻史书",
+  "platform": "channels",
+  "original_path": "corpus/raw/H035.md",
+  "original_sha256": "887dce735519b7a15d4950df921101eacf29efee35472361863ad22f6725ebb6",
+  "source_url": null,
+  "published_at": null,
+  "collected_updated_at": null,
+  "original_caption": "战国最能打的那个人，是坐着打仗的#历史 #孙膑 #庞涓 #战国 #史记 #孙膑兵法 #马陵之战 #人性 #良知 #历史人物",
+  "metrics": {
+    "likes": 413,
+    "saves": 678,
+    "comments": 35,
+    "shares": 444
+  },
+  "body_chars_with_punctuation": 2357,
+  "raw_path": "corpus/raw/H035.md",
+  "clean_path": "corpus/clean/H035.txt",
+  "split": "discovery",
+  "cleaning_status": "仅保守转写清洗，未完成逐句史实核验",
+  "corrections": [],
+  "source_types": [
+    "视频音轨转写"
+  ],
+  "fact_status": "未整体核实",
+  "title": "孙膑复仇与兵书重见天日",
+  "era": "先秦",
+  "era_tags": [
+    "战国"
+  ],
+  "people": [
+    "孙膑",
+    "庞涓",
+    "田忌"
+  ],
+  "conflict": "能力受损与重新证明",
+  "template": "T1",
+  "hook_type": "身体处境反差",
+  "structure": "残足能胜→被害装疯→入齐赛马→减灶马陵→兵书出土→良知",
+  "ending": "忍耐与识人讨论",
+  "cluster": "孙膑庞涓",
+  "source_class": "史事与传说混合",
+  "risk": "魏卫混写；鬼谷师承与猪圈三年传说；擒庞涓与死树下应作史源差异而非无缝叙述",
+  "next_angle": "比较史记与银雀山兵书中的庞涓结局",
+  "annotation_status": "全文阅读后人工结构与风险标注；不是逐句史实鉴定"
+}

@@ -1,0 +1,50 @@
+{
+  "id": "H052",
+  "video_id": "14992154122754197522",
+  "account": "王老谈史局",
+  "platform": "channels",
+  "original_path": "corpus/raw/H052.md",
+  "original_sha256": "63d42b9e54cd7e17940dc0b617e6bde2c1759938569deced12019a27279af185",
+  "source_url": null,
+  "published_at": null,
+  "collected_updated_at": null,
+  "original_caption": "武则天82岁临终前才看透，自己信任了一辈子的狄国老，从来不是武周忠臣。他用最温柔的方式，把复辟火种一个个塞进朝堂，死后五年，神龙政变，大唐复辟。 #狄仁杰 #武则天 #历史权谋 #王老师讲历史 #历史文化 #历史故事 #人性智慧",
+  "metrics": {
+    "likes": 22302,
+    "saves": 26602,
+    "comments": 1942,
+    "shares": 18568
+  },
+  "body_chars_with_punctuation": 1482,
+  "raw_path": "corpus/raw/H052.md",
+  "clean_path": "corpus/clean/H052.txt",
+  "split": "discovery",
+  "cleaning_status": "仅保守转写清洗，未完成逐句史实核验",
+  "corrections": [],
+  "source_types": [
+    "视频音轨转写"
+  ],
+  "fact_status": "未整体核实",
+  "title": "狄仁杰劝立与荐才",
+  "era": "隋唐武周",
+  "era_tags": [
+    "唐",
+    "武周"
+  ],
+  "people": [
+    "狄仁杰",
+    "武则天",
+    "张柬之",
+    "李显"
+  ],
+  "conflict": "臣子目标与君主接受",
+  "template": "T2",
+  "hook_type": "临终对白",
+  "structure": "女皇被骗断言→信任→荐人→母子姑侄劝立→政变→隐忍评价",
+  "ending": "忠奸争议",
+  "cluster": "狄仁杰劝立",
+  "source_class": "史事混合阴谋演绎",
+  "risk": "临终骗我对白无据；狄死与张拜相须核时序；不能把未来政变写成已证预谋",
+  "next_angle": "只讲如何以宗庙与亲属关系说服君主",
+  "annotation_status": "全文阅读后人工结构与风险标注；不是逐句史实鉴定"
+}

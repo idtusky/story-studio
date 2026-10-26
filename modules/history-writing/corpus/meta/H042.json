@@ -1,0 +1,50 @@
+{
+  "id": "H042",
+  "video_id": "14977070510295943202",
+  "account": "王老谈史局",
+  "platform": "channels",
+  "original_path": "corpus/raw/H042.md",
+  "original_sha256": "5c389cfe770637fb96f40b80ebccafd2457432fdf73887fcd513c9c0fe5746db",
+  "source_url": null,
+  "published_at": null,
+  "collected_updated_at": null,
+  "original_caption": "韩信打下大汉三分之二江山，最后却被一群宫女用竹竿打死。他至死不明白，杀他的不是谋反，而是刘邦的算计。 #职场智慧 #韩信 #历史 #王立群讲史记 #历史文化 #人生感悟",
+  "metrics": {
+    "likes": 325,
+    "saves": 307,
+    "comments": 17,
+    "shares": 158
+  },
+  "body_chars_with_punctuation": 2483,
+  "raw_path": "corpus/raw/H042.md",
+  "clean_path": "corpus/clean/H042.txt",
+  "split": "discovery",
+  "cleaning_status": "仅保守转写清洗，未完成逐句史实核验",
+  "corrections": [],
+  "source_types": [
+    "视频音轨转写"
+  ],
+  "fact_status": "未整体核实",
+  "title": "韩信把阶段重用当成长久信任",
+  "era": "秦汉",
+  "era_tags": [
+    "楚汉",
+    "西汉"
+  ],
+  "people": [
+    "韩信",
+    "刘邦",
+    "吕后",
+    "萧何"
+  ],
+  "conflict": "重用与长期保障",
+  "template": "T2",
+  "hook_type": "悲剧倒叙",
+  "structure": "死亡场景→心理盲区→受辱拜将→战功→夺军降爵→入宫→利用价值判断",
+  "ending": "关注",
+  "cluster": "韩信之死",
+  "source_class": "史事与传说混合",
+  "risk": "宫女竹竿来源不足；行刑临终成语移植；夺军事件顺序与谋反记载需核",
+  "next_angle": "以职位变化为证据，避免读心解释全部历史",
+  "annotation_status": "全文阅读后人工结构与风险标注；不是逐句史实鉴定"
+}

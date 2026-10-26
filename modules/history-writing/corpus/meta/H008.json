@@ -1,0 +1,53 @@
+{
+  "id": "H008",
+  "video_id": "15002283866326375309",
+  "account": "故纸观山河",
+  "platform": "channels",
+  "original_path": "corpus/raw/H008.md",
+  "original_sha256": "7fc6280477c8084fcfbd7d0cd2c1448902e33e947fdf3dd1e5ffdc3e3aaecfc8",
+  "source_url": null,
+  "published_at": null,
+  "collected_updated_at": null,
+  "original_caption": "诸葛亮才排第六？十大谋士完整榜单，今天一次揭晓。\n\n上集盘点了李斯、郭嘉、范蠡、张良、诸葛亮，评论区吵翻了天——“诸葛亮第六？前五是谁？”\n\n今天就把前五位一个一个揭开：\n第五名，刘伯温。谋得了大明的国，算不定自己的命。\n第四名，管仲。没有他，齐桓公成不了春秋首霸。\n第三名，孙武。写尽天下战法，自己却悄然退场。\n第二名，姜子牙。八十岁出山，谋的不是一国，是一个时代。\n第一名，鬼谷子。从不下山，天下却是他的棋盘。\n\n十个谋士，十个字：\n李斯·贪 | 郭嘉·命 | 范蠡·退 | 张良·醒 | 诸葛亮·势\n刘伯温·难 | 管仲·大 | 孙武·藏 | 姜子牙·时 | 鬼谷子·局\n\n您心里的榜单该怎么排？评论区摆开阵势，咱们慢慢辩。\n\n觉得受用，点个关注，下回换个题目，接着聊历史里那些真本事。",
+  "metrics": {
+    "likes": 7030,
+    "saves": 6428,
+    "comments": 311,
+    "shares": 2861
+  },
+  "body_chars_with_punctuation": 1488,
+  "raw_path": "corpus/raw/H008.md",
+  "clean_path": "corpus/clean/H008.txt",
+  "split": "validation",
+  "cleaning_status": "仅保守转写清洗，未完成逐句史实核验",
+  "corrections": [],
+  "source_types": [
+    "视频音轨转写"
+  ],
+  "fact_status": "未整体核实",
+  "title": "十大谋士前五名续篇",
+  "era": "跨朝代",
+  "era_tags": [
+    "先秦",
+    "春秋",
+    "战国",
+    "明"
+  ],
+  "people": [
+    "刘伯温",
+    "管仲",
+    "孙武",
+    "姜子牙",
+    "鬼谷子"
+  ],
+  "conflict": "谋国与退路",
+  "template": "T3",
+  "hook_type": "承接争议",
+  "structure": "回顾后五→声明一家之言→前五逐人功业结局→十字收束",
+  "ending": "榜单讨论",
+  "cluster": "谋士榜单",
+  "source_class": "史事与传说混合",
+  "risk": "与H001高度同题；个人观点不能转成客观排名；师承传说须分层",
+  "next_angle": "把管仲的治理能力单独展开",
+  "annotation_status": "全文阅读后人工结构与风险标注；不是逐句史实鉴定"
+}

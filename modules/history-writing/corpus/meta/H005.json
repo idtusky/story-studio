@@ -1,0 +1,51 @@
+{
+  "id": "H005",
+  "video_id": "14998025809850276270",
+  "account": "故纸观山河",
+  "platform": "channels",
+  "original_path": "corpus/raw/H005.md",
+  "original_sha256": "c1cac341e49e53c7bf5f6b749c1d7c36dfad30a52f3c03efb3dada46d0b4e18a",
+  "source_url": null,
+  "published_at": null,
+  "collected_updated_at": null,
+  "original_caption": "关羽傲、张飞暴、周瑜急、诸葛亮累死…… 三国这帮人，个个是人中龙凤，偏偏没几个熬到头。\n\n司马懿不显山不露水，把一个 \"等\" 字琢磨透了，落了个善终，还给子孙留了一份基业。\n\n这年头谁都急着要结果，可好多好东西，是熬出来的。\n\n你觉得司马懿是真英雄，还是真老狐狸？评论区聊聊👇\n#司马懿#三国#历史人物#人生智慧#成年人的生存法则",
+  "metrics": {
+    "likes": 392,
+    "saves": 429,
+    "comments": 22,
+    "shares": 189
+  },
+  "body_chars_with_punctuation": 1342,
+  "raw_path": "corpus/raw/H005.md",
+  "clean_path": "corpus/clean/H005.txt",
+  "split": "validation",
+  "cleaning_status": "仅保守转写清洗，未完成逐句史实核验",
+  "corrections": [],
+  "source_types": [
+    "视频音轨转写"
+  ],
+  "fact_status": "未整体核实",
+  "title": "司马懿的五种等待",
+  "era": "三国至两晋南北朝",
+  "era_tags": [
+    "东汉末",
+    "三国",
+    "曹魏"
+  ],
+  "people": [
+    "司马懿",
+    "曹操",
+    "诸葛亮",
+    "曹爽"
+  ],
+  "conflict": "耐心与道德代价",
+  "template": "T2",
+  "hook_type": "单字主题",
+  "structure": "熬字立论→等待、示弱、时机、寿命、反噬五层→承认夺权代价",
+  "ending": "处世收束和文学人物预告",
+  "cluster": "司马懿等待",
+  "source_class": "史事与演义混合",
+  "risk": "穿女装细节和狼顾须分出处；寿命不能证明耐心必胜",
+  "next_angle": "把何时该等与何时会错过时机放在一起讲",
+  "annotation_status": "全文阅读后人工结构与风险标注；不是逐句史实鉴定"
+}

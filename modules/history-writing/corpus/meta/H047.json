@@ -1,0 +1,51 @@
+{
+  "id": "H047",
+  "video_id": "14977783214652721164",
+  "account": "王老谈史局",
+  "platform": "channels",
+  "original_path": "corpus/raw/H047.md",
+  "original_sha256": "81489709541c83fcefec71c90f56471943492b527265bc8cf58ae5f050dbdfe8",
+  "source_url": null,
+  "published_at": null,
+  "collected_updated_at": null,
+  "original_caption": "吕雉替刘家挡了一辈子刀，死后满朝文武却松了一口气。她不是天生狠毒，是被命运逼成了让人害怕的活阎王。 #吕雉 #历史文化 #历史 #人生感悟 #王立群讲史记 #人性",
+  "metrics": {
+    "likes": 8004,
+    "saves": 6490,
+    "comments": 338,
+    "shares": 2563
+  },
+  "body_chars_with_punctuation": 2463,
+  "raw_path": "corpus/raw/H047.md",
+  "clean_path": "corpus/clean/H047.txt",
+  "split": "discovery",
+  "cleaning_status": "仅保守转写清洗，未完成逐句史实核验",
+  "corrections": [],
+  "source_types": [
+    "视频音轨转写"
+  ],
+  "fact_status": "未整体核实",
+  "title": "吕雉为何不敢放手",
+  "era": "秦汉",
+  "era_tags": [
+    "楚汉",
+    "西汉"
+  ],
+  "people": [
+    "吕雉",
+    "刘邦",
+    "刘盈",
+    "陈平",
+    "周勃"
+  ],
+  "conflict": "控制与安全感",
+  "template": "T2",
+  "hook_type": "身后反应",
+  "structure": "死后无人心疼→早年困境→夺嫡→吕氏依赖→身后清算→怕与爱→家庭投射",
+  "ending": "晚年家庭提问",
+  "cluster": "吕雉控制",
+  "source_class": "史事混合心理解读",
+  "risk": "无人悲伤无证据；左袒与人名误写；不能用受苦自动正当化伤害或制造家庭猜忌",
+  "next_angle": "区分维持服从与建立可延续的关系",
+  "annotation_status": "全文阅读后人工结构与风险标注；不是逐句史实鉴定"
+}

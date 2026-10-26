@@ -1,0 +1,54 @@
+{
+  "id": "H006",
+  "video_id": "15002223218022161308",
+  "account": "故纸观山河",
+  "platform": "channels",
+  "original_path": "corpus/raw/H006.md",
+  "original_sha256": "b48fb950863d447916f142c4ac9e978666c688eeea33534d39bc94d1eb73ca1e",
+  "source_url": null,
+  "published_at": null,
+  "collected_updated_at": null,
+  "original_caption": "中国历史十大谋士，诸葛亮竟然只能排第六？😲\n\n李斯、郭嘉、范蠡、张良……这几位响当当的人物，也仅仅占了第十到第六的位置。那前五位得是什么逆天级别的人物？\n\n尤其是榜首，一辈子没下过山，没做过一天官，却把战国二百年搅了个天翻地覆！\n\n你觉得谁才是真正的千古第一谋士？是算无遗策的鬼才，还是功成身退的商圣？欢迎在评论区“摆开阵势”聊聊你的见解！\n#历史人物 #诸葛亮 #三国 #谋士 #中国历史 #鬼谷子 #历史冷知识",
+  "metrics": {
+    "likes": 30002,
+    "saves": 26902,
+    "comments": 1054,
+    "shares": 8749
+  },
+  "body_chars_with_punctuation": 1522,
+  "raw_path": "corpus/raw/H006.md",
+  "clean_path": "corpus/clean/H006.txt",
+  "split": "discovery",
+  "cleaning_status": "仅保守转写清洗，未完成逐句史实核验",
+  "corrections": [],
+  "source_types": [
+    "视频音轨转写"
+  ],
+  "fact_status": "未整体核实",
+  "title": "十大谋士后五名与第六名悬念",
+  "era": "跨朝代",
+  "era_tags": [
+    "秦",
+    "西汉",
+    "东汉末",
+    "三国",
+    "春秋"
+  ],
+  "people": [
+    "李斯",
+    "郭嘉",
+    "范蠡",
+    "张良",
+    "诸葛亮"
+  ],
+  "conflict": "功业与人生结局",
+  "template": "T3",
+  "hook_type": "名次争议",
+  "structure": "熟悉人物第六名→每人一件功业一处遗憾→诸葛亮逆势→前五名预告",
+  "ending": "榜首悬念",
+  "cluster": "谋士榜单",
+  "source_class": "史事与传说混合",
+  "risk": "郭嘉遗计、六出祁山等文学成分；榜单比较标准漂移；羽扇落地无据",
+  "next_angle": "取消名次，比较功成之后的不同退路",
+  "annotation_status": "全文阅读后人工结构与风险标注；不是逐句史实鉴定"
+}

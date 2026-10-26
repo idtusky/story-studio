@@ -1,0 +1,47 @@
+{
+  "id": "H026",
+  "video_id": "14978552492133259800",
+  "account": "王老翻史书",
+  "platform": "channels",
+  "original_path": "corpus/raw/H026.md",
+  "original_sha256": "9573f2e8d73c4c3a95dfd15b7336745f9f09c234d48fdb22032d8e36b91bc46a",
+  "source_url": null,
+  "published_at": null,
+  "collected_updated_at": null,
+  "original_caption": "故宫为什么没有厕所？七十二万平方米，一万多人住了五百年，不臭不涝，连暴雨都淹不住。老祖宗真正厉害的地方，不只在大殿和红墙黄瓦，而是把最不起眼的排水、气味和规矩，都做成了门道。#故宫 #紫禁城 #千龙吐水 #故宫排水 #中国文化常识 #历史冷知识 #传统文化 #历史故事",
+  "metrics": {
+    "likes": 368,
+    "saves": 607,
+    "comments": 24,
+    "shares": 1585
+  },
+  "body_chars_with_punctuation": 3709,
+  "raw_path": "corpus/raw/H026.md",
+  "clean_path": "corpus/clean/H026.txt",
+  "split": "validation",
+  "cleaning_status": "仅保守转写清洗，未完成逐句史实核验",
+  "corrections": [],
+  "source_types": [
+    "视频音轨转写"
+  ],
+  "fact_status": "未整体核实",
+  "title": "故宫日常设施里的工程与秩序",
+  "era": "明清",
+  "era_tags": [
+    "明",
+    "清"
+  ],
+  "people": [
+    "故宫"
+  ],
+  "conflict": "宏伟外观与隐蔽功能",
+  "template": "T5",
+  "hook_type": "日常问题",
+  "structure": "厕所悬念→便器→排水坡孔河→门钉→金砖地基→配色→房间传说→亲子问答",
+  "ending": "知识荐书",
+  "cluster": "故宫日常",
+  "source_class": "知识解说混合传闻",
+  "risk": "没有地下管道与后文暗沟冲突；香水起源、门钉死刑、房间半间寓意均待核",
+  "next_angle": "只选排水一个问题，区分污物清运与雨水系统",
+  "annotation_status": "全文阅读后人工结构与风险标注；不是逐句史实鉴定"
+}

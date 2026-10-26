@@ -1,0 +1,47 @@
+{
+  "id": "H034",
+  "video_id": "14987565889428134388",
+  "account": "王老翻史书",
+  "platform": "channels",
+  "original_path": "corpus/raw/H034.md",
+  "original_sha256": "cf278a9969f4671bb7224c520d5be8a4d12b4d54e614b191625f7d30d7023dbb",
+  "source_url": null,
+  "published_at": null,
+  "collected_updated_at": null,
+  "original_caption": "雍正登基不到三年，就杀了自己最倚重的大将军年羹尧，这事儿如果只看后来列出来的九十二条大罪，你会觉得年羹尧不冤，可您要是把时间往前倒两年，再看雍正写给他的那句朱批，心里就会发凉。 #历史故事 #年羹尧 #雍正 #清朝历史 #功高震主 #历史人物 #人性 #权力 #中老年感悟 #读史明智",
+  "metrics": {
+    "likes": 1118,
+    "saves": 1297,
+    "comments": 65,
+    "shares": 1302
+  },
+  "body_chars_with_punctuation": 1993,
+  "raw_path": "corpus/raw/H034.md",
+  "clean_path": "corpus/clean/H034.txt",
+  "split": "discovery",
+  "cleaning_status": "仅保守转写清洗，未完成逐句史实核验",
+  "corrections": [],
+  "source_types": [
+    "视频音轨转写"
+  ],
+  "fact_status": "未整体核实",
+  "title": "年羹尧从恩宠到赐死",
+  "era": "明清",
+  "era_tags": [
+    "清"
+  ],
+  "people": [
+    "年羹尧",
+    "雍正"
+  ],
+  "conflict": "恩宠与位置变化",
+  "template": "T1",
+  "hook_type": "前后话语反差",
+  "structure": "疼惜朱批→战功受宠→骄纵→贺表→削权→赐死→高处守界",
+  "ending": "处世提醒",
+  "cluster": "年羹尧失势",
+  "source_class": "史事混合场景演绎",
+  "risk": "雍正四年赐死与开头三年冲突；地点和礼仪待核；贺表不能作为唯一原因",
+  "next_angle": "时间轴上并列皇帝的需要与将军权限",
+  "annotation_status": "全文阅读后人工结构与风险标注；不是逐句史实鉴定"
+}

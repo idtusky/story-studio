@@ -1,0 +1,48 @@
+{
+  "id": "H051",
+  "video_id": "14978388898292434993",
+  "account": "王老谈史局",
+  "platform": "channels",
+  "original_path": "corpus/raw/H051.md",
+  "original_sha256": "f40f95fc2a77a9396315e9d7ce010b9cacbd1ec800d2cc172ca6d5b3bffafc91",
+  "source_url": null,
+  "published_at": null,
+  "collected_updated_at": null,
+  "original_caption": "孙膑被同窗庞涓剜掉膝盖骨，扔进猪圈装疯吃猪粪，忍辱三年终在马陵道万箭齐发逼死仇敌，逆天改命。 #孙膑 #历史文化 #历史 #王立群讲史 #历史人物 #人生感悟",
+  "metrics": {
+    "likes": 1548,
+    "saves": 2193,
+    "comments": 124,
+    "shares": 1013
+  },
+  "body_chars_with_punctuation": 2297,
+  "raw_path": "corpus/raw/H051.md",
+  "clean_path": "corpus/clean/H051.txt",
+  "split": "discovery",
+  "cleaning_status": "仅保守转写清洗，未完成逐句史实核验",
+  "corrections": [],
+  "source_types": [
+    "视频音轨转写"
+  ],
+  "fact_status": "未整体核实",
+  "title": "孙膑受刑后怎样重新被采用",
+  "era": "先秦",
+  "era_tags": [
+    "战国"
+  ],
+  "people": [
+    "孙膑",
+    "庞涓",
+    "田忌"
+  ],
+  "conflict": "屈辱与保存能力",
+  "template": "T1",
+  "hook_type": "身体创伤",
+  "structure": "受刑→传说装疯→逃齐→赛马→马陵→兵书→对眼前难事投射",
+  "ending": "卖书",
+  "cluster": "孙膑庞涓",
+  "source_class": "史事与传说混合",
+  "risk": "已标传说之处保留限定；桂陵马陵合并减灶不准确；受苦不是成功必要条件",
+  "next_angle": "把受难叙述缩短，增加求见齐使与被采用的过程",
+  "annotation_status": "全文阅读后人工结构与风险标注；不是逐句史实鉴定"
+}

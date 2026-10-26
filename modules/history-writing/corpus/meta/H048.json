@@ -1,0 +1,50 @@
+{
+  "id": "H048",
+  "video_id": "14982904453430446115",
+  "account": "王老谈史局",
+  "platform": "channels",
+  "original_path": "corpus/raw/H048.md",
+  "original_sha256": "4869608bd47ca564bd06aad0a36a4130c5367e026a40c690639758744f864308",
+  "source_url": null,
+  "published_at": null,
+  "collected_updated_at": null,
+  "original_caption": "明朝灭亡时百万朱姓子孙几乎被杀绝，李自成张献忠不约而同下令：姓朱的杀无赦。老百姓饿得吃观音土活活胀死，王爷却在王府里山珍海味。这仇记了两百多年，最后一把全还了。 #历史文化 #历史故事 #人性 #王立群讲史 #历史人物 #历史 #人生感悟 #明朝历史",
+  "metrics": {
+    "likes": 386,
+    "saves": 415,
+    "comments": 35,
+    "shares": 219
+  },
+  "body_chars_with_punctuation": 1741,
+  "raw_path": "corpus/raw/H048.md",
+  "clean_path": "corpus/clean/H048.txt",
+  "split": "discovery",
+  "cleaning_status": "仅保守转写清洗，未完成逐句史实核验",
+  "corrections": [],
+  "source_types": [
+    "视频音轨转写"
+  ],
+  "fact_status": "未整体核实",
+  "title": "明末宗室与财政负担",
+  "era": "明清",
+  "era_tags": [
+    "明",
+    "明末"
+  ],
+  "people": [
+    "朱氏宗室",
+    "崇祯",
+    "李自成",
+    "张献忠"
+  ],
+  "conflict": "供养特权与民生",
+  "template": "T2",
+  "hook_type": "灭族断言",
+  "structure": "皇族覆灭→饥民与王府对照→宗禄数字→起义→民心归因",
+  "ending": "卖书",
+  "cluster": "王朝覆亡",
+  "source_class": "史事混合道德裁决",
+  "risk": "百万皇族被杀绝无充分证据；粮额数字待核；不可把无差别屠杀说成公正报应",
+  "next_angle": "按地方核对宗禄、灾荒与欠饷的具体关系",
+  "annotation_status": "全文阅读后人工结构与风险标注；不是逐句史实鉴定"
+}

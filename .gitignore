@@ -1,0 +1,35 @@
+# Local credentials
+.env
+.env.*
+!.env.example
+credentials.json
+credentials.*.json
+*.pem
+*.key
+*.p12
+*.pfx
+auth.json
+doubao-key.*
+*.dpapi
+*.secret
+
+# Local runtime and generated projects
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.local/
+.private/
+*.local.json
+*.local.yaml
+*.log
+*.bak
+*.sqlite
+*.sqlite3
+*.zip
+*.7z
+outputs/
+transcription/
+edit/
+.DS_Store
+Thumbs.db

@@ -1,0 +1,51 @@
+{
+  "id": "H014",
+  "video_id": "14985505249322670588",
+  "account": "王老师读史观心",
+  "platform": "channels",
+  "original_path": "corpus/raw/H014.md",
+  "original_sha256": "88456868b92328a31a9b7433f17664fc24553dd7125867035adb78744a3b2a0a",
+  "source_url": null,
+  "published_at": null,
+  "collected_updated_at": null,
+  "original_caption": "你家也有一扇玄武门！父母种下的因，儿女迟早会还。看懂大唐这段历史，才懂规矩和家风有多要命！#历史故事 #玄武门之变#因果报应 #为人处世#家庭教育 #家风传承",
+  "metrics": {
+    "likes": 448,
+    "saves": 564,
+    "comments": 67,
+    "shares": 325
+  },
+  "body_chars_with_punctuation": 2097,
+  "raw_path": "corpus/raw/H014.md",
+  "clean_path": "corpus/clean/H014.txt",
+  "split": "validation",
+  "cleaning_status": "仅保守转写清洗，未完成逐句史实核验",
+  "corrections": [],
+  "source_types": [
+    "视频音轨转写"
+  ],
+  "fact_status": "未整体核实",
+  "title": "玄武门与唐朝继承冲突",
+  "era": "隋唐武周",
+  "era_tags": [
+    "唐",
+    "武周"
+  ],
+  "people": [
+    "李世民",
+    "李渊",
+    "武则天",
+    "李隆基",
+    "李亨"
+  ],
+  "conflict": "破坏规则与后续模仿",
+  "template": "T2",
+  "hook_type": "暴烈场景",
+  "structure": "玄武门→武周→唐隆先天政变→灵武即位→家庭示范类比",
+  "ending": "因果互动",
+  "cluster": "唐朝继承",
+  "source_class": "史事混合强因果解读",
+  "risk": "提刀逼父对白无据；多个政变时序待核；不能把唐代全部动乱归因于一事",
+  "next_angle": "比较不同继承危机中的兵权归属",
+  "annotation_status": "全文阅读后人工结构与风险标注；不是逐句史实鉴定"
+}

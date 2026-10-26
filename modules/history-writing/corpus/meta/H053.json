@@ -1,0 +1,49 @@
+{
+  "id": "H053",
+  "video_id": "14983162958676101142",
+  "account": "王老谈史局",
+  "platform": "channels",
+  "original_path": "corpus/raw/H053.md",
+  "original_sha256": "b51a0051fab65e4742aa1b3ec4d3660f3ffa6c9325e5e9df54f88b36adcb6882",
+  "source_url": null,
+  "published_at": null,
+  "collected_updated_at": null,
+  "original_caption": "杨修被斩那天，刑场上没一个人替他求情。都以为他死于“鸡肋”两个字，其实他踩了三条红线，条条要命。临死前他说早就知道有这一天，可他改不了。 #曹操 #杨修 #历史文化 #王立群讲史 #历史 #历史人物 #人生感悟 #历史故事",
+  "metrics": {
+    "likes": 3465,
+    "saves": 2829,
+    "comments": 134,
+    "shares": 2915
+  },
+  "body_chars_with_punctuation": 1601,
+  "raw_path": "corpus/raw/H053.md",
+  "clean_path": "corpus/clean/H053.txt",
+  "split": "discovery",
+  "cleaning_status": "仅保守转写清洗，未完成逐句史实核验",
+  "corrections": [],
+  "source_types": [
+    "视频音轨转写"
+  ],
+  "fact_status": "未整体核实",
+  "title": "杨修之死的三条解释",
+  "era": "三国至两晋南北朝",
+  "era_tags": [
+    "东汉末"
+  ],
+  "people": [
+    "杨修",
+    "曹操",
+    "曹植",
+    "杨彪"
+  ],
+  "conflict": "才智与政治参与",
+  "template": "T2",
+  "hook_type": "刑场追问",
+  "structure": "聪明故事→夺嫡、司马门、母族三层→鸡肋→父亲之痛→三提醒",
+  "ending": "关注",
+  "cluster": "杨修之死",
+  "source_class": "史传与演义混合",
+  "risk": "四世太尉人员与现代职级不等同；三条红线为作者归纳；老牛舐犊故事需分史源",
+  "next_angle": "比较才智故事与史传政治记载的解释差异",
+  "annotation_status": "全文阅读后人工结构与风险标注；不是逐句史实鉴定"
+}

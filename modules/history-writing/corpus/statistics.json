@@ -1,0 +1,1266 @@
+{
+  "method": "clean body; Unicode letters/numbers; sentence delimiters 。！？!?; Jieba POS >=2 characters; not fact-checked",
+  "all": {
+    "documents": 57,
+    "chars_including_punctuation": 114571,
+    "count_excluding_punctuation": 102299,
+    "sentence_count": 4067,
+    "sentence_mean": 25.15,
+    "sentence_median": 23,
+    "short_sentence_le15_pct": 26.78,
+    "long_sentence_ge50_pct": 6.71,
+    "clause_mean": 8.51,
+    "paragraphs": 57,
+    "sentences_per_paragraph": 71.35,
+    "punctuation": {
+      "，": 7854,
+      "。": 3279,
+      "？": 648,
+      "、": 222,
+      ",": 96,
+      "！": 140,
+      ":": 1,
+      "/": 6,
+      "%": 2
+    }
+  },
+  "discovery": {
+    "documents": 45,
+    "chars_including_punctuation": 89698,
+    "count_excluding_punctuation": 80053,
+    "sentence_count": 3192,
+    "sentence_mean": 25.08,
+    "sentence_median": 23.0,
+    "short_sentence_le15_pct": 27.51,
+    "long_sentence_ge50_pct": 6.83,
+    "clause_mean": 8.47,
+    "paragraphs": 45,
+    "sentences_per_paragraph": 70.93,
+    "punctuation": {
+      "，": 6182,
+      "。": 2564,
+      "？": 522,
+      "、": 164,
+      ",": 79,
+      "！": 106,
+      "/": 5,
+      "%": 1
+    }
+  },
+  "by_account": {
+    "故纸观山河": {
+      "documents": 8,
+      "chars_including_punctuation": 12115,
+      "count_excluding_punctuation": 10690,
+      "sentence_count": 488,
+      "sentence_mean": 21.91,
+      "sentence_median": 20.0,
+      "short_sentence_le15_pct": 31.35,
+      "long_sentence_ge50_pct": 2.46,
+      "clause_mean": 7.7,
+      "paragraphs": 8,
+      "sentences_per_paragraph": 61.0,
+      "punctuation": {
+        "，": 890,
+        "。": 405,
+        "？": 80,
+        "、": 32,
+        ",": 10,
+        "！": 3
+      }
+    },
+    "王老师读史观心": {
+      "documents": 15,
+      "chars_including_punctuation": 29894,
+      "count_excluding_punctuation": 26742,
+      "sentence_count": 1022,
+      "sentence_mean": 26.17,
+      "sentence_median": 24.0,
+      "short_sentence_le15_pct": 24.95,
+      "long_sentence_ge50_pct": 8.51,
+      "clause_mean": 8.65,
+      "paragraphs": 15,
+      "sentences_per_paragraph": 68.13,
+      "punctuation": {
+        "，": 2059,
+        "。": 831,
+        "？": 141,
+        ",": 11,
+        "、": 53,
+        "！": 50,
+        ":": 1,
+        "/": 1
+      }
+    },
+    "王老翻史书": {
+      "documents": 13,
+      "chars_including_punctuation": 31387,
+      "count_excluding_punctuation": 27851,
+      "sentence_count": 1175,
+      "sentence_mean": 23.7,
+      "sentence_median": 21,
+      "short_sentence_le15_pct": 29.02,
+      "long_sentence_ge50_pct": 4.77,
+      "clause_mean": 8.02,
+      "paragraphs": 13,
+      "sentences_per_paragraph": 90.38,
+      "punctuation": {
+        "，": 2257,
+        "。": 992,
+        "？": 177,
+        "！": 6,
+        "、": 50,
+        ",": 42,
+        "/": 2,
+        "%": 2
+      }
+    },
+    "王老谈史局": {
+      "documents": 21,
+      "chars_including_punctuation": 41175,
+      "count_excluding_punctuation": 37016,
+      "sentence_count": 1382,
+      "sentence_mean": 26.78,
+      "sentence_median": 24.0,
+      "short_sentence_le15_pct": 24.6,
+      "long_sentence_ge50_pct": 8.54,
+      "clause_mean": 9.11,
+      "paragraphs": 21,
+      "sentences_per_paragraph": 65.81,
+      "punctuation": {
+        "？": 250,
+        "，": 2648,
+        "。": 1051,
+        ",": 33,
+        "！": 81,
+        "、": 87,
+        "/": 3
+      }
+    }
+  },
+  "phrases": {
+    "您": {
+      "occurrences": 406,
+      "documents": 51
+    },
+    "咱们": {
+      "occurrences": 201,
+      "documents": 50
+    },
+    "您想想": {
+      "occurrences": 11,
+      "documents": 9
+    },
+    "您琢磨": {
+      "occurrences": 14,
+      "documents": 13
+    },
+    "为什么": {
+      "occurrences": 80,
+      "documents": 30
+    },
+    "结果呢": {
+      "occurrences": 12,
+      "documents": 11
+    },
+    "可": {
+      "occurrences": 441,
+      "documents": 57
+    },
+    "不是": {
+      "occurrences": 261,
+      "documents": 53
+    },
+    "而是": {
+      "occurrences": 50,
+      "documents": 24
+    },
+    "说白了": {
+      "occurrences": 6,
+      "documents": 6
+    },
+    "后背发凉": {
+      "occurrences": 7,
+      "documents": 7
+    },
+    "掰开": {
+      "occurrences": 5,
+      "documents": 5
+    },
+    "说到底": {
+      "occurrences": 1,
+      "documents": 1
+    },
+    "点个赞": {
+      "occurrences": 16,
+      "documents": 13
+    },
+    "关注": {
+      "occurrences": 54,
+      "documents": 43
+    },
+    "评论区": {
+      "occurrences": 43,
+      "documents": 35
+    },
+    "左下角": {
+      "occurrences": 15,
+      "documents": 10
+    },
+    "橱窗": {
+      "occurrences": 6,
+      "documents": 4
+    },
+    "史书": {
+      "occurrences": 30,
+      "documents": 22
+    },
+    "史记": {
+      "occurrences": 5,
+      "documents": 4
+    },
+    "三国志": {
+      "occurrences": 7,
+      "documents": 4
+    },
+    "汉书": {
+      "occurrences": 1,
+      "documents": 1
+    },
+    "资治通鉴": {
+      "occurrences": 9,
+      "documents": 4
+    },
+    "明史": {
+      "occurrences": 3,
+      "documents": 2
+    },
+    "隋书": {
+      "occurrences": 2,
+      "documents": 2
+    },
+    "智囊": {
+      "occurrences": 7,
+      "documents": 4
+    },
+    "历史从未走远": {
+      "occurrences": 10,
+      "documents": 7
+    }
+  },
+  "vocabulary": {
+    "noun": [
+      {
+        "word": "皇帝",
+        "count": 172,
+        "documents": 32
+      },
+      {
+        "word": "时候",
+        "count": 139,
+        "documents": 48
+      },
+      {
+        "word": "历史",
+        "count": 119,
+        "documents": 43
+      },
+      {
+        "word": "曹操",
+        "count": 113,
+        "documents": 15
+      },
+      {
+        "word": "刘邦",
+        "count": 75,
+        "documents": 12
+      },
+      {
+        "word": "中国",
+        "count": 68,
+        "documents": 25
+      },
+      {
+        "word": "孩子",
+        "count": 64,
+        "documents": 17
+      },
+      {
+        "word": "刘询",
+        "count": 62,
+        "documents": 4
+      },
+      {
+        "word": "儿子",
+        "count": 58,
+        "documents": 26
+      },
+      {
+        "word": "韩信",
+        "count": 58,
+        "documents": 5
+      },
+      {
+        "word": "诸葛亮",
+        "count": 57,
+        "documents": 8
+      },
+      {
+        "word": "老百姓",
+        "count": 55,
+        "documents": 22
+      },
+      {
+        "word": "明白",
+        "count": 53,
+        "documents": 32
+      },
+      {
+        "word": "东西",
+        "count": 50,
+        "documents": 22
+      },
+      {
+        "word": "司马懿",
+        "count": 48,
+        "documents": 5
+      },
+      {
+        "word": "年羹尧",
+        "count": 48,
+        "documents": 2
+      },
+      {
+        "word": "地方",
+        "count": 46,
+        "documents": 22
+      },
+      {
+        "word": "评论",
+        "count": 45,
+        "documents": 36
+      },
+      {
+        "word": "霍光",
+        "count": 45,
+        "documents": 4
+      },
+      {
+        "word": "哥哥",
+        "count": 45,
+        "documents": 27
+      },
+      {
+        "word": "刘贺",
+        "count": 42,
+        "documents": 2
+      },
+      {
+        "word": "姐姐",
+        "count": 41,
+        "documents": 26
+      },
+      {
+        "word": "百姓",
+        "count": 40,
+        "documents": 16
+      },
+      {
+        "word": "故事",
+        "count": 39,
+        "documents": 24
+      },
+      {
+        "word": "雍正",
+        "count": 38,
+        "documents": 3
+      },
+      {
+        "word": "朝廷",
+        "count": 36,
+        "documents": 23
+      },
+      {
+        "word": "杨修",
+        "count": 35,
+        "documents": 2
+      },
+      {
+        "word": "孙膑",
+        "count": 34,
+        "documents": 4
+      },
+      {
+        "word": "日子",
+        "count": 34,
+        "documents": 18
+      },
+      {
+        "word": "齐桓公",
+        "count": 33,
+        "documents": 3
+      },
+      {
+        "word": "皇上",
+        "count": 33,
+        "documents": 15
+      },
+      {
+        "word": "大臣",
+        "count": 33,
+        "documents": 15
+      },
+      {
+        "word": "女人",
+        "count": 33,
+        "documents": 12
+      },
+      {
+        "word": "名字",
+        "count": 32,
+        "documents": 21
+      },
+      {
+        "word": "老板",
+        "count": 31,
+        "documents": 7
+      },
+      {
+        "word": "赵高",
+        "count": 31,
+        "documents": 3
+      },
+      {
+        "word": "康熙",
+        "count": 30,
+        "documents": 3
+      },
+      {
+        "word": "江山",
+        "count": 29,
+        "documents": 21
+      },
+      {
+        "word": "人家",
+        "count": 29,
+        "documents": 19
+      },
+      {
+        "word": "龙椅",
+        "count": 29,
+        "documents": 11
+      },
+      {
+        "word": "结果",
+        "count": 29,
+        "documents": 22
+      },
+      {
+        "word": "项羽",
+        "count": 29,
+        "documents": 7
+      },
+      {
+        "word": "庞涓",
+        "count": 28,
+        "documents": 3
+      },
+      {
+        "word": "司马",
+        "count": 28,
+        "documents": 6
+      },
+      {
+        "word": "赵云",
+        "count": 28,
+        "documents": 1
+      },
+      {
+        "word": "朱元璋",
+        "count": 27,
+        "documents": 7
+      },
+      {
+        "word": "史书",
+        "count": 27,
+        "documents": 20
+      },
+      {
+        "word": "武则天",
+        "count": 27,
+        "documents": 3
+      },
+      {
+        "word": "杨广",
+        "count": 27,
+        "documents": 2
+      },
+      {
+        "word": "霍家",
+        "count": 26,
+        "documents": 4
+      },
+      {
+        "word": "李斯",
+        "count": 26,
+        "documents": 5
+      },
+      {
+        "word": "大家",
+        "count": 26,
+        "documents": 16
+      },
+      {
+        "word": "狄仁杰",
+        "count": 26,
+        "documents": 2
+      },
+      {
+        "word": "文武",
+        "count": 25,
+        "documents": 20
+      },
+      {
+        "word": "太子",
+        "count": 25,
+        "documents": 8
+      },
+      {
+        "word": "问题",
+        "count": 25,
+        "documents": 14
+      },
+      {
+        "word": "汉武帝",
+        "count": 24,
+        "documents": 4
+      },
+      {
+        "word": "王老师",
+        "count": 24,
+        "documents": 11
+      },
+      {
+        "word": "索额图",
+        "count": 24,
+        "documents": 1
+      },
+      {
+        "word": "曹丕",
+        "count": 23,
+        "documents": 5
+      },
+      {
+        "word": "故宫",
+        "count": 23,
+        "documents": 4
+      },
+      {
+        "word": "朋友",
+        "count": 22,
+        "documents": 15
+      },
+      {
+        "word": "大将军",
+        "count": 22,
+        "documents": 11
+      },
+      {
+        "word": "智慧",
+        "count": 22,
+        "documents": 15
+      },
+      {
+        "word": "李世民",
+        "count": 22,
+        "documents": 5
+      },
+      {
+        "word": "管仲",
+        "count": 21,
+        "documents": 3
+      },
+      {
+        "word": "老头",
+        "count": 21,
+        "documents": 12
+      },
+      {
+        "word": "登基",
+        "count": 21,
+        "documents": 18
+      },
+      {
+        "word": "千古",
+        "count": 21,
+        "documents": 16
+      },
+      {
+        "word": "规矩",
+        "count": 21,
+        "documents": 12
+      },
+      {
+        "word": "萧何",
+        "count": 21,
+        "documents": 4
+      },
+      {
+        "word": "朱棣",
+        "count": 21,
+        "documents": 1
+      },
+      {
+        "word": "丞相",
+        "count": 20,
+        "documents": 10
+      },
+      {
+        "word": "外头",
+        "count": 20,
+        "documents": 15
+      },
+      {
+        "word": "意思",
+        "count": 20,
+        "documents": 18
+      },
+      {
+        "word": "新疆",
+        "count": 20,
+        "documents": 3
+      },
+      {
+        "word": "红心",
+        "count": 19,
+        "documents": 19
+      },
+      {
+        "word": "三国",
+        "count": 19,
+        "documents": 10
+      },
+      {
+        "word": "刘备",
+        "count": 19,
+        "documents": 5
+      },
+      {
+        "word": "兵权",
+        "count": 19,
+        "documents": 9
+      },
+      {
+        "word": "大汉",
+        "count": 19,
+        "documents": 11
+      },
+      {
+        "word": "所有人",
+        "count": 19,
+        "documents": 13
+      },
+      {
+        "word": "大明",
+        "count": 19,
+        "documents": 9
+      },
+      {
+        "word": "人性",
+        "count": 19,
+        "documents": 11
+      },
+      {
+        "word": "太监",
+        "count": 19,
+        "documents": 7
+      },
+      {
+        "word": "长城",
+        "count": 19,
+        "documents": 5
+      },
+      {
+        "word": "左宗棠",
+        "count": 19,
+        "documents": 2
+      },
+      {
+        "word": "齐国",
+        "count": 18,
+        "documents": 8
+      },
+      {
+        "word": "功劳",
+        "count": 18,
+        "documents": 11
+      },
+      {
+        "word": "古人",
+        "count": 18,
+        "documents": 10
+      },
+      {
+        "word": "后人",
+        "count": 18,
+        "documents": 14
+      },
+      {
+        "word": "个人",
+        "count": 18,
+        "documents": 15
+      },
+      {
+        "word": "王朝",
+        "count": 18,
+        "documents": 10
+      },
+      {
+        "word": "长安",
+        "count": 18,
+        "documents": 7
+      },
+      {
+        "word": "帝王",
+        "count": 18,
+        "documents": 9
+      },
+      {
+        "word": "咸阳",
+        "count": 18,
+        "documents": 4
+      },
+      {
+        "word": "权力",
+        "count": 18,
+        "documents": 13
+      },
+      {
+        "word": "天子",
+        "count": 17,
+        "documents": 10
+      },
+      {
+        "word": "将军",
+        "count": 17,
+        "documents": 7
+      },
+      {
+        "word": "大军",
+        "count": 17,
+        "documents": 11
+      }
+    ],
+    "verb": [
+      {
+        "word": "没有",
+        "count": 158,
+        "documents": 45
+      },
+      {
+        "word": "知道",
+        "count": 103,
+        "documents": 42
+      },
+      {
+        "word": "觉得",
+        "count": 87,
+        "documents": 44
+      },
+      {
+        "word": "出来",
+        "count": 72,
+        "documents": 39
+      },
+      {
+        "word": "关注",
+        "count": 54,
+        "documents": 43
+      },
+      {
+        "word": "不能",
+        "count": 50,
+        "documents": 26
+      },
+      {
+        "word": "琢磨",
+        "count": 48,
+        "documents": 23
+      },
+      {
+        "word": "还有",
+        "count": 44,
+        "documents": 25
+      },
+      {
+        "word": "看看",
+        "count": 41,
+        "documents": 28
+      },
+      {
+        "word": "可能",
+        "count": 40,
+        "documents": 20
+      },
+      {
+        "word": "留下",
+        "count": 37,
+        "documents": 27
+      },
+      {
+        "word": "看着",
+        "count": 37,
+        "documents": 22
+      },
+      {
+        "word": "起来",
+        "count": 36,
+        "documents": 28
+      },
+      {
+        "word": "回来",
+        "count": 30,
+        "documents": 20
+      },
+      {
+        "word": "死死",
+        "count": 30,
+        "documents": 18
+      },
+      {
+        "word": "只能",
+        "count": 26,
+        "documents": 22
+      },
+      {
+        "word": "开始",
+        "count": 25,
+        "documents": 20
+      },
+      {
+        "word": "整整",
+        "count": 24,
+        "documents": 19
+      },
+      {
+        "word": "想想",
+        "count": 24,
+        "documents": 17
+      },
+      {
+        "word": "看透",
+        "count": 23,
+        "documents": 13
+      },
+      {
+        "word": "不到",
+        "count": 22,
+        "documents": 16
+      },
+      {
+        "word": "位置",
+        "count": 22,
+        "documents": 13
+      },
+      {
+        "word": "回头",
+        "count": 21,
+        "documents": 19
+      },
+      {
+        "word": "变成",
+        "count": 21,
+        "documents": 17
+      },
+      {
+        "word": "活着",
+        "count": 20,
+        "documents": 14
+      },
+      {
+        "word": "跟着",
+        "count": 20,
+        "documents": 16
+      },
+      {
+        "word": "不用",
+        "count": 19,
+        "documents": 14
+      },
+      {
+        "word": "看见",
+        "count": 18,
+        "documents": 14
+      },
+      {
+        "word": "坐在",
+        "count": 18,
+        "documents": 15
+      },
+      {
+        "word": "没了",
+        "count": 16,
+        "documents": 11
+      },
+      {
+        "word": "活活",
+        "count": 16,
+        "documents": 13
+      },
+      {
+        "word": "需要",
+        "count": 15,
+        "documents": 9
+      },
+      {
+        "word": "委屈",
+        "count": 15,
+        "documents": 10
+      },
+      {
+        "word": "要命",
+        "count": 15,
+        "documents": 10
+      },
+      {
+        "word": "出去",
+        "count": 14,
+        "documents": 10
+      },
+      {
+        "word": "不得",
+        "count": 14,
+        "documents": 9
+      },
+      {
+        "word": "看到",
+        "count": 14,
+        "documents": 13
+      },
+      {
+        "word": "下回",
+        "count": 13,
+        "documents": 13
+      },
+      {
+        "word": "乱世",
+        "count": 13,
+        "documents": 8
+      },
+      {
+        "word": "才能",
+        "count": 13,
+        "documents": 11
+      },
+      {
+        "word": "发凉",
+        "count": 13,
+        "documents": 11
+      },
+      {
+        "word": "不会",
+        "count": 13,
+        "documents": 12
+      },
+      {
+        "word": "打仗",
+        "count": 13,
+        "documents": 7
+      },
+      {
+        "word": "实在",
+        "count": 12,
+        "documents": 9
+      },
+      {
+        "word": "发现",
+        "count": 12,
+        "documents": 12
+      },
+      {
+        "word": "换来",
+        "count": 12,
+        "documents": 12
+      },
+      {
+        "word": "当成",
+        "count": 12,
+        "documents": 7
+      },
+      {
+        "word": "做到",
+        "count": 12,
+        "documents": 8
+      },
+      {
+        "word": "看法",
+        "count": 12,
+        "documents": 12
+      },
+      {
+        "word": "放在",
+        "count": 12,
+        "documents": 9
+      }
+    ],
+    "adverb": [
+      {
+        "word": "就是",
+        "count": 208,
+        "documents": 55
+      },
+      {
+        "word": "真正",
+        "count": 70,
+        "documents": 39
+      },
+      {
+        "word": "到底",
+        "count": 55,
+        "documents": 37
+      },
+      {
+        "word": "已经",
+        "count": 47,
+        "documents": 29
+      },
+      {
+        "word": "不敢",
+        "count": 40,
+        "documents": 22
+      },
+      {
+        "word": "早就",
+        "count": 34,
+        "documents": 21
+      },
+      {
+        "word": "顺手",
+        "count": 31,
+        "documents": 24
+      },
+      {
+        "word": "其实",
+        "count": 25,
+        "documents": 18
+      },
+      {
+        "word": "硬是",
+        "count": 24,
+        "documents": 18
+      },
+      {
+        "word": "偏偏",
+        "count": 23,
+        "documents": 17
+      },
+      {
+        "word": "从来不",
+        "count": 23,
+        "documents": 19
+      },
+      {
+        "word": "永远",
+        "count": 22,
+        "documents": 17
+      },
+      {
+        "word": "一旦",
+        "count": 21,
+        "documents": 16
+      },
+      {
+        "word": "亲手",
+        "count": 20,
+        "documents": 15
+      },
+      {
+        "word": "竟然",
+        "count": 20,
+        "documents": 16
+      },
+      {
+        "word": "绝对",
+        "count": 20,
+        "documents": 15
+      },
+      {
+        "word": "甚至",
+        "count": 20,
+        "documents": 15
+      },
+      {
+        "word": "慢慢",
+        "count": 19,
+        "documents": 14
+      },
+      {
+        "word": "真的",
+        "count": 16,
+        "documents": 10
+      },
+      {
+        "word": "连夜",
+        "count": 16,
+        "documents": 13
+      },
+      {
+        "word": "未必",
+        "count": 15,
+        "documents": 8
+      },
+      {
+        "word": "唯独",
+        "count": 15,
+        "documents": 12
+      },
+      {
+        "word": "极其",
+        "count": 15,
+        "documents": 9
+      },
+      {
+        "word": "亲自",
+        "count": 14,
+        "documents": 12
+      },
+      {
+        "word": "一直",
+        "count": 13,
+        "documents": 11
+      },
+      {
+        "word": "从来",
+        "count": 13,
+        "documents": 12
+      },
+      {
+        "word": "曾经",
+        "count": 13,
+        "documents": 11
+      },
+      {
+        "word": "一边",
+        "count": 12,
+        "documents": 6
+      },
+      {
+        "word": "再也",
+        "count": 12,
+        "documents": 8
+      },
+      {
+        "word": "大将",
+        "count": 11,
+        "documents": 8
+      },
+      {
+        "word": "照样",
+        "count": 11,
+        "documents": 7
+      },
+      {
+        "word": "真相",
+        "count": 11,
+        "documents": 9
+      },
+      {
+        "word": "不少",
+        "count": 11,
+        "documents": 10
+      },
+      {
+        "word": "更是",
+        "count": 11,
+        "documents": 9
+      },
+      {
+        "word": "从未",
+        "count": 11,
+        "documents": 8
+      },
+      {
+        "word": "必须",
+        "count": 11,
+        "documents": 9
+      },
+      {
+        "word": "绝不",
+        "count": 11,
+        "documents": 10
+      },
+      {
+        "word": "立刻",
+        "count": 11,
+        "documents": 7
+      },
+      {
+        "word": "终于",
+        "count": 10,
+        "documents": 8
+      },
+      {
+        "word": "就要",
+        "count": 10,
+        "documents": 10
+      },
+      {
+        "word": "越来越",
+        "count": 10,
+        "documents": 7
+      },
+      {
+        "word": "一定",
+        "count": 10,
+        "documents": 8
+      },
+      {
+        "word": "居然",
+        "count": 9,
+        "documents": 6
+      },
+      {
+        "word": "当然",
+        "count": 9,
+        "documents": 7
+      },
+      {
+        "word": "简直",
+        "count": 9,
+        "documents": 7
+      },
+      {
+        "word": "几乎",
+        "count": 9,
+        "documents": 8
+      },
+      {
+        "word": "一时",
+        "count": 8,
+        "documents": 5
+      },
+      {
+        "word": "大概",
+        "count": 8,
+        "documents": 7
+      },
+      {
+        "word": "从小",
+        "count": 8,
+        "documents": 4
+      },
+      {
+        "word": "特别",
+        "count": 8,
+        "documents": 7
+      }
+    ]
+  },
+  "similarity_candidates": [
+    {
+      "a": "H049",
+      "b": "H050",
+      "char5gram_jaccard": 0.0768
+    }
+  ]
+}

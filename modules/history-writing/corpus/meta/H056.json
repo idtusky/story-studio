@@ -1,0 +1,54 @@
+{
+  "id": "H056",
+  "video_id": "14988658988504844294",
+  "account": "王老谈史局",
+  "platform": "channels",
+  "original_path": "corpus/raw/H056.md",
+  "original_sha256": "1c84b37b32b1d022a481331601ea2699ae092066f1a7356fd7d092b2b93d9a42",
+  "source_url": null,
+  "published_at": null,
+  "collected_updated_at": null,
+  "original_caption": "有的被逼绝食，有的被凌迟处死，有的除夕夜被害，年仅39岁。他们没死在敌人刀下，全倒在自己人手里。前五名里，谁最让你意难平？ #历史 #历史文化 #历史故事 #岳飞 #王老师讲历史 #英雄",
+  "metrics": {
+    "likes": 246,
+    "saves": 378,
+    "comments": 39,
+    "shares": 222
+  },
+  "body_chars_with_punctuation": 1610,
+  "raw_path": "corpus/raw/H056.md",
+  "clean_path": "corpus/clean/H056.txt",
+  "split": "validation",
+  "cleaning_status": "仅保守转写清洗，未完成逐句史实核验",
+  "corrections": [],
+  "source_types": [
+    "视频音轨转写"
+  ],
+  "fact_status": "未整体核实",
+  "title": "悲剧名将榜前五名",
+  "era": "跨朝代",
+  "era_tags": [
+    "春秋",
+    "三国",
+    "西汉",
+    "明",
+    "南宋"
+  ],
+  "people": [
+    "伍子胥",
+    "邓艾",
+    "周亚夫",
+    "袁崇焕",
+    "岳飞"
+  ],
+  "conflict": "功业与非战场结局",
+  "template": "T3",
+  "hook_type": "续集榜首悬念",
+  "structure": "观众猜测→五人一事一惨点→岳飞兑现→现实受委屈→荐书",
+  "ending": "荐书与意难平互动",
+  "cluster": "悲剧名将榜",
+  "source_class": "史事混合传说",
+  "risk": "岳飞时日地点刺字和袁崇焕死因需核；原版资治通鉴不覆盖南宋明朝却借书背书",
+  "next_angle": "拆为独立人物故事，每篇限定一项史料争议",
+  "annotation_status": "全文阅读后人工结构与风险标注；不是逐句史实鉴定"
+}
