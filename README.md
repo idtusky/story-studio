@@ -34,7 +34,7 @@
 ```mermaid
 flowchart LR
     A[💡 选题与黄金钩子] --> B[✍️ 口播文案定稿]
-    B --> C[🎙️ 豆包语音大模型 / 自备配音]
+    B --> C[🎙️ TTS配音（豆包/MiMo）/ 自备配音]
     C --> D[⏱️ Coli 本地转录对齐]
     D --> E[🎨 3大画风分镜与配图]
     E --> F[🎞️ 剪映专业版草稿导出]
@@ -49,7 +49,7 @@ flowchart LR
 
 - 🧠 **内置双王牌写作 Skill + 370+ 篇爆款对标文案库**：拒绝 AI 味大纲文！内置经过深度蒸馏的「历史叙事」与「真实人物故事/女性传奇」两套完整 Writing-DNA，涵盖选题策略、黄金 3 秒开头钩子库、句式节奏与史实核查机制。
 - 🎨 **三套成熟配图画风 + 内置成品参考图库**：支持 **历史写实风**、**厚涂历史漫画风**、**黑白纪实叙事风**。内置高水准正文与封面参考图（Reference Images），生图时自动对照材质与光影，告别跨镜头画风漂移与年代穿帮。
-- 🎙️ **双路径灵活配音 + 本地高精度时间戳对齐**：推荐直接接入 **豆包语音大模型（V3 双向流式）** 一键合成高表现力旁白；也支持**将自己提前准备好的配音 MP3 放入项目文件夹让 Agent 直接读取**。配合本地 **Coli（基于 sherpa-onnx）** 离线识别生成精准到字句的 SRT 时间轴，绝不按字数瞎猜时间。
+- 🎙️ **双TTS通道灵活配音 + 本地高精度时间戳对齐**：支持接入 **火山引擎豆包语音（V3 双向流式）** 或 **小米 MiMo-V2.5-TTS（OpenAI 兼容接口）** 一键合成高表现力旁白；也支持**将自己提前准备好的配音 MP3 放入项目文件夹让 Agent 直接读取**。配合本地 **Coli（基于 sherpa-onnx）** 离线识别生成精准到字句的 SRT 时间轴，绝不按字数瞎猜时间。
 - 🎞️ **真正可二次编辑的剪映专业版草稿**：基于 `pyJianYingDraft` 直接生成剪映工程文件。自动将 9:16 竖屏图片、完整配音铺上时间轴，并**自动写入覆盖全镜的慢推拉关键帧与切点冲击缩放（Punch Zoom）**，打开剪映即可预览微调并导出成片。
 - ⚡ **零门槛自动环境初始化**：无需手动折腾 Python、Node.js、FFmpeg 或语音识别环境。首次调用时，告诉 Agent 一键配置，即可在用户独立数据目录完成便携环境搭建。
 
@@ -94,16 +94,20 @@ flowchart LR
 
 ---
 
-### 3️⃣ 配音与字幕对齐：豆包语音大模型 / 自备音频双通道
+### 3️⃣ 配音与字幕对齐：豆包 / 小米 MiMo / 自备音频三通道
 
-配音是连接「好文案」与「精准画面节奏」的核心桥梁。Story Studio 提供两条极其顺畅的配音路径：
+配音是连接「好文案」与「精准画面节奏」的核心桥梁。Story Studio 提供三条极其顺畅的配音路径：
 
-#### 路径 A：推荐配置「豆包语音大模型」，由 Agent 全自动合成
+#### 路径 A：配置「火山引擎豆包语音大模型」，由 Agent 全自动合成
 - 基于火山引擎豆包语音 **V3 双向流式 WebSocket 协议**，支持最新的 `seed-tts-2.0`（2.0通用高表现力音色）与 `seed-icl-2.0`（声音复刻2.0音色）。
 - **安全省心**：你只需在[豆包语音控制台](https://console.volcengine.com/speech/new)获取 `API Key`、`speaker ID（音色ID）` 和 `resource_id`。API Key 支持通过系统加密存储（Windows DPAPI / macOS & Linux 0600 权限文件）或环境变量保存，**绝不写入代码仓库或项目明文**。
 - **防重复扣费与完整性核验**：合成前确认音色与语速，合成后自动通过 `ffprobe/ffmpeg` 校验音频完整性，并记录文本与音频哈希，同稿同音色绝不重复发起收费请求。
 
-#### 路径 B：提前准备好配音 MP3，放入文件夹让 Agent 直接读取
+#### 路径 B：配置「小米 MiMo-V2.5-TTS」，由 Agent 全自动合成
+- 基于 **OpenAI 兼容 chat/completions 接口**（`https://api.xiaomimimo.com/v1/chat/completions`），支持 `mimo-v2.5-tts` 预置音色（mimo_default / 冰糖 / 茉莉 / 苏打 / 白桦 / Mia 等）、`-voicedesign` 文本设计音色与 `-voiceclone` 音频样本复刻。
+- 只需在 [MiMo 开放平台](https://mimo.mi.com) 获取 `MIMO_API_KEY`，通过环境变量 `MIMO_API_KEY` 或系统级安全凭据文件保存；发音风格、情绪、方言可经一句自然语言 style 指令注入，无需额外参数。
+
+#### 路径 C：提前准备好配音 MP3，放入文件夹让 Agent 直接读取
 - 如果你习惯使用剪映克隆音色、其他 TTS 软件，或者**真人自己录好音**，只需将最终的 `.mp3` 音频文件丢进项目文件夹，告诉 Agent：*“配音我已经放进文件夹了，直接用这个音频继续做分镜和剪映草稿”*。
 - Agent 会自动读取你的音频文件，跳过云端合成，直接进入下一步的本地字幕对齐。
 
@@ -202,7 +206,7 @@ Story Studio 内部通过 **写作（`write`）、配图（`illustrate`）、剪
 ```text
 使用 $story-studio，制作一期关于「张居正考成法改革」的历史短视频。
 1. 写作：采用历史叙事风，约 1800 字，先给我 3 个不同切入角度的开头钩子让我选，定稿后再继续。
-2. 配音：定稿后使用我配置好的豆包语音生成 MP3（如果还没配置请引导我）。
+2. 配音：定稿后使用我配置好的TTS语音（豆包或小米MiMo）生成 MP3（如果还没配置请引导我）。
 3. 配图：用 Coli 对齐时间轴后拆成 20 镜，采用「厚涂历史漫画风」，9:16 竖屏生成配图，并带 3:4 和 4:3 封面。
 4. 草稿：生成 1080x1920 的剪映专业版草稿，加入慢推拉运镜，默认不显示字幕。
 ```
@@ -247,6 +251,7 @@ story-studio/
 ├── scripts/                        # 跨平台环境自动初始化、豆包TTS、交接核验等核心脚本
 │   ├── bootstrap.ps1 / .sh         # Windows / macOS / Linux 零依赖启动器
 │   ├── doubao_tts.py               # 豆包语音 V3 双向 WebSocket 合成客户端
+│   ├── mimo_tts.py                 # 小米 MiMo TTS（OpenAI 兼容接口）合成客户端
 │   ├── voice_settings.py           # 音色配置与本地加密凭据管理
 │   └── check_handoff.py            # 剪映导出前的音图语义与时间轴一致性检查
 ├── references/                     # 事实核查原则、豆包配置指南、扩展赛道说明等
@@ -280,8 +285,8 @@ Story Studio 内置的启动器会在技能目录之外的**用户数据目录**
 
 ### 2. 账号安全与隐私保护边界
 - **零私人信息残留**：本开源仓库的源码、示例与语料索引均经过脱敏与哈希化处理，不包含任何个人电脑路径、账户信息或密钥。
-- **密钥安全存储**：豆包语音 `API Key` 仅从环境变量 `DOUBAO_TTS_API_KEY` 或系统级安全凭据文件读取（Windows 采用当前用户 DPAPI 加密，macOS/Linux 采用 `0600` 权限私密文件），**绝不写入对话日志、项目 JSON 或 Git 仓库**。
-- **费用透明可控**：Skill 本身完全免费开源。豆包语音合成（TTS）与宿主环境中的 AI 生图工具可能产生对应服务商的 API 费用；Agent 在首次合成或批量生图前均会征求确认，绝不在后台静默发起循环重试扣费。
+- **密钥安全存储**：豆包语音 `API Key` 仅从环境变量 `DOUBAO_TTS_API_KEY`，小米 MiMo 的 `MIMO_API_KEY`，或系统级安全凭据文件读取（Windows 采用当前用户 DPAPI 加密，macOS/Linux 采用 `0600` 权限私密文件），**绝不写入对话日志、项目 JSON 或 Git 仓库**。
+- **费用透明可控**：Skill 本身完全免费开源。豆包语音合成（TTS）、小米 MiMo TTS 与宿主环境中的 AI 生图工具可能产生对应服务商的 API 费用；Agent 在首次合成或批量生图前均会征求确认，绝不在后台静默发起循环重试扣费。
 
 ---
 
@@ -294,6 +299,7 @@ Story Studio 的诞生离不开以下优秀开源项目与基础设施的支持�
 - **[OpenAI / imagegen](https://github.com/openai/skills/tree/main/skills/.system/imagegen)**：提供图像生成工作流协作参考。
 - **[Astral / uv](https://github.com/astral-sh/uv)**、**[Node.js](https://nodejs.org/)**、**[FFmpeg](https://ffmpeg.org/)**、**[python-websockets](https://github.com/python-websockets/websockets)**、**[Pillow](https://python-pillow.github.io/)**、**[NumPy](https://numpy.org/)**：提供坚实的跨平台环境管理与多媒体处理底座。
 - **[火山引擎 / 豆包语音大模型](https://docs.volcengine.com/docs/DoubaoVoice/bidirectional-streaming-text-to-speech-websocket?lang=zh)**：提供自然流畅的中文语音合成服务支持。
+- **[Xiaomi MiMo 开放平台](https://mimo.mi.com/docs/zh-CN/quick-start/usage-guide/audio/speech-synthesis-v2.5)**：提供 OpenAI 兼容的 MiMo-V2.5-TTS 语音合成服务支持。
 
 ---
 

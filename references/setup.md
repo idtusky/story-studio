@@ -9,7 +9,7 @@
 | write | 写稿、核史、选题、计数 | 需要脚本时配置Python；文字创作不依赖媒体工具 |
 | storyboard | 纯文本分镜与提示词 | 同上；口播时间对齐另加asr |
 | images | 实际生图 | 复用宿主工具；按需安装可选imagegen指导，单独验证图像工具权限 |
-| tts | 豆包MP3配音 | Python、websockets==15.0.1、FFmpeg/ffprobe；用户的Key、音色和模型资源另按[配音配置](doubao-voice.md)引导 |
+| tts | TTS配音MP3（豆包/MiMo） | Python、websockets==15.0.1（豆包）、FFmpeg/ffprobe；用户的Key和音色参数另按[配音配置](voice.md)引导 |
 | asr | 最终配音转录 | Python、Node.js LTS及npm、Coli、FFmpeg与ffprobe |
 | draft | 已有素材生成剪映草稿 | Python、pyJianYingDraft==0.3.1、Pillow、NumPy、原生libmediainfo、FFmpeg与ffprobe、草稿目录 |
 
@@ -57,6 +57,6 @@ JY_PROJECTS_ROOT、COLI_BIN可覆盖对应工具与目录。导出、渲染和�
 
 ready只说明所选依赖检查通过，不代表生图授权已获得、ASR模型已下载或草稿已在剪映验收。当前完整制作链以Windows桌面中国剪映为目标；macOS/Linux原生安装入口与生成文件能力不等于完整剪映桌面导出已验证。实际作品仍须检查素材、时间轴、关键帧和目标剪映中的预览。
 
-tts依赖就绪也不代表豆包Key、额度和音色已可用；继续执行[语音配置引导](doubao-voice.md)，不能把安装成功当作一次收费API验证已通过。
+tts依赖就绪也不代表所选供应商的Key、额度和音色已可用；继续执行[语音配置引导](voice.md)，不能把安装成功当作一次收费API验证已通过。
 
 来源：[uv管理Python](https://docs.astral.sh/uv/guides/install-python/)、[Node.js](https://nodejs.org/en/download)、[FFmpeg](https://ffmpeg.org/download.html)、[Gyan构建](https://www.gyan.dev/ffmpeg/builds/)、[WinGet清单](https://github.com/microsoft/winget-pkgs/tree/master/manifests/b/ByteDance/JianyingPro)、[pyJianYingDraft](https://pypi.org/project/pyJianYingDraft/0.3.1/)、[Coli](https://github.com/marswaveai/coli)、[imagegen](https://github.com/openai/skills/tree/main/skills/.system/imagegen)。
