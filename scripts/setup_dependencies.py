@@ -144,13 +144,17 @@ def inspect(features: set[str], python: Path,
                 add("draft Python imports", True, False, detail)
     voice_configuration_required = []
     if "tts" in features:
-        from voice_settings import api_key_present, load_profile
-        if not api_key_present():
-            voice_configuration_required.append("Doubao speech API key (secure input)")
-        try:
-            load_profile()
-        except (OSError, ValueError):
-            voice_configuration_required.append("speaker ID and matching model resource_id")
+        from voice_settings import PROVIDERS, api_key_present, load_profile
+        for provider in PROVIDERS:
+            try:
+                profile_ready = bool(load_profile(provider))
+            except (OSError, ValueError):
+                profile_ready = False
+            if not profile_ready:
+                voice_configuration_required.append(
+                    f"{provider} voice profile (speaker and model, or MiMo model and voice)")
+            elif not api_key_present(provider):
+                voice_configuration_required.append(f"{provider} speech API key (secure input)")
     return {"ready": all(row["ready"] for row in rows if row["required"]),
             "features": sorted(features), "checks": rows,
             "voice_configuration_required": voice_configuration_required,

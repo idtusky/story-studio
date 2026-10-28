@@ -211,7 +211,7 @@ def main() -> int:
         if not text.strip() or args.output.suffix.lower() != ".mp3":
             raise TtsError("A nonempty narration file and .mp3 output are required")
         profile = (validate_profile({"speaker": args.speaker, "resource_id": args.resource_id, "model": args.model})
-                   if args.speaker or args.resource_id or args.model else load_profile())
+                   if args.speaker or args.resource_id or args.model else load_profile("doubao"))
         report = {"voice": profile, "text_sha256": hashlib.sha256(text.encode()).hexdigest(),
                   "characters": len(text), "protocol": "doubao-v3-bidirectional-websocket"}
         if args.dry_run:
